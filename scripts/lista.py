@@ -82,6 +82,9 @@ def merger_playlist():
             response.raise_for_status()
             playlist = response.text
         else:
+            if not os.path.exists(source):
+                print(f"[AVVISO] Playlist non trovata, skip: {source}")
+                return ""
             with open(source, 'r', encoding='utf-8') as f:
                 playlist = f.read()
         
@@ -109,7 +112,7 @@ def merger_playlist():
     # 2. Scarica le altre playlist
     print("Download delle altre playlist...")
     
-    canali_daddy_flag = os.getenv("CANALI_DADDY", "no").strip().lower()
+    canali_daddy_flag = os.getenv("CANALI_DADDY", "si").strip().lower()
     if canali_daddy_flag == "si":
         playlist_eventi = download_playlist(url_eventi, append_params=True)
     else:
@@ -194,6 +197,9 @@ def merger_playlistworld():
             response.raise_for_status()
             playlist = response.text
         else:
+            if not os.path.exists(source):
+                print(f"[AVVISO] Playlist non trovata, skip: {source}")
+                return ""
             with open(source, 'r', encoding='utf-8') as f:
                 playlist = f.read()
         
@@ -221,7 +227,7 @@ def merger_playlistworld():
     # 2. Scarica le altre playlist
     print("Download delle altre playlist...")
     
-    canali_daddy_flag = os.getenv("CANALI_DADDY", "no").strip().lower()
+    canali_daddy_flag = os.getenv("CANALI_DADDY", "si").strip().lower()
     if canali_daddy_flag == "si":
         playlist_eventi = download_playlist(url_eventi, append_params=True)
     else:
@@ -314,7 +320,7 @@ def epg_merger():
                 root_finale.append(element)
 
     # Check CANALI_DADDY flag before processing eventi_dlhd.xml
-    canali_daddy_flag = os.getenv("CANALI_DADDY", "no").strip().lower()
+    canali_daddy_flag = os.getenv("CANALI_DADDY", "si").strip().lower()
     if canali_daddy_flag == "si":
         # Aggiungere eventi_dlhd.xml da file locale
         if os.path.exists(path_eventi_dlhd):
@@ -386,7 +392,7 @@ def eventi_dlhd_m3u8_generator_world():
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
 
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.top"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.st"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json")
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u")
     HEADERS = { 
@@ -972,7 +978,7 @@ def eventi_dlhd_m3u8_generator():
 
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.top"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.st"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json") # Cache in scripts
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u") # Output in main dir
      
@@ -1530,7 +1536,7 @@ def schedule_extractor():
     # Carica le variabili d'ambiente dal file .env
     load_dotenv()
     
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.top"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.st"
     
     def html_to_json(html_content):
         """Converte il contenuto HTML della programmazione in formato JSON."""
@@ -2020,7 +2026,7 @@ def epg_eventi_dlhd_generator_world(json_file_path, output_file_path="eventi_dlh
             try:
                 date_str_from_key = date_key.split(' - ')[0]
                 date_str_cleaned = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_str_from_key)
-                event_date_part = datetime.strptime(date_str_cleaned, "%A %d %b %Y").date()
+                event_date_part = datetime.strptime(date_str_cleaned, "%A %d %B %Y").date()
             except ValueError as e:
                 print(f"[!] Errore nel parsing della data EPG: '{date_str_from_key}'. Errore: {e}")
                 continue
@@ -2274,7 +2280,7 @@ def epg_eventi_dlhd_generator(json_file_path, output_file_path="eventi_dlhd.xml"
             try:
                 date_str_from_key = date_key.split(' - ')[0]
                 date_str_cleaned = re.sub(r'(\d+)(st|nd|rd|th)', r'\1', date_str_from_key)
-                event_date_part = datetime.strptime(date_str_cleaned, "%A %d %b %Y").date()
+                event_date_part = datetime.strptime(date_str_cleaned, "%A %d %B %Y").date()
             except ValueError as e:
                 print(f"[!] Errore nel parsing della data EPG: '{date_str_from_key}'. Errore: {e}")
                 continue
@@ -2437,8 +2443,8 @@ def italy_channels():
     from bs4 import BeautifulSoup
 
     # Variabile d'ambiente per controllare i canali Daddylive
-    CANALI_DADDY = os.getenv("CANALI_DADDY", "no").strip().lower() == "si"
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.top"
+    CANALI_DADDY = os.getenv("CANALI_DADDY", "si").strip().lower() == "si"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.st"
 
     def getAuthSignature():
         headers = {
@@ -3134,11 +3140,22 @@ def italy_channels():
                 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
             }
             
-            response = requests.get(url, headers=headers, timeout=15, verify=False)
-            response.raise_for_status()
-            
+            try:
+                response = requests.get(url, headers=headers, timeout=15)
+                response.raise_for_status()
+                html = response.text
+            except Exception as e:
+                print(f"[WARN] requests fallito per {url}: {e}")
+                from playwright.sync_api import sync_playwright
+                with sync_playwright() as p:
+                    browser = p.chromium.launch(headless=True)
+                    page = browser.new_page()
+                    page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                    page.wait_for_timeout(5000)
+                    html = page.content()
+                    browser.close()
             # Parsa l'HTML
-            soup = BeautifulSoup(response.text, 'html.parser')
+            soup = BeautifulSoup(html, 'html.parser')
             cards = soup.find_all('a', class_='card')
             
             print(f"Trovati {len(cards)} canali nella pagina HTML di Daddylive.")
@@ -3352,7 +3369,7 @@ def sportsonline():
     import datetime
     
     # URL del file di programmazione
-    PROG_URL = "https://sportsonline.sn/prog.txt"
+    PROG_URL = "https://sportsonline.st/prog.txt"
     # Lingua che vogliamo cercare
     TARGET_LANGUAGE = "ITALIAN"
     
@@ -3383,14 +3400,24 @@ def sportsonline():
         print(f"Oggi è {day_to_filter}, verranno cercati solo gli eventi_dlhd di oggi.")
     
         print(f"1. Scarico la programmazione da: {PROG_URL}")
+        from playwright.sync_api import sync_playwright
+		
         try:
-            response = requests.get(PROG_URL, timeout=10)
-            response.raise_for_status()
-        except requests.exceptions.RequestException as e:
-            print(f"[ERRORE FATALE] Impossibile scaricare il file di programmazione: {e}")
+            with sync_playwright() as p:
+                browser = p.chromium.launch(headless=True)
+                context = browser.new_context(
+                    ignore_https_errors=True,
+                    user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+                )
+                page = context.new_page()
+                page.goto(PROG_URL, wait_until="domcontentloaded", timeout=30000)
+                page.wait_for_timeout(5000)
+                content = page.locator("body").inner_text()
+                browser.close()
+        except Exception as e:
+            print(f"[ERRORE FATALE] Impossibile scaricare il file di programmazione con Playwright: {e}")
             return
-    
-        lines = response.text.splitlines()
+        lines = content.splitlines()
     
         print("\n2. Cerco i canali in lingua italiana...")
         italian_channels = get_italian_channels(lines)
@@ -3403,7 +3430,7 @@ def sportsonline():
             playlist_entries.append({
                 "name": "NESSUN EVENTO", 
                 "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-                "referrer": "https://sportsonline.sn/",
+                "referrer": "https://sportsonline.st/",
                 "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
             })
         else:
@@ -3467,7 +3494,7 @@ def sportsonline():
                     playlist_entries.append({
                         "name": event_name,
                         "url": page_url,
-                        "referrer": "https://sportsonline.sn/",
+                        "referrer": "https://sportsonline.st/",
                         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                     })
             
@@ -3478,7 +3505,7 @@ def sportsonline():
                 playlist_entries.append({
                     "name": "NESSUN EVENTO", 
                     "url": "https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8",
-                    "referrer": "https://sportsonline.sn/",
+                    "referrer": "https://sportsonline.st/",
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                 })
     
@@ -3501,7 +3528,7 @@ def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
     Cerca i file .m3u8 nei siti specificati per i canali daddy e tennis
     """
     # Carica la variabile d'ambiente LINK_DADDY
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlstreams.top"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.st"
     # Restituisce direttamente l'URL .php come richiesto
     embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}"
     print(f"URL .php per il canale Daddylive {channel_id}: {embed_url}")
@@ -3527,7 +3554,7 @@ def remover_cache():
 def main():
     # load_daddy_cache()  # RIMOSSO: non più definita né necessaria
     try:
-        canali_daddy_flag = os.getenv("CANALI_DADDY", "no").strip().lower()
+        canali_daddy_flag = os.getenv("CANALI_DADDY", "si").strip().lower()
         if canali_daddy_flag == "si":
             try:
                 schedule_success = schedule_extractor()
