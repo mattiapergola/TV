@@ -1,0 +1,71 @@
+name: Esegui lista.py
+
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 00:00 Italia in CEST, 22:00 UTC
+  workflow_dispatch:
+
+jobs:
+  run-lista:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dipendenze di sistema
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libnss3 \
+            libatk1.0-0 \
+            libatk-bridge2.0-0 \
+            libcups2 \
+            libdrm2 \
+            libxkbcommon0 \
+            libxcomposite1 \
+            libxdamage1 \
+            libxfixes3 \
+            libxrandr2 \
+            libgbm1 \
+            libasound2t64 \
+            libpango-1.0-0 \
+            libcairo2 \
+            libatspi2.0-0
+
+      - name: Install dipendenze Python
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 python-dotenv playwright
+
+      - name: Installa browser Playwright
+        run: |
+          python -m playwright install chromium
+
+      - name: Crea file .env
+        run: |
+          cat > .env << 'EOF'
+          CANALIDADDY=${{ secrets.CANALIDADDY }}
+          EVENTIDLHDEN=${{ secrets.EVENTIDLHDEN }}
+          LINKDADDY=${{ secrets.LINKDADDY }}
+          NOMEREPO=${{ secrets.NOMEREPO }}
+          NOMEGITHUB=${{ secrets.NOMEGITHUB }}
+          EOF
+
+      - name: Esegui script
+        run: |
+          python scripts/lista.py
+
+      - name: Commit output aggiornati
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Aggiornamento automatico playlist e EPG"
+          git push
