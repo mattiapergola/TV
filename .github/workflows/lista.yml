@@ -1,17 +1,24 @@
-name: Esegui lista.py
+name: Aggiorna playlist TV
+
+permissions:
+  contents: write
 
 on:
   schedule:
-    - cron: "0 22 * * *"   # 00:00 Italia in CEST, 22:00 UTC
+    - cron: "0 22 * * *"   # 00:00 Italia in estate (CEST) = 22:00 UTC
   workflow_dispatch:
+
+concurrency:
+  group: aggiorna-playlist-tv
+  cancel-in-progress: false
 
 jobs:
   run-lista:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -19,38 +26,26 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dipendenze di sistema
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y \
-            libnss3 \
-            libatk1.0-0 \
-            libatk-bridge2.0-0 \
-            libcups2 \
-            libdrm2 \
-            libxkbcommon0 \
-            libxcomposite1 \
-            libxdamage1 \
-            libxfixes3 \
-            libxrandr2 \
-            libgbm1 \
-            libasound2t64 \
-            libpango-1.0-0 \
-            libcairo2 \
-            libatspi2.0-0
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
 
       - name: Install dipendenze Python
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 python-dotenv playwright
 
-      - name: Installa browser Playwright
+      - name: Install Chromium per Playwright
         run: |
-          python -m playwright install chromium
+          python -m playwright install --with-deps chromium
 
-      - name: Crea file .env
+      - name: Crea .env
         run: |
-          cat > .env << 'EOF'
+          cat > .env <<EOF
           CANALIDADDY=${{ secrets.CANALIDADDY }}
           EVENTIDLHDEN=${{ secrets.EVENTIDLHDEN }}
           LINKDADDY=${{ secrets.LINKDADDY }}
@@ -58,11 +53,11 @@ jobs:
           NOMEGITHUB=${{ secrets.NOMEGITHUB }}
           EOF
 
-      - name: Esegui script
+      - name: Esegui lista.py
         run: |
           python scripts/lista.py
 
-      - name: Commit output aggiornati
+      - name: Commit e push file aggiornati
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
