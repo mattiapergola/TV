@@ -37,7 +37,7 @@ jobs:
       - name: Install dipendenze Python
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 python-dotenv playwright
+          pip install requests beautifulsoup4 python-dotenv playwright python-dateutil Pillow
 
       - name: Install Chromium per Playwright
         run: |
