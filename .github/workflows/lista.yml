@@ -5,7 +5,8 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 22 * * *"   # 00:00 Italia in estate (CEST) = 22:00 UTC
+    - cron: "0 6 * * *" # 08:00 Italia (CEST)
+    - cron: "0 18 * * *" # 20:00 Italia (CEST)
   workflow_dispatch:
 
 concurrency:
