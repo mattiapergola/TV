@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="FIFAWorldCup2026">
-    <display-name>FIFA World Cup 2026</display-name>
-  </channel>
-  <programme start="20260718000000 +0200" stop="20260718180000 +0200" channel="FIFAWorldCup2026">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">FIFA World Cup 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718180000 +0200" stop="20260718200000 +0200" channel="FIFAWorldCup2026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA World Cup 2026</desc>
-    <category lang="it">⚽ FIFA World Cup 2026 🏆</category>
-  </programme>
-  <programme start="20260718000000 +0200" stop="20260718180000 +0200" channel="FIFAWorldCup2026">
-    <title lang="it">Inizia alle 18:00.</title>
-    <desc lang="it">FIFA World Cup 2026.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718180000 +0200" stop="20260718200000 +0200" channel="FIFAWorldCup2026">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">FIFA World Cup 2026</desc>
-    <category lang="it">⚽ FIFA World Cup 2026 🏆</category>
-  </programme>
   <channel id="WorldCup3rdPlaceFrancevsEngland">
     <display-name>⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England</display-name>
   </channel>
@@ -36,90 +13,15 @@
     <desc lang="it">⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="Formula2BudapestSprintRace">
-    <display-name>🏎️ Formula 2 : Budapest Sprint Race</display-name>
-  </channel>
-  <programme start="20260718000000 +0200" stop="20260718141500 +0200" channel="Formula2BudapestSprintRace">
-    <title lang="it">Inizia alle 14:15.</title>
-    <desc lang="it">🏎️ Formula 2 : Budapest Sprint Race.</desc>
+  <programme start="20260718000000 +0200" stop="20260718230000 +0200" channel="WorldCup3rdPlaceFrancevsEngland">
+    <title lang="it">Inizia alle 23:00.</title>
+    <desc lang="it">⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260718141500 +0200" stop="20260718161500 +0200" channel="Formula2BudapestSprintRace">
+  <programme start="20260718230000 +0200" stop="20260719010000 +0200" channel="WorldCup3rdPlaceFrancevsEngland">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 2 : Budapest Sprint Race</desc>
-    <category lang="it">🏎️ Motorsport 🏁</category>
-  </programme>
-  <channel id="Formula1MotampChandonBelgianGPQualifying">
-    <display-name>🏎️ Formula 1 : Moët &amp; Chandon Belgian GP - Qualifying</display-name>
-  </channel>
-  <programme start="20260718000000 +0200" stop="20260718160000 +0200" channel="Formula1MotampChandonBelgianGPQualifying">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Moët &amp; Chandon Belgian GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718160000 +0200" stop="20260718180000 +0200" channel="Formula1MotampChandonBelgianGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Moët &amp; Chandon Belgian GP - Qualifying</desc>
-    <category lang="it">🏎️ Motorsport 🏁</category>
-  </programme>
-  <programme start="20260718000000 +0200" stop="20260718160000 +0200" channel="Formula1MotampChandonBelgianGPQualifying">
-    <title lang="it">Inizia alle 16:00.</title>
-    <desc lang="it">🏎️ Formula 1 : Moët &amp; Chandon Belgian GP - Qualifying.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718160000 +0200" stop="20260718180000 +0200" channel="Formula1MotampChandonBelgianGPQualifying">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏎️ Formula 1 : Moët &amp; Chandon Belgian GP - Qualifying</desc>
-    <category lang="it">🏎️ Motorsport 🏁</category>
-  </programme>
-  <channel id="TourdeFranceStage14Mountain155km3800m">
-    <display-name>🚴 Tour de France : Stage 14 Mountain | 155 km | 3800 m</display-name>
-  </channel>
-  <programme start="20260718000000 +0200" stop="20260718133000 +0200" channel="TourdeFranceStage14Mountain155km3800m">
-    <title lang="it">Inizia alle 13:30.</title>
-    <desc lang="it">🚴 Tour de France : Stage 14 Mountain | 155 km | 3800 m.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718133000 +0200" stop="20260718153000 +0200" channel="TourdeFranceStage14Mountain155km3800m">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Tour de France : Stage 14 Mountain | 155 km | 3800 m</desc>
-    <category lang="it">🚴 Cycling 🏆</category>
-  </programme>
-  <channel id="NationsChampionshipFijivsScotland">
-    <display-name>🇫🇯 Nations Championship : Fiji vs 🏴 Scotland</display-name>
-  </channel>
-  <programme start="20260718000000 +0200" stop="20260718151000 +0200" channel="NationsChampionshipFijivsScotland">
-    <title lang="it">Inizia alle 15:10.</title>
-    <desc lang="it">🇫🇯 Nations Championship : Fiji vs 🏴 Scotland.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718151000 +0200" stop="20260718171000 +0200" channel="NationsChampionshipFijivsScotland">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🇫🇯 Nations Championship : Fiji vs 🏴 Scotland</desc>
-    <category lang="it">🏉 Rugby Union 🏆</category>
-  </programme>
-  <channel id="NationsChampionshipSouthAfricavsWales">
-    <display-name>🇿🇦 Nations Championship : South Africa vs 🏴 Wales</display-name>
-  </channel>
-  <programme start="20260718000000 +0200" stop="20260718174000 +0200" channel="NationsChampionshipSouthAfricavsWales">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">🇿🇦 Nations Championship : South Africa vs 🏴 Wales.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718174000 +0200" stop="20260718194000 +0200" channel="NationsChampionshipSouthAfricavsWales">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🇿🇦 Nations Championship : South Africa vs 🏴 Wales</desc>
-    <category lang="it">🏉 Rugby Union 🏆</category>
-  </programme>
-  <programme start="20260718000000 +0200" stop="20260718174000 +0200" channel="NationsChampionshipSouthAfricavsWales">
-    <title lang="it">Inizia alle 17:40.</title>
-    <desc lang="it">🇿🇦 Nations Championship : South Africa vs 🏴 Wales.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260718174000 +0200" stop="20260718194000 +0200" channel="NationsChampionshipSouthAfricavsWales">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🇿🇦 Nations Championship : South Africa vs 🏴 Wales</desc>
-    <category lang="it">🏉 Rugby Union 🏆</category>
+    <desc lang="it">⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England</desc>
+    <category lang="it">All Soccer Events ⚽</category>
   </programme>
   <channel id="NationsChampionshipArgentinavsEngland">
     <display-name>🇦🇷 Nations Championship : Argentina vs 🏴 England</display-name>
