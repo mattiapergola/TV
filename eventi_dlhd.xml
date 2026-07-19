@@ -1,49 +1,193 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WorldCup3rdPlaceFrancevsEngland">
-    <display-name>⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England</display-name>
+  <channel id="FIFAWorldCup2026">
+    <display-name>FIFA World Cup 2026</display-name>
   </channel>
-  <programme start="20260718000000 +0200" stop="20260718230000 +0200" channel="WorldCup3rdPlaceFrancevsEngland">
-    <title lang="it">Inizia alle 23:00.</title>
-    <desc lang="it">⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England.</desc>
+  <programme start="20260719000000 +0200" stop="20260719180000 +0200" channel="FIFAWorldCup2026">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">FIFA World Cup 2026.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260718230000 +0200" stop="20260719010000 +0200" channel="WorldCup3rdPlaceFrancevsEngland">
+  <programme start="20260719180000 +0200" stop="20260719200000 +0200" channel="FIFAWorldCup2026">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England</desc>
-    <category lang="it">All Soccer Events ⚽</category>
+    <desc lang="it">FIFA World Cup 2026</desc>
+    <category lang="it">⚽ FIFA World Cup 2026 🏆</category>
   </programme>
-  <programme start="20260718000000 +0200" stop="20260718230000 +0200" channel="WorldCup3rdPlaceFrancevsEngland">
-    <title lang="it">Inizia alle 23:00.</title>
-    <desc lang="it">⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England.</desc>
+  <programme start="20260719000000 +0200" stop="20260719180000 +0200" channel="FIFAWorldCup2026">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">FIFA World Cup 2026.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260718230000 +0200" stop="20260719010000 +0200" channel="WorldCup3rdPlaceFrancevsEngland">
+  <programme start="20260719180000 +0200" stop="20260719200000 +0200" channel="FIFAWorldCup2026">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England</desc>
-    <category lang="it">All Soccer Events ⚽</category>
+    <desc lang="it">FIFA World Cup 2026</desc>
+    <category lang="it">⚽ FIFA World Cup 2026 🏆</category>
   </programme>
-  <channel id="NationsChampionshipArgentinavsEngland">
-    <display-name>🇦🇷 Nations Championship : Argentina vs 🏴 England</display-name>
+  <channel id="FIFAWorldCupFinalSpainvsArgentina">
+    <display-name>⚽ FIFA World Cup Final : 🇪🇸 Spain vs 🇦🇷 Argentina</display-name>
   </channel>
-  <programme start="20260718000000 +0200" stop="20260718210000 +0200" channel="NationsChampionshipArgentinavsEngland">
+  <programme start="20260719000000 +0200" stop="20260719210000 +0200" channel="FIFAWorldCupFinalSpainvsArgentina">
     <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">🇦🇷 Nations Championship : Argentina vs 🏴 England.</desc>
+    <desc lang="it">⚽ FIFA World Cup Final : 🇪🇸 Spain vs 🇦🇷 Argentina.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260718210000 +0200" stop="20260718230000 +0200" channel="NationsChampionshipArgentinavsEngland">
+  <programme start="20260719210000 +0200" stop="20260719230000 +0200" channel="FIFAWorldCupFinalSpainvsArgentina">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🇦🇷 Nations Championship : Argentina vs 🏴 England</desc>
-    <category lang="it">🏉 Rugby Union 🏆</category>
+    <desc lang="it">⚽ FIFA World Cup Final : 🇪🇸 Spain vs 🇦🇷 Argentina</desc>
+    <category lang="it">Soccer</category>
   </programme>
-  <programme start="20260718000000 +0200" stop="20260718210000 +0200" channel="NationsChampionshipArgentinavsEngland">
+  <programme start="20260719000000 +0200" stop="20260719210000 +0200" channel="FIFAWorldCupFinalSpainvsArgentina">
     <title lang="it">Inizia alle 21:00.</title>
-    <desc lang="it">🇦🇷 Nations Championship : Argentina vs 🏴 England.</desc>
+    <desc lang="it">⚽ FIFA World Cup Final : 🇪🇸 Spain vs 🇦🇷 Argentina.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260718210000 +0200" stop="20260718230000 +0200" channel="NationsChampionshipArgentinavsEngland">
+  <programme start="20260719210000 +0200" stop="20260719230000 +0200" channel="FIFAWorldCupFinalSpainvsArgentina">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🇦🇷 Nations Championship : Argentina vs 🏴 England</desc>
-    <category lang="it">🏉 Rugby Union 🏆</category>
+    <desc lang="it">⚽ FIFA World Cup Final : 🇪🇸 Spain vs 🇦🇷 Argentina</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20260719000000 +0200" stop="20260719210000 +0200" channel="FIFAWorldCupFinalSpainvsArgentina">
+    <title lang="it">Inizia alle 21:00.</title>
+    <desc lang="it">⚽ FIFA World Cup Final : 🇪🇸 Spain vs 🇦🇷 Argentina.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719210000 +0200" stop="20260719230000 +0200" channel="FIFAWorldCupFinalSpainvsArgentina">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ FIFA World Cup Final : 🇪🇸 Spain vs 🇦🇷 Argentina</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="ATPGstaadATPBastadWTAAthensWTAIaiSinglesFinalsATPKitzbhelEarlyRounds">
+    <display-name>🎾 ATP Gstaad • ATP Bastad • WTA Athens • WTA Iași : Singles Finals | ATP Kitzbühel : Early Rounds</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719113000 +0200" channel="ATPGstaadATPBastadWTAAthensWTAIaiSinglesFinalsATPKitzbhelEarlyRounds">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">🎾 ATP Gstaad • ATP Bastad • WTA Athens • WTA Iași : Singles Finals | ATP Kitzbühel : Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719113000 +0200" stop="20260719133000 +0200" channel="ATPGstaadATPBastadWTAAthensWTAIaiSinglesFinalsATPKitzbhelEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Gstaad • ATP Bastad • WTA Athens • WTA Iași : Singles Finals | ATP Kitzbühel : Early Rounds</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260719000000 +0200" stop="20260719113000 +0200" channel="ATPGstaadATPBastadWTAAthensWTAIaiSinglesFinalsATPKitzbhelEarlyRounds">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">🎾 ATP Gstaad • ATP Bastad • WTA Athens • WTA Iași : Singles Finals | ATP Kitzbühel : Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719113000 +0200" stop="20260719133000 +0200" channel="ATPGstaadATPBastadWTAAthensWTAIaiSinglesFinalsATPKitzbhelEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Gstaad • ATP Bastad • WTA Athens • WTA Iași : Singles Finals | ATP Kitzbühel : Early Rounds</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="Formula3SpaFrancorchampsRace">
+    <display-name>🏎️ Formula 3 : 🇧🇪 Spa-Francorchamps Race</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719083000 +0200" channel="Formula3SpaFrancorchampsRace">
+    <title lang="it">Inizia alle 08:30.</title>
+    <desc lang="it">🏎️ Formula 3 : 🇧🇪 Spa-Francorchamps Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719083000 +0200" stop="20260719103000 +0200" channel="Formula3SpaFrancorchampsRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 3 : 🇧🇪 Spa-Francorchamps Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula2BudapestRace">
+    <display-name>🏎️ Formula 2 : 🇭🇺 Budapest Race</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719100000 +0200" channel="Formula2BudapestRace">
+    <title lang="it">Inizia alle 10:00.</title>
+    <desc lang="it">🏎️ Formula 2 : 🇭🇺 Budapest Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719100000 +0200" stop="20260719120000 +0200" channel="Formula2BudapestRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 2 : 🇭🇺 Budapest Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1BelgianGrandPrixGrandPrixSunday">
+    <display-name>🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Grand Prix Sunday</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719140000 +0200" channel="Formula1BelgianGrandPrixGrandPrixSunday">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719140000 +0200" stop="20260719160000 +0200" channel="Formula1BelgianGrandPrixGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Grand Prix Sunday</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20260719000000 +0200" stop="20260719140000 +0200" channel="Formula1BelgianGrandPrixGrandPrixSunday">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Grand Prix Sunday.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719140000 +0200" stop="20260719160000 +0200" channel="Formula1BelgianGrandPrixGrandPrixSunday">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Grand Prix Sunday</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1BelgianGrandPrixRace">
+    <display-name>🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Race</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719150000 +0200" channel="Formula1BelgianGrandPrixRace">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719150000 +0200" stop="20260719170000 +0200" channel="Formula1BelgianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20260719000000 +0200" stop="20260719150000 +0200" channel="Formula1BelgianGrandPrixRace">
+    <title lang="it">Inizia alle 15:00.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719150000 +0200" stop="20260719170000 +0200" channel="Formula1BelgianGrandPrixRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : 🇧🇪 Belgian Grand Prix – Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="TourdeFranceStage15Mountain184km3900mElevation">
+    <display-name>🚴 Tour de France : 🇫🇷 Stage 15 (Mountain) – 184 km | 3900 m Elevation</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719133000 +0200" channel="TourdeFranceStage15Mountain184km3900mElevation">
+    <title lang="it">Inizia alle 13:30.</title>
+    <desc lang="it">🚴 Tour de France : 🇫🇷 Stage 15 (Mountain) – 184 km | 3900 m Elevation.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719133000 +0200" stop="20260719153000 +0200" channel="TourdeFranceStage15Mountain184km3900mElevation">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Tour de France : 🇫🇷 Stage 15 (Mountain) – 184 km | 3900 m Elevation</desc>
+    <category lang="it">Cycling 🚵‍♀️</category>
+  </programme>
+  <channel id="MalagaP1WomensFinal">
+    <display-name>🎾 Malaga P1 : Women's Final</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719140000 +0200" channel="MalagaP1WomensFinal">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎾 Malaga P1 : Women's Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719140000 +0200" stop="20260719160000 +0200" channel="MalagaP1WomensFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 Malaga P1 : Women's Final</desc>
+    <category lang="it">Squash 🎾</category>
+  </programme>
+  <channel id="MalagaP1MensFinal">
+    <display-name>🎾 Malaga P1 : Men's Final</display-name>
+  </channel>
+  <programme start="20260719000000 +0200" stop="20260719160000 +0200" channel="MalagaP1MensFinal">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🎾 Malaga P1 : Men's Final.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260719160000 +0200" stop="20260719180000 +0200" channel="MalagaP1MensFinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 Malaga P1 : Men's Final</desc>
+    <category lang="it">Squash 🎾</category>
   </programme>
 </tv>
