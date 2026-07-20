@@ -1,26 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ATPKitzbhelATPEstorilWTAHamburgampWTAPragueEarlyRounds">
-    <display-name>🎾 ATP Kitzbühel, ATP Estoril, WTA Hamburg &amp; WTA Prague – Early Rounds</display-name>
-  </channel>
-  <programme start="20260720000000 +0200" stop="20260720110000 +0200" channel="ATPKitzbhelATPEstorilWTAHamburgampWTAPragueEarlyRounds">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🎾 ATP Kitzbühel, ATP Estoril, WTA Hamburg &amp; WTA Prague – Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260720110000 +0200" stop="20260720130000 +0200" channel="ATPKitzbhelATPEstorilWTAHamburgampWTAPragueEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 ATP Kitzbühel, ATP Estoril, WTA Hamburg &amp; WTA Prague – Early Rounds</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260720000000 +0200" stop="20260720110000 +0200" channel="ATPKitzbhelATPEstorilWTAHamburgampWTAPragueEarlyRounds">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🎾 ATP Kitzbühel, ATP Estoril, WTA Hamburg &amp; WTA Prague – Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260720110000 +0200" stop="20260720130000 +0200" channel="ATPKitzbhelATPEstorilWTAHamburgampWTAPragueEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 ATP Kitzbühel, ATP Estoril, WTA Hamburg &amp; WTA Prague – Early Rounds</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
 </tv>
