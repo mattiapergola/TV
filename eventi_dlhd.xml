@@ -1,39 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ATP250KitzbhelATP250EstorilWTA250HamburgWTA250PragueEarlyRounds">
-    <display-name>🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds</display-name>
-  </channel>
-  <programme start="20260721000000 +0200" stop="20260721120000 +0200" channel="ATP250KitzbhelATP250EstorilWTA250HamburgWTA250PragueEarlyRounds">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260721120000 +0200" stop="20260721140000 +0200" channel="ATP250KitzbhelATP250EstorilWTA250HamburgWTA250PragueEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <programme start="20260721000000 +0200" stop="20260721120000 +0200" channel="ATP250KitzbhelATP250EstorilWTA250HamburgWTA250PragueEarlyRounds">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260721120000 +0200" stop="20260721140000 +0200" channel="ATP250KitzbhelATP250EstorilWTA250HamburgWTA250PragueEarlyRounds">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 ATP 250 Kitzbühel • ATP 250 Estoril • WTA 250 Hamburg • WTA 250 Prague : Early Rounds</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="TourdeFrance2026Stage16IndividualTimeTrialITT26km500melevationgain">
-    <display-name>🚴 Tour de France 2026 🇫🇷 Stage 16 – Individual Time Trial (ITT) | 📏 26 km | ⛰️ 500 m elevation gain</display-name>
-  </channel>
-  <programme start="20260721000000 +0200" stop="20260721130000 +0200" channel="TourdeFrance2026Stage16IndividualTimeTrialITT26km500melevationgain">
-    <title lang="it">Inizia alle 13:00.</title>
-    <desc lang="it">🚴 Tour de France 2026 🇫🇷 Stage 16 – Individual Time Trial (ITT) | 📏 26 km | ⛰️ 500 m elevation gain.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260721130000 +0200" stop="20260721150000 +0200" channel="TourdeFrance2026Stage16IndividualTimeTrialITT26km500melevationgain">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 Tour de France 2026 🇫🇷 Stage 16 – Individual Time Trial (ITT) | 📏 26 km | ⛰️ 500 m elevation gain</desc>
-    <category lang="it">Cycling 🚵</category>
-  </programme>
 </tv>
