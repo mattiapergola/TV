@@ -1,3 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ClubFriendlyNapolivsArezzo">
+    <display-name>⚽ Club Friendly : Napoli vs Arezzo</display-name>
+  </channel>
+  <programme start="20260722000000 +0200" stop="20260722180000 +0200" channel="ClubFriendlyNapolivsArezzo">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ Club Friendly : Napoli vs Arezzo.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260722180000 +0200" stop="20260722200000 +0200" channel="ClubFriendlyNapolivsArezzo">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ Club Friendly : Napoli vs Arezzo</desc>
+    <category lang="it">All Soccer Events ⚽</category>
+  </programme>
+  <channel id="ATPWTATennisKitzbhelATP250EstorilATP250HamburgWTA250ampPragueWTA250EarlyRounds">
+    <display-name>🎾 ATP/WTA Tennis : Kitzbühel ATP 250, Estoril ATP 250, Hamburg WTA 250 &amp; Prague WTA 250 – Early Rounds</display-name>
+  </channel>
+  <programme start="20260722000000 +0200" stop="20260722110000 +0200" channel="ATPWTATennisKitzbhelATP250EstorilATP250HamburgWTA250ampPragueWTA250EarlyRounds">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">🎾 ATP/WTA Tennis : Kitzbühel ATP 250, Estoril ATP 250, Hamburg WTA 250 &amp; Prague WTA 250 – Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260722110000 +0200" stop="20260722130000 +0200" channel="ATPWTATennisKitzbhelATP250EstorilATP250HamburgWTA250ampPragueWTA250EarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP/WTA Tennis : Kitzbühel ATP 250, Estoril ATP 250, Hamburg WTA 250 &amp; Prague WTA 250 – Early Rounds</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260722000000 +0200" stop="20260722110000 +0200" channel="ATPWTATennisKitzbhelATP250EstorilATP250HamburgWTA250ampPragueWTA250EarlyRounds">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">🎾 ATP/WTA Tennis : Kitzbühel ATP 250, Estoril ATP 250, Hamburg WTA 250 &amp; Prague WTA 250 – Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260722110000 +0200" stop="20260722130000 +0200" channel="ATPWTATennisKitzbhelATP250EstorilATP250HamburgWTA250ampPragueWTA250EarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP/WTA Tennis : Kitzbühel ATP 250, Estoril ATP 250, Hamburg WTA 250 &amp; Prague WTA 250 – Early Rounds</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="TourdeFranceStage17Flat175km2200m">
+    <display-name>🚴 Tour de France : Stage 17 – Flat | 175 km | 2200 m</display-name>
+  </channel>
+  <programme start="20260722000000 +0200" stop="20260722133500 +0200" channel="TourdeFranceStage17Flat175km2200m">
+    <title lang="it">Inizia alle 13:35.</title>
+    <desc lang="it">🚴 Tour de France : Stage 17 – Flat | 175 km | 2200 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260722133500 +0200" stop="20260722153500 +0200" channel="TourdeFranceStage17Flat175km2200m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Tour de France : Stage 17 – Flat | 175 km | 2200 m</desc>
+    <category lang="it">Cycling 🚵</category>
+  </programme>
 </tv>
