@@ -1,3 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
+  <channel id="ATP250KitzbhelQuarterfinalsATP250EstorilampWTA250HamburgampWTA250PragueEarlyRounds">
+    <display-name>🎾 ATP 250 Kitzbühel – Quarterfinals | ATP 250 Estoril &amp; WTA 250 Hamburg &amp; WTA 250 Prague – Early Rounds</display-name>
+  </channel>
+  <programme start="20260723000000 +0200" stop="20260723110000 +0200" channel="ATP250KitzbhelQuarterfinalsATP250EstorilampWTA250HamburgampWTA250PragueEarlyRounds">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">🎾 ATP 250 Kitzbühel – Quarterfinals | ATP 250 Estoril &amp; WTA 250 Hamburg &amp; WTA 250 Prague – Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260723110000 +0200" stop="20260723130000 +0200" channel="ATP250KitzbhelQuarterfinalsATP250EstorilampWTA250HamburgampWTA250PragueEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP 250 Kitzbühel – Quarterfinals | ATP 250 Estoril &amp; WTA 250 Hamburg &amp; WTA 250 Prague – Early Rounds</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260723000000 +0200" stop="20260723110000 +0200" channel="ATP250KitzbhelQuarterfinalsATP250EstorilampWTA250HamburgampWTA250PragueEarlyRounds">
+    <title lang="it">Inizia alle 11:00.</title>
+    <desc lang="it">🎾 ATP 250 Kitzbühel – Quarterfinals | ATP 250 Estoril &amp; WTA 250 Hamburg &amp; WTA 250 Prague – Early Rounds.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260723110000 +0200" stop="20260723130000 +0200" channel="ATP250KitzbhelQuarterfinalsATP250EstorilampWTA250HamburgampWTA250PragueEarlyRounds">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP 250 Kitzbühel – Quarterfinals | ATP 250 Estoril &amp; WTA 250 Hamburg &amp; WTA 250 Prague – Early Rounds</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="TourdeFranceStage18Mountain185km3900m">
+    <display-name>🚴 Tour de France : Stage 18 – Mountain | 185 km | 3900 m</display-name>
+  </channel>
+  <programme start="20260723000000 +0200" stop="20260723130000 +0200" channel="TourdeFranceStage18Mountain185km3900m">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🚴 Tour de France : Stage 18 – Mountain | 185 km | 3900 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260723130000 +0200" stop="20260723150000 +0200" channel="TourdeFranceStage18Mountain185km3900m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Tour de France : Stage 18 – Mountain | 185 km | 3900 m</desc>
+    <category lang="it">Cycling 🚵</category>
+  </programme>
 </tv>
