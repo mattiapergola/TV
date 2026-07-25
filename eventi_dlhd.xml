@@ -1,16 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="CommonwealthGamesDay1Session2EveningSessionGlasgow">
-    <display-name>🏊 Commonwealth Games – Day 1, Session 2 (Evening Session), Glasgow</display-name>
+  <channel id="ClubFriendlyCelticvsACMilan">
+    <display-name>⚽ 🏴 Club Friendly : Celtic 🏴 vs AC Milan 🇮🇹</display-name>
   </channel>
-  <programme start="20260724000000 +0200" stop="20260724200000 +0200" channel="CommonwealthGamesDay1Session2EveningSessionGlasgow">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">🏊 Commonwealth Games – Day 1, Session 2 (Evening Session), Glasgow.</desc>
+  <programme start="20260725000000 +0200" stop="20260725160000 +0200" channel="ClubFriendlyCelticvsACMilan">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Celtic 🏴 vs AC Milan 🇮🇹.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260724200000 +0200" stop="20260724220000 +0200" channel="CommonwealthGamesDay1Session2EveningSessionGlasgow">
+  <programme start="20260725160000 +0200" stop="20260725180000 +0200" channel="ClubFriendlyCelticvsACMilan">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏊 Commonwealth Games – Day 1, Session 2 (Evening Session), Glasgow</desc>
+    <desc lang="it">⚽ 🏴 Club Friendly : Celtic 🏴 vs AC Milan 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyBolognavsIraklisSaloniki">
+    <display-name>⚽ 🏴 Club Friendly : Bologna vs Iraklis Saloniki</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725160000 +0200" channel="ClubFriendlyBolognavsIraklisSaloniki">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Bologna vs Iraklis Saloniki.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725160000 +0200" stop="20260725180000 +0200" channel="ClubFriendlyBolognavsIraklisSaloniki">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🏴 Club Friendly : Bologna vs Iraklis Saloniki</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyTorinovsCittadella">
+    <display-name>⚽ 🇧🇪 Club Friendly : Torino vs Cittadella</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725170000 +0200" channel="ClubFriendlyTorinovsCittadella">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">⚽ 🇧🇪 Club Friendly : Torino vs Cittadella.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725170000 +0200" stop="20260725190000 +0200" channel="ClubFriendlyTorinovsCittadella">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇧🇪 Club Friendly : Torino vs Cittadella</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ClubFriendlyStandardLigevsJuventus">
+    <display-name>⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725200000 +0200" channel="ClubFriendlyStandardLigevsJuventus">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725200000 +0200" stop="20260725220000 +0200" channel="ClubFriendlyStandardLigevsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260725000000 +0200" stop="20260725200000 +0200" channel="ClubFriendlyStandardLigevsJuventus">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725200000 +0200" stop="20260725220000 +0200" channel="ClubFriendlyStandardLigevsJuventus">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🇧🇪 Club Friendly : Standard Liège 🇧🇪 vs Juventus 🇮🇹</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="ATPKitzbhelFinalampATPEstorilWTAHamburgWTAPragueSemifinals">
+    <display-name>🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725130000 +0200" channel="ATPKitzbhelFinalampATPEstorilWTAHamburgWTAPragueSemifinals">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725130000 +0200" stop="20260725150000 +0200" channel="ATPKitzbhelFinalampATPEstorilWTAHamburgWTAPragueSemifinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260725000000 +0200" stop="20260725130000 +0200" channel="ATPKitzbhelFinalampATPEstorilWTAHamburgWTAPragueSemifinals">
+    <title lang="it">Inizia alle 13:00.</title>
+    <desc lang="it">🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725130000 +0200" stop="20260725150000 +0200" channel="ATPKitzbhelFinalampATPEstorilWTAHamburgWTAPragueSemifinals">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 ATP Kitzbühel Final &amp; ATP Estoril / WTA Hamburg / WTA Prague Semi-finals</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="Formula3AWSHungarianGrandPrixSprintRace">
+    <display-name>🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725100500 +0200" channel="Formula3AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Inizia alle 10:05.</title>
+    <desc lang="it">🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725100500 +0200" stop="20260725120500 +0200" channel="Formula3AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20260725000000 +0200" stop="20260725100500 +0200" channel="Formula3AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Inizia alle 10:05.</title>
+    <desc lang="it">🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725100500 +0200" stop="20260725120500 +0200" channel="Formula3AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 3 : AWS Hungarian Grand Prix – Sprint Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1AWSHungarianGrandPrixPractice3">
+    <display-name>🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725123000 +0200" channel="Formula1AWSHungarianGrandPrixPractice3">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725123000 +0200" stop="20260725143000 +0200" channel="Formula1AWSHungarianGrandPrixPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20260725000000 +0200" stop="20260725123000 +0200" channel="Formula1AWSHungarianGrandPrixPractice3">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725123000 +0200" stop="20260725143000 +0200" channel="Formula1AWSHungarianGrandPrixPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : AWS Hungarian Grand Prix – Practice 3</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula2AWSHungarianGrandPrixSprintRace">
+    <display-name>🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725141500 +0200" channel="Formula2AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725141500 +0200" stop="20260725161500 +0200" channel="Formula2AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <programme start="20260725000000 +0200" stop="20260725141500 +0200" channel="Formula2AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Inizia alle 14:15.</title>
+    <desc lang="it">🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725141500 +0200" stop="20260725161500 +0200" channel="Formula2AWSHungarianGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 2 : AWS Hungarian Grand Prix – Sprint Race</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="Formula1AWSHungarianGrandPrixQualifying">
+    <display-name>🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725160000 +0200" channel="Formula1AWSHungarianGrandPrixQualifying">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725160000 +0200" stop="20260725180000 +0200" channel="Formula1AWSHungarianGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏎️ Formula 1 : AWS Hungarian Grand Prix – Qualifying</desc>
+    <category lang="it">Motorsport 🏎️🏁</category>
+  </programme>
+  <channel id="TourdeFranceStage20Mountain171km5450m">
+    <display-name>🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725113000 +0200" channel="TourdeFranceStage20Mountain171km5450m">
+    <title lang="it">Inizia alle 11:30.</title>
+    <desc lang="it">🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725113000 +0200" stop="20260725133000 +0200" channel="TourdeFranceStage20Mountain171km5450m">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 Tour de France : Stage 20 – Mountain | 171 km | 5,450 m</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="FIEWorldChampionshipsHongKongDay1">
+    <display-name>🤺 FIE World Championships – Hong Kong : Day 1</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725123000 +0200" channel="FIEWorldChampionshipsHongKongDay1">
+    <title lang="it">Inizia alle 12:30.</title>
+    <desc lang="it">🤺 FIE World Championships – Hong Kong : Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725123000 +0200" stop="20260725143000 +0200" channel="FIEWorldChampionshipsHongKongDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🤺 FIE World Championships – Hong Kong : Day 1</desc>
+    <category lang="it">Fencing 🤺</category>
+  </programme>
+  <channel id="WorldTriathlonChampionshipSeriesLondonWomensSprint">
+    <display-name>🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725151500 +0200" channel="WorldTriathlonChampionshipSeriesLondonWomensSprint">
+    <title lang="it">Inizia alle 15:15.</title>
+    <desc lang="it">🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725151500 +0200" stop="20260725171500 +0200" channel="WorldTriathlonChampionshipSeriesLondonWomensSprint">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊🚴🏃 World Triathlon Championship Series – London : Women's Sprint</desc>
+    <category lang="it">Triathlon 🏊🚴🏃</category>
+  </programme>
+  <channel id="WorldTriathlonChampionshipSeriesLondonMensSprint">
+    <display-name>🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725170000 +0200" channel="WorldTriathlonChampionshipSeriesLondonMensSprint">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725170000 +0200" stop="20260725190000 +0200" channel="WorldTriathlonChampionshipSeriesLondonMensSprint">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊🚴🏃 World Triathlon Championship Series – London : Men's Sprint</desc>
+    <category lang="it">Triathlon 🏊🚴🏃</category>
+  </programme>
+  <channel id="CommonwealthGamesGlasgowDay2S2SwimmingampParaSwimming">
+    <display-name>🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming</display-name>
+  </channel>
+  <programme start="20260725000000 +0200" stop="20260725200000 +0200" channel="CommonwealthGamesGlasgowDay2S2SwimmingampParaSwimming">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260725200000 +0200" stop="20260725220000 +0200" channel="CommonwealthGamesGlasgowDay2S2SwimmingampParaSwimming">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏊 Commonwealth Games Glasgow – Day 2 S2: Swimming &amp; Para Swimming</desc>
     <category lang="it">Water Sports 🏊</category>
   </programme>
 </tv>
