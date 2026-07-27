@@ -13,19 +13,6 @@
     <desc lang="it">⚽ 🌍 Club Friendly : Galatasaray 🇹🇷 vs Venezia 🇮🇹</desc>
     <category lang="it">All Soccer Events ⚽</category>
   </programme>
-  <channel id="WashingtonOpenDay1Session1">
-    <display-name>🎾 🇺🇸 Washington Open : Day 1 – Session 1</display-name>
-  </channel>
-  <programme start="20260727000000 +0200" stop="20260727170000 +0200" channel="WashingtonOpenDay1Session1">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 Washington Open : Day 1 – Session 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260727170000 +0200" stop="20260727190000 +0200" channel="WashingtonOpenDay1Session1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 Washington Open : Day 1 – Session 1</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
   <channel id="WashingtonOpenDay1Session2">
     <display-name>🎾 🇺🇸 Washington Open : Day 1 – Session 2</display-name>
   </channel>
@@ -33,19 +20,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇺🇸 Washington Open : Day 1 – Session 2</desc>
     <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="GlasgowCommonwealthGamesAthleticsampParaAthleticsDaySession">
-    <display-name>🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Day Session</display-name>
-  </channel>
-  <programme start="20260727000000 +0200" stop="20260727104500 +0200" channel="GlasgowCommonwealthGamesAthleticsampParaAthleticsDaySession">
-    <title lang="it">Inizia alle 10:45.</title>
-    <desc lang="it">🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Day Session.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260727104500 +0200" stop="20260727124500 +0200" channel="GlasgowCommonwealthGamesAthleticsampParaAthleticsDaySession">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Day Session</desc>
-    <category lang="it">Athletics 🏃</category>
   </programme>
   <channel id="GlasgowCommonwealthGamesAthleticsampParaAthleticsNightSession">
     <display-name>🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Night Session</display-name>
@@ -59,18 +33,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Night Session</desc>
     <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="FIEWorldChampionshipsHongKongDay3">
-    <display-name>🤺 🇭🇰 FIE World Championships : Hong Kong – Day 3</display-name>
-  </channel>
-  <programme start="20260727000000 +0200" stop="20260727120000 +0200" channel="FIEWorldChampionshipsHongKongDay3">
-    <title lang="it">Inizia alle 12:00.</title>
-    <desc lang="it">🤺 🇭🇰 FIE World Championships : Hong Kong – Day 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260727120000 +0200" stop="20260727140000 +0200" channel="FIEWorldChampionshipsHongKongDay3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🤺 🇭🇰 FIE World Championships : Hong Kong – Day 3</desc>
-    <category lang="it">Fencing 🤺</category>
   </programme>
 </tv>

@@ -2,21 +2,9 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlygalatasarayvsvenezia" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 Club Friendly : Galatasaray 🇹🇷 vs Venezia 🇮🇹 (20:00)" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 Club Friendly : Galatasaray 🇹🇷 vs Venezia 🇮🇹 (20:00)
+#EXTINF:-1 tvg-id="clubfriendlygalatasarayvsvenezia" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 Club Friendly : Galatasaray 🇹🇷 vs Venezia 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Galatasaray 🇹🇷_vs_Venezia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 Club Friendly : Galatasaray 🇹🇷 vs Venezia 🇮🇹 (20:00)
 https://dlhd.st/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="washingtonopenday1session1" tvg-name="Tennis 🎾 | 🎾 🇺🇸 Washington Open : Day 1 – Session 1 (17:00)" tvg-logo="https://media.tacdn.com/media/attractions-content--1x-1/0b/2d/07/95.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 Washington Open : Day 1 – Session 1 (17:00)
-https://dlhd.st/watch.php?id=576
-
-#EXTINF:-1 tvg-id="shanghaimastersround1" tvg-name="Snooker 🎱 | 🎱 🇨🇳 Shanghai Masters | Round 1 (08:00)" tvg-logo="https://forge-asset.youware.com/blue_lock_oc_maker_card_4_95888b8de6.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 Shanghai Masters | Round 1 (08:00)
+#EXTINF:-1 tvg-id="glasgowcommonwealthgamesathleticsampparaathleticsnightsession" tvg-name="Athletics 🏃 | 🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Night Session (19:20)" tvg-logo="https://sabwiki.com/wp-content/uploads/2026/04/Te-Te-Te-Sahur.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Night Session (19:20)
 https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="glasgowcommonwealthgamesathleticsampparaathleticsdaysession" tvg-name="Athletics 🏃 | 🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Day Session (10:45)" tvg-logo="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/aurora-borealis-over-iceland-gnther-egger.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Day Session (10:45)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="glasgowcommonwealthgamesathleticsampparaathleticsnightsession" tvg-name="Athletics 🏃 | 🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Night Session (19:20)" tvg-logo="https://madamenoire.com/wp-content/uploads/sites/9/2016/04/wenn78281.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇬🇧 Glasgow Commonwealth Games : Athletics &amp; Para Athletics – Night Session (19:20)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="fieworldchampionshipshongkongday3" tvg-name="Fencing 🤺 | 🤺 🇭🇰 FIE World Championships : Hong Kong – Day 3 (12:00)" tvg-logo="https://www.vintage-creations.gr/image/cache/catalog/product/plakakia/plakakia parastaseis/Ionia-sxedio-se-xeiropoihta-plakakia-travertino-parastasi-pinakas-600x450.jpg" group-title="Eventi Live DLHD",Fencing 🤺 | 🤺 🇭🇰 FIE World Championships : Hong Kong – Day 3 (12:00)
-https://dlhd.st/watch.php?id=879
 
