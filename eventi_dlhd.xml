@@ -1,31 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyCagliarivsModena">
-    <display-name>⚽ 🤝 Club Friendly: Cagliari vs Modena</display-name>
-  </channel>
-  <programme start="20260728000000 +0200" stop="20260728170000 +0200" channel="ClubFriendlyCagliarivsModena">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: Cagliari vs Modena.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260728170000 +0200" stop="20260728190000 +0200" channel="ClubFriendlyCagliarivsModena">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🤝 Club Friendly: Cagliari vs Modena</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <channel id="MubadalaCitiDCOpenWashingtonOpenDay2Session1">
-    <display-name>🎾 🇺🇸 Mubadala Citi DC Open (Washington Open) – Day 2, Session 1</display-name>
-  </channel>
-  <programme start="20260728000000 +0200" stop="20260728170000 +0200" channel="MubadalaCitiDCOpenWashingtonOpenDay2Session1">
-    <title lang="it">Inizia alle 17:00.</title>
-    <desc lang="it">🎾 🇺🇸 Mubadala Citi DC Open (Washington Open) – Day 2, Session 1.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260728170000 +0200" stop="20260728190000 +0200" channel="MubadalaCitiDCOpenWashingtonOpenDay2Session1">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 Mubadala Citi DC Open (Washington Open) – Day 2, Session 1</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
   <channel id="MubadalaCitiDCOpenWashingtonOpenDay2Session2">
     <display-name>🎾 🇺🇸 Mubadala Citi DC Open (Washington Open) – Day 2, Session 2</display-name>
   </channel>
@@ -33,19 +7,6 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🎾 🇺🇸 Mubadala Citi DC Open (Washington Open) – Day 2, Session 2</desc>
     <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="ShanghaiMasters2026Round2">
-    <display-name>🎱 🇨🇳 Shanghai Masters 2026 – Round 2</display-name>
-  </channel>
-  <programme start="20260728000000 +0200" stop="20260728140000 +0200" channel="ShanghaiMasters2026Round2">
-    <title lang="it">Inizia alle 14:00.</title>
-    <desc lang="it">🎱 🇨🇳 Shanghai Masters 2026 – Round 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260728140000 +0200" stop="20260728160000 +0200" channel="ShanghaiMasters2026Round2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎱 🇨🇳 Shanghai Masters 2026 – Round 2</desc>
-    <category lang="it">Snooker 🎱</category>
   </programme>
   <channel id="Glasgow2026AthleticsampParaAthleticsNightSession">
     <display-name>🏃 🇬🇧 Glasgow 2026 Athletics &amp; Para Athletics – Night Session</display-name>
@@ -59,31 +20,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">🏃 🇬🇧 Glasgow 2026 Athletics &amp; Para Athletics – Night Session</desc>
     <category lang="it">Athletics 🏃</category>
-  </programme>
-  <channel id="TourdelAin2026Stage1MenParcdesOiseauxBourgenBresse1609km">
-    <display-name>🚴 🇫🇷 Tour de l'Ain 2026 – Stage 1 (Men): Parc des Oiseaux → Bourg-en-Bresse (160.9 km)</display-name>
-  </channel>
-  <programme start="20260728000000 +0200" stop="20260728143000 +0200" channel="TourdelAin2026Stage1MenParcdesOiseauxBourgenBresse1609km">
-    <title lang="it">Inizia alle 14:30.</title>
-    <desc lang="it">🚴 🇫🇷 Tour de l'Ain 2026 – Stage 1 (Men): Parc des Oiseaux → Bourg-en-Bresse (160.9 km).</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260728143000 +0200" stop="20260728163000 +0200" channel="TourdelAin2026Stage1MenParcdesOiseauxBourgenBresse1609km">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🚴 🇫🇷 Tour de l'Ain 2026 – Stage 1 (Men): Parc des Oiseaux → Bourg-en-Bresse (160.9 km)</desc>
-    <category lang="it">Cycling 🚴</category>
-  </programme>
-  <channel id="FIEWorldFencingChampionshipsHongKong2026Day4">
-    <display-name>🤺 🇭🇰 FIE World Fencing Championships: Hong Kong 2026 – Day 4</display-name>
-  </channel>
-  <programme start="20260728000000 +0200" stop="20260728110000 +0200" channel="FIEWorldFencingChampionshipsHongKong2026Day4">
-    <title lang="it">Inizia alle 11:00.</title>
-    <desc lang="it">🤺 🇭🇰 FIE World Fencing Championships: Hong Kong 2026 – Day 4.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260728110000 +0200" stop="20260728130000 +0200" channel="FIEWorldFencingChampionshipsHongKong2026Day4">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🤺 🇭🇰 FIE World Fencing Championships: Hong Kong 2026 – Day 4</desc>
-    <category lang="it">Fencing 🤺</category>
   </programme>
 </tv>
