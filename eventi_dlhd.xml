@@ -1,24 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="MubadalaCitiDCOpenWashingtonOpenDay2Session2">
-    <display-name>🎾 🇺🇸 Mubadala Citi DC Open (Washington Open) – Day 2, Session 2</display-name>
+  <channel id="ClubFriendlyWatfordvsFiorentina">
+    <display-name>⚽ 🌍 Club Friendly : Watford vs Fiorentina</display-name>
   </channel>
-  <programme start="20260729000000 +0200" stop="20260729020000 +0200" channel="MubadalaCitiDCOpenWashingtonOpenDay2Session2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 Mubadala Citi DC Open (Washington Open) – Day 2, Session 2</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="Glasgow2026AthleticsampParaAthleticsNightSession">
-    <display-name>🏃 🇬🇧 Glasgow 2026 Athletics &amp; Para Athletics – Night Session</display-name>
-  </channel>
-  <programme start="20260728000000 +0200" stop="20260728193000 +0200" channel="Glasgow2026AthleticsampParaAthleticsNightSession">
-    <title lang="it">Inizia alle 19:30.</title>
-    <desc lang="it">🏃 🇬🇧 Glasgow 2026 Athletics &amp; Para Athletics – Night Session.</desc>
+  <programme start="20260729000000 +0200" stop="20260729203000 +0200" channel="ClubFriendlyWatfordvsFiorentina">
+    <title lang="it">Inizia alle 20:30.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : Watford vs Fiorentina.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260728193000 +0200" stop="20260728213000 +0200" channel="Glasgow2026AthleticsampParaAthleticsNightSession">
+  <programme start="20260729203000 +0200" stop="20260729223000 +0200" channel="ClubFriendlyWatfordvsFiorentina">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏃 🇬🇧 Glasgow 2026 Athletics &amp; Para Athletics – Night Session</desc>
-    <category lang="it">Athletics 🏃</category>
+    <desc lang="it">⚽ 🌍 Club Friendly : Watford vs Fiorentina</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="WashingtonOpenDay3Session1">
+    <display-name>🎾 🇺🇸 Washington Open : Day 3 – Session 1</display-name>
+  </channel>
+  <programme start="20260729000000 +0200" stop="20260729170000 +0200" channel="WashingtonOpenDay3Session1">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open : Day 3 – Session 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260729170000 +0200" stop="20260729190000 +0200" channel="WashingtonOpenDay3Session1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open : Day 3 – Session 1</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="WashingtonOpenDay3Session2">
+    <display-name>🎾 🇺🇸 Washington Open : Day 3 – Session 2</display-name>
+  </channel>
+  <programme start="20260730000000 +0200" stop="20260730020000 +0200" channel="WashingtonOpenDay3Session2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open : Day 3 – Session 2</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ShanghaiMastersRound2">
+    <display-name>🎱 🇨🇳 Shanghai Masters : Round 2</display-name>
+  </channel>
+  <programme start="20260729000000 +0200" stop="20260729140000 +0200" channel="ShanghaiMastersRound2">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters : Round 2.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260729140000 +0200" stop="20260729160000 +0200" channel="ShanghaiMastersRound2">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters : Round 2</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="CommonwealthGamesDay6EveningSession">
+    <display-name>🏅 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Commonwealth Games : Day 6 (Evening Session)</display-name>
+  </channel>
+  <programme start="20260729000000 +0200" stop="20260729191500 +0200" channel="CommonwealthGamesDay6EveningSession">
+    <title lang="it">Inizia alle 19:15.</title>
+    <desc lang="it">🏅 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Commonwealth Games : Day 6 (Evening Session).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260729191500 +0200" stop="20260729211500 +0200" channel="CommonwealthGamesDay6EveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏅 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Commonwealth Games : Day 6 (Evening Session)</desc>
+    <category lang="it">Athletics 🏃🏅</category>
+  </programme>
+  <channel id="TourdelAinStage2MenSaintVulbastoLagnieu1619km">
+    <display-name>🚴 🇫🇷 Tour de l'Ain : Stage 2 (Men) – Saint-Vulbas 🇫🇷 to Lagnieu 🇫🇷 (161.9 km)</display-name>
+  </channel>
+  <programme start="20260729000000 +0200" stop="20260729143000 +0200" channel="TourdelAinStage2MenSaintVulbastoLagnieu1619km">
+    <title lang="it">Inizia alle 14:30.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de l'Ain : Stage 2 (Men) – Saint-Vulbas 🇫🇷 to Lagnieu 🇫🇷 (161.9 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260729143000 +0200" stop="20260729163000 +0200" channel="TourdelAinStage2MenSaintVulbastoLagnieu1619km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇫🇷 Tour de l'Ain : Stage 2 (Men) – Saint-Vulbas 🇫🇷 to Lagnieu 🇫🇷 (161.9 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="TourofDenmarkStage1MenAalborgtoAalborg1851km">
+    <display-name>🚴 🇩🇰 Tour of Denmark : Stage 1 (Men) – Aalborg 🇩🇰 to Aalborg 🇩🇰 (185.1 km)</display-name>
+  </channel>
+  <programme start="20260729000000 +0200" stop="20260729160000 +0200" channel="TourofDenmarkStage1MenAalborgtoAalborg1851km">
+    <title lang="it">Inizia alle 16:00.</title>
+    <desc lang="it">🚴 🇩🇰 Tour of Denmark : Stage 1 (Men) – Aalborg 🇩🇰 to Aalborg 🇩🇰 (185.1 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260729160000 +0200" stop="20260729180000 +0200" channel="TourofDenmarkStage1MenAalborgtoAalborg1851km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇩🇰 Tour of Denmark : Stage 1 (Men) – Aalborg 🇩🇰 to Aalborg 🇩🇰 (185.1 km)</desc>
+    <category lang="it">Cycling 🚴</category>
+  </programme>
+  <channel id="FIEWorldChampionshipsHongKongDay5">
+    <display-name>🤺 🇭🇰 FIE World Championships : Hong Kong – Day 5</display-name>
+  </channel>
+  <programme start="20260729000000 +0200" stop="20260729103000 +0200" channel="FIEWorldChampionshipsHongKongDay5">
+    <title lang="it">Inizia alle 10:30.</title>
+    <desc lang="it">🤺 🇭🇰 FIE World Championships : Hong Kong – Day 5.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260729103000 +0200" stop="20260729123000 +0200" channel="FIEWorldChampionshipsHongKongDay5">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🤺 🇭🇰 FIE World Championships : Hong Kong – Day 5</desc>
+    <category lang="it">Fencing 🤺</category>
   </programme>
 </tv>
