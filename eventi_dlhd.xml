@@ -1,37 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="ClubFriendlyWatfordvsFiorentina">
-    <display-name>⚽ 🌍 Club Friendly : Watford vs Fiorentina</display-name>
+  <channel id="WashingtonOpenDay4Session2">
+    <display-name>🎾 🇺🇸 Washington Open | Day 4 – Session 2</display-name>
   </channel>
-  <programme start="20260729000000 +0200" stop="20260729203000 +0200" channel="ClubFriendlyWatfordvsFiorentina">
-    <title lang="it">Inizia alle 20:30.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Watford vs Fiorentina.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20260729203000 +0200" stop="20260729223000 +0200" channel="ClubFriendlyWatfordvsFiorentina">
+  <programme start="20260731000000 +0200" stop="20260731020000 +0200" channel="WashingtonOpenDay4Session2">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">⚽ 🌍 Club Friendly : Watford vs Fiorentina</desc>
-    <category lang="it">Club Friendly ⚽</category>
-  </programme>
-  <channel id="WashingtonOpenDay3Session2">
-    <display-name>🎾 🇺🇸 Washington Open : Day 3 – Session 2</display-name>
-  </channel>
-  <programme start="20260730000000 +0200" stop="20260730020000 +0200" channel="WashingtonOpenDay3Session2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 Washington Open : Day 3 – Session 2</desc>
+    <desc lang="it">🎾 🇺🇸 Washington Open | Day 4 – Session 2</desc>
     <category lang="it">Tennis 🎾</category>
   </programme>
-  <channel id="CommonwealthGamesDay6EveningSession">
-    <display-name>🏅 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Commonwealth Games : Day 6 (Evening Session)</display-name>
+  <channel id="CommonwealthGamesDay4EveningSessionGlasgow">
+    <display-name>🏅 🏴 Commonwealth Games | Day 4 – Evening Session (Glasgow)</display-name>
   </channel>
-  <programme start="20260729000000 +0200" stop="20260729191500 +0200" channel="CommonwealthGamesDay6EveningSession">
-    <title lang="it">Inizia alle 19:15.</title>
-    <desc lang="it">🏅 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Commonwealth Games : Day 6 (Evening Session).</desc>
+  <programme start="20260730000000 +0200" stop="20260730200000 +0200" channel="CommonwealthGamesDay4EveningSessionGlasgow">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🏅 🏴 Commonwealth Games | Day 4 – Evening Session (Glasgow).</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260729191500 +0200" stop="20260729211500 +0200" channel="CommonwealthGamesDay6EveningSession">
+  <programme start="20260730200000 +0200" stop="20260730220000 +0200" channel="CommonwealthGamesDay4EveningSessionGlasgow">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏅 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Commonwealth Games : Day 6 (Evening Session)</desc>
-    <category lang="it">Athletics 🏃🏅</category>
+    <desc lang="it">🏅 🏴 Commonwealth Games | Day 4 – Evening Session (Glasgow)</desc>
+    <category lang="it">Athletics 🏃</category>
   </programme>
 </tv>
