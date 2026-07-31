@@ -1,24 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv>
-  <channel id="WashingtonOpenDay4Session2">
-    <display-name>🎾 🇺🇸 Washington Open | Day 4 – Session 2</display-name>
+  <channel id="ClubFriendlyJuventusvsNice">
+    <display-name>⚽ 🌍 Club Friendly : 🇮🇹 Juventus vs 🇫🇷 Nice</display-name>
   </channel>
-  <programme start="20260731000000 +0200" stop="20260731020000 +0200" channel="WashingtonOpenDay4Session2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🎾 🇺🇸 Washington Open | Day 4 – Session 2</desc>
-    <category lang="it">Tennis 🎾</category>
-  </programme>
-  <channel id="CommonwealthGamesDay4EveningSessionGlasgow">
-    <display-name>🏅 🏴 Commonwealth Games | Day 4 – Evening Session (Glasgow)</display-name>
-  </channel>
-  <programme start="20260730000000 +0200" stop="20260730200000 +0200" channel="CommonwealthGamesDay4EveningSessionGlasgow">
-    <title lang="it">Inizia alle 20:00.</title>
-    <desc lang="it">🏅 🏴 Commonwealth Games | Day 4 – Evening Session (Glasgow).</desc>
+  <programme start="20260731000000 +0200" stop="20260731180000 +0200" channel="ClubFriendlyJuventusvsNice">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : 🇮🇹 Juventus vs 🇫🇷 Nice.</desc>
     <category lang="it">Annuncio</category>
   </programme>
-  <programme start="20260730200000 +0200" stop="20260730220000 +0200" channel="CommonwealthGamesDay4EveningSessionGlasgow">
+  <programme start="20260731180000 +0200" stop="20260731200000 +0200" channel="ClubFriendlyJuventusvsNice">
     <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">🏅 🏴 Commonwealth Games | Day 4 – Evening Session (Glasgow)</desc>
+    <desc lang="it">⚽ 🌍 Club Friendly : 🇮🇹 Juventus vs 🇫🇷 Nice</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260731000000 +0200" stop="20260731180000 +0200" channel="ClubFriendlyJuventusvsNice">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : 🇮🇹 Juventus vs 🇫🇷 Nice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260731180000 +0200" stop="20260731200000 +0200" channel="ClubFriendlyJuventusvsNice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : 🇮🇹 Juventus vs 🇫🇷 Nice</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <programme start="20260731000000 +0200" stop="20260731180000 +0200" channel="ClubFriendlyJuventusvsNice">
+    <title lang="it">Inizia alle 18:00.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : 🇮🇹 Juventus vs 🇫🇷 Nice.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260731180000 +0200" stop="20260731200000 +0200" channel="ClubFriendlyJuventusvsNice">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">⚽ 🌍 Club Friendly : 🇮🇹 Juventus vs 🇫🇷 Nice</desc>
+    <category lang="it">Club Friendly ⚽</category>
+  </programme>
+  <channel id="WashingtonOpenQuarterfinal">
+    <display-name>🎾 🇺🇸 Washington Open : Quarterfinal</display-name>
+  </channel>
+  <programme start="20260731000000 +0200" stop="20260731170000 +0200" channel="WashingtonOpenQuarterfinal">
+    <title lang="it">Inizia alle 17:00.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open : Quarterfinal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260731170000 +0200" stop="20260731190000 +0200" channel="WashingtonOpenQuarterfinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open : Quarterfinal</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <programme start="20260731190000 +0200" stop="20260801000000 +0200" channel="WashingtonOpenQuarterfinal">
+    <title lang="it">Inizia alle 00:00.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open : Quarterfinal.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260801000000 +0200" stop="20260801020000 +0200" channel="WashingtonOpenQuarterfinal">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎾 🇺🇸 Washington Open : Quarterfinal</desc>
+    <category lang="it">Tennis 🎾</category>
+  </programme>
+  <channel id="ShanghaiMastersSemiFinalEveningSession">
+    <display-name>🎱 🇨🇳 Shanghai Masters : Semi-Final – Evening Session</display-name>
+  </channel>
+  <programme start="20260731000000 +0200" stop="20260731140000 +0200" channel="ShanghaiMastersSemiFinalEveningSession">
+    <title lang="it">Inizia alle 14:00.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters : Semi-Final – Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260731140000 +0200" stop="20260731160000 +0200" channel="ShanghaiMastersSemiFinalEveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🎱 🇨🇳 Shanghai Masters : Semi-Final – Evening Session</desc>
+    <category lang="it">Snooker 🎱</category>
+  </programme>
+  <channel id="CommonwealthGamesDay5EveningSession">
+    <display-name>🏅 🏴 Commonwealth Games : Day 5 – Evening Session</display-name>
+  </channel>
+  <programme start="20260731000000 +0200" stop="20260731200000 +0200" channel="CommonwealthGamesDay5EveningSession">
+    <title lang="it">Inizia alle 20:00.</title>
+    <desc lang="it">🏅 🏴 Commonwealth Games : Day 5 – Evening Session.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260731200000 +0200" stop="20260731220000 +0200" channel="CommonwealthGamesDay5EveningSession">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🏅 🏴 Commonwealth Games : Day 5 – Evening Session</desc>
     <category lang="it">Athletics 🏃</category>
+  </programme>
+  <channel id="TourofDenmarkStage3MenFredericiatoVejle2073km">
+    <display-name>🚴 🇩🇰 Tour of Denmark : Stage 3 (Men) – Fredericia to Vejle (207.3 km)</display-name>
+  </channel>
+  <programme start="20260731000000 +0200" stop="20260731154500 +0200" channel="TourofDenmarkStage3MenFredericiatoVejle2073km">
+    <title lang="it">Inizia alle 15:45.</title>
+    <desc lang="it">🚴 🇩🇰 Tour of Denmark : Stage 3 (Men) – Fredericia to Vejle (207.3 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20260731154500 +0200" stop="20260731174500 +0200" channel="TourofDenmarkStage3MenFredericiatoVejle2073km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">🚴 🇩🇰 Tour of Denmark : Stage 3 (Men) – Fredericia to Vejle (207.3 km)</desc>
+    <category lang="it">Cycling 🚴</category>
   </programme>
 </tv>
