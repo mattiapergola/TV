@@ -2,24 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="atpmontrealampwta1000torontoday1session1" tvg-name="Tennis 🎾 | 🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1 (17:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f1b06152-d2b7-4181-95e0-f43cb11fa348/dg3t6tl-c1ff10c0-fcaf-47e8-8856-8807949e36af.png/v1/fill/w_951,h_840,q_70,strp/playful_cat__by_ddiex_dg3t6tl-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxYjA2MTUyLWQyYjctNDE4MS05NWUwLWY0M2NiMTFmYTM0OFwvZGczdDZ0bC1jMWZmMTBjMC1mY2FmLTQ3ZTgtODg1Ni04ODA3OTQ5ZTM2YWYucG5nIiwiaGVpZ2h0IjoiPD0xMTMwIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiXC93bVwvZjFiMDYxNTItZDJiNy00MTgxLTk1ZTAtZjQzY2IxMWZhMzQ4XC9kZGlleC00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.jELmrOUI3pDRnw6S-jL4TW7rjhZL1ZxiuDsUuTFEJLc" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1 (17:00)
-https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="atpmontrealampwta1000torontoday1session1" tvg-name="Tennis 🎾 | 🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1 (17:00)" tvg-logo="https://oladino.com/wp-content/uploads/2024/10/Funny-Cat-Memes-6.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Montreal &amp; WTA 1000 Toronto : Day 1, Session 1 (17:00)
-https://dlhd.st/watch.php?id=576
-
-#EXTINF:-1 tvg-id="tourofpolandstage1gdyniatokoszalin234km" tvg-name="Cycling 🚴 | 🚴 Tour of Poland : Stage 1 – Gdynia to Koszalin (234 km) (10:15)" tvg-logo="https://victorycomputer.pk/wp-content/uploads/2026/01/top-5-hp-laptops-in-pakistan-2026.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour of Poland : Stage 1 – Gdynia to Koszalin (234 km) (10:15)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="tourdefrancewomenwithzwiftstage3genevatopoligny157km" tvg-name="Cycling 🚴 | 🚴 Tour de France Women with Zwift : Stage 3 – Geneva to Poligny (157 km) (15:30)" tvg-logo="https://m.media-amazon.com/images/I/91pZZqkeFzL._AC_SL1500_.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour de France Women with Zwift : Stage 3 – Geneva to Poligny (157 km) (15:30)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="divingwomens10mplatformpreliminary" tvg-name="Water Sports 🏊 | 🏊 Diving : Women's 10m Platform Preliminary (13:00)" tvg-logo="https://alltourstoturkey.com/wp-content/uploads/2022/10/summer-garden-antalya.jpeg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Diving : Women's 10m Platform Preliminary (13:00)
-https://dlhd.st/watch.php?id=460
-
-#EXTINF:-1 tvg-id="divingwomens10mplatformpreliminary" tvg-name="Water Sports 🏊 | 🏊 Diving : Women's 10m Platform Preliminary (13:00)" tvg-logo="https://i.pinimg.com/originals/3f/b8/55/3fb855e57bfd965937a0595b191f497d.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Diving : Women's 10m Platform Preliminary (13:00)
-https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="divingmensspringboardsynchronizedfinal" tvg-name="Water Sports 🏊 | 🏊 Diving : Men's Springboard Synchronized Final (19:00)" tvg-logo="https://media.fstatic.com/Oc_etUT1nHmmgMiGaos2Cj6dGYw=/322x478/smart/filters:format(webp)/media/movies/covers/2026/03/cats_MmnIrYy.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Diving : Men's Springboard Synchronized Final (19:00)
+#EXTINF:-1 tvg-id="divingmensspringboardsynchronizedfinal" tvg-name="Water Sports 🏊 | 🏊 Diving : Men's Springboard Synchronized Final (19:00)" tvg-logo="https://www.nationsonline.org/maps/USA/Washington_map.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Diving : Men's Springboard Synchronized Final (19:00)
 https://dlhd.st/watch.php?id=460
 
