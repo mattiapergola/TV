@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Lech Poznań x KÍ 19:00
-https://w1.sportsonlinee.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Boyacá Chicó x Alianza 23:00
-https://w1.sportsonlinee.click/channels/hd/hd8.php
-#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",Deportivo Cali x Rionegro Águilas 01:05
-https://w1.sportsonlinee.click/channels/hd/hd8.php
+#EXTINF:-1 group-title="Eventi Live SPORTSONLINE",NESSUN EVENTO
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
