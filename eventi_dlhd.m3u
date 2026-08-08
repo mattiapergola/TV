@@ -2,12 +2,111 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="atpmasters1000montrealampwta1000torontoday5session1" tvg-name="Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 1 (17:00)" tvg-logo="https://cdn.britannica.com/33/4533-050-F97DC4AB/Sweden-map-features-locator.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 1 (17:00)
+#EXTINF:-1 tvg-id="clubfriendlyjuventusvsinternazionale" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Juventus 🇮🇹_vs_Internazionale 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹 (13:00)
+https://dlhd.st/watch.php?id=877
+
+#EXTINF:-1 tvg-id="clubfriendlyjuventusvsinternazionale" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Juventus 🇮🇹_vs_Internazionale 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹 (13:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="atpmasters1000montrealampwta1000torontoday5session1" tvg-name="Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 1 (17:00)" tvg-logo="https://www.robertrtg.com/images/thumbs/0105209_federal-gameshok-22lr-shotshell-12-lead-shot-50rdbox_550.jpeg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP Masters 1000 Montreal &amp; WTA 1000 Toronto : Day 5 | Session 1 (17:00)
+#EXTINF:-1 tvg-id="clubfriendlyjuventusvsinternazionale" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹 (13:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Juventus 🇮🇹_vs_Internazionale 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Juventus 🇮🇹 vs Internazionale 🇮🇹 (13:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="clubfriendlychelseavsmilan" tvg-name="Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹 (14:00)" tvg-logo="https://i.ytimg.com/vi/mAMFM5YL-AQ/hqdefault.jpg" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹 (14:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="clubfriendlychelseavsmilan" tvg-name="Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹 (14:00)" tvg-logo="https://cdn.amomama.com/b7574fe5cae524a277055e824af04ef3.jpg" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Chelsea 🏴 vs Milan 🇮🇹 (14:00)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="clubfriendlybrightonamphovealbionvsroma" tvg-name="Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Roma 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Brighton &amp; Hove Albion 🏴_vs_Roma 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🏴 Club Friendly : Brighton &amp; Hove Albion 🏴 vs Roma 🇮🇹 (16:00)
+https://dlhd.st/watch.php?id=3045
+
+#EXTINF:-1 tvg-id="clubfriendlyschalke04vsatalanta" tvg-name="Club Friendly ⚽ | ⚽ 🇩🇪 Club Friendly : Schalke 04 🇩🇪 vs Atalanta 🇮🇹 (17:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Schalke 04 🇩🇪_vs_Atalanta 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇩🇪 Club Friendly : Schalke 04 🇩🇪 vs Atalanta 🇮🇹 (17:00)
+https://dlhd.st/watch.php?id=877
+
+#EXTINF:-1 tvg-id="clubfriendlyudinesevsnottinghamforest" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Udinese 🇮🇹_vs_Nottingham Forest 🏴.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴 (20:00)
+https://dlhd.st/watch.php?id=16
+
+#EXTINF:-1 tvg-id="clubfriendlyudinesevsnottinghamforest" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Udinese 🇮🇹_vs_Nottingham Forest 🏴.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴 (20:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="clubfriendlyudinesevsnottinghamforest" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Udinese 🇮🇹_vs_Nottingham Forest 🏴.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Nottingham Forest 🏴 (20:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="clubfriendlycagliarivsnice" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Cagliari 🇮🇹 vs Nice 🇫🇷 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cagliari 🇮🇹_vs_Nice 🇫🇷.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Cagliari 🇮🇹 vs Nice 🇫🇷 (20:30)
+https://dlhd.st/watch.php?id=877
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivsceltadevigo" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Napoli 🇮🇹_vs_Celta de Vigo 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸 (21:00)
+https://dlhd.st/watch.php?id=25
+
+#EXTINF:-1 tvg-id="clubfriendlynapolivsceltadevigo" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Napoli 🇮🇹_vs_Celta de Vigo 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Napoli 🇮🇹 vs Celta de Vigo 🇪🇸 (21:00)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="clubfriendlybarcelonavsnottinghamforest" tvg-name="Club Friendly ⚽ | ⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Barcelona 🇪🇸_vs_Nottingham Forest 🏴.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴 (21:00)
+https://dlhd.st/watch.php?id=16
+
+#EXTINF:-1 tvg-id="clubfriendlybarcelonavsnottinghamforest" tvg-name="Club Friendly ⚽ | ⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Barcelona 🇪🇸_vs_Nottingham Forest 🏴.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴 (21:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="clubfriendlybarcelonavsnottinghamforest" tvg-name="Club Friendly ⚽ | ⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Barcelona 🇪🇸_vs_Nottingham Forest 🏴.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇪🇸 Club Friendly : Barcelona 🇪🇸 vs Nottingham Forest 🏴 (21:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="clubfriendlyudinesevsbarcelona" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸 (22:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Udinese 🇮🇹_vs_Barcelona 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸 (22:00)
+https://dlhd.st/watch.php?id=16
+
+#EXTINF:-1 tvg-id="clubfriendlyudinesevsbarcelona" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸 (22:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Udinese 🇮🇹_vs_Barcelona 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸 (22:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="clubfriendlyudinesevsbarcelona" tvg-name="Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸 (22:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Udinese 🇮🇹_vs_Barcelona 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🇮🇹 Club Friendly : Udinese 🇮🇹 vs Barcelona 🇪🇸 (22:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="atpmontrealatpnationalbankopenwta1000torontoday6session1" tvg-name="Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1 (18:30)" tvg-logo="https://img.freepik.com/vector-premium/ilustracion-pescado-dibujo-mano_175103-566.jpg?w=740" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1 (18:30)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpmontrealatpnationalbankopenwta1000torontoday6session1" tvg-name="Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1 (18:30)" tvg-logo="https://thumb-lvlt.xhcdn.com/a/5RxAJT7TtfcPo4p5HnSr8Q/022/422/589/v2/2560x1440.217.webp" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇨🇦 ATP Montreal | ATP National Bank Open | WTA 1000 - Toronto : Day 6, Session 1 (18:30)
 https://dlhd.st/watch.php?id=576
 
-#EXTINF:-1 tvg-id="europeanaquaticschampionshipsmensopenwater3mknockoutfinal" tvg-name="Water Sports 🏊 | 🏊 European Aquatics Championships : Men's Open Water 3m Knockout Final (18:30)" tvg-logo="https://i.pinimg.com/originals/ae/96/55/ae965550e4368bfb80cc6bd8fd2fc319.jpg?nii=t" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 European Aquatics Championships : Men's Open Water 3m Knockout Final (18:30)
+#EXTINF:-1 tvg-id="motogpround12greatbritainfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Free Practice 2 (10:30)" tvg-logo="https://global-uploads.webflow.com/5b44edefca321a1e2d0c2aa6/5e6574ef098d4f7b54877d55_Dimensions-Guide-Digital-Apple-Macbook-Pro-13-inch-4th-Generation-Dimensions.svg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Free Practice 2 (10:30)
+https://dlhd.st/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto3round12greatbritainfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Free Practice 2 (10:35)" tvg-logo="https://getoutlines.com/vectors/car/ford/mini-preview/Ford-E350-Morgan-Olson-14-4-Step-Van-H-P700-WB-158-W93-95-V2-Roll-Door-2012-blueprint-preview208.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Free Practice 2 (10:35)
+https://dlhd.st/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto2round12greatbritainfreepractice2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2 (11:20)" tvg-logo="https://www.startupcooking.net/wp-content/uploads/2023/08/balasana-childs-pose-how-to-do-childs-pose-in-yoga-2.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Free Practice 2 (11:20)
+https://dlhd.st/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpround12greatbritainqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying (12:00)" tvg-logo="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/aurora-borealis-over-iceland-gnther-egger.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Qualifying (12:00)
+https://dlhd.st/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto3round12greatbritainqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Qualifying (14:45)" tvg-logo="https://i.pinimg.com/originals/9b/ba/07/9bba07f6e610aec6e1673c64f5e9b944.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto3 : Round 12 | Great Britain Qualifying (14:45)
+https://dlhd.st/watch.php?id=575
+
+#EXTINF:-1 tvg-id="moto2round12greatbritainqualifying" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Qualifying (16:00)" tvg-logo="https://i.ytimg.com/vi/PNh8gIekXgA/maxresdefault.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇬🇧 Moto2 : Round 12 | Great Britain Qualifying (16:00)
+https://dlhd.st/watch.php?id=575
+
+#EXTINF:-1 tvg-id="motogpround12greatbritainsprintrace" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Sprint Race (16:45)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Pacific_Ocean_-_en.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏍️ 🇬🇧 MotoGP : Round 12 | Great Britain Sprint Race (16:45)
+https://dlhd.st/watch.php?id=575
+
+#EXTINF:-1 tvg-id="chinaopenround1" tvg-name="Snooker 🎱 | 🎱 🇨🇳 China Open : Round 1 (08:00)" tvg-logo="https://happymuncher.com/wp-content/uploads/2022/09/Brown-Sugar-150x150.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 China Open : Round 1 (08:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="trailgoldentrailworldseriessierrezinal" tvg-name="Athletics 🏃 | 🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal (11:45)" tvg-logo="https://credited.com.br/wp-content/uploads/2023/11/ibuprofeno.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇨🇭 Trail : Golden Trail World Series - Sierre-Zinal (11:45)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="tourofpolandmenstage6bukovinaresortbukowinatatrzaska1256km" tvg-name="Cycling 🚴 | 🚴 🇵🇱 Tour of Poland Men : Stage 6 | Bukovina Resort - Bukowina Tatrzańska (125.6km) (13:00)" tvg-logo="https://bookandfilmglobe.com/wp-content/uploads/2020/08/bill-ted-face-music_3-1024x873.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇵🇱 Tour of Poland Men : Stage 6 | Bukovina Resort - Bukowina Tatrzańska (125.6km) (13:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="tourdefrancewomenwithzwiftstage8womensisteronnice175km" tvg-name="Cycling 🚴 | 🚴 🇫🇷 Tour de France Women with Zwift : Stage 8 | Women | Sisteron – Nice (175km) (15:30)" tvg-logo="https://web-mobile-first.s3.eu-west-3.amazonaws.com/production/mockup_apple_iphone_17_pro_max_2025_7fb15b841f.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇫🇷 Tour de France Women with Zwift : Stage 8 | Women | Sisteron – Nice (175km) (15:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanopenwaterswimmingchampionshipsmixedrelaysfinal" tvg-name="Water Sports 🏊 | 🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final (10:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84f6d3c7-19b3-471c-99b3-ebe943ca814d/dji78so-48cd4d43-476f-4822-9a06-97cdd6e550db.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg0ZjZkM2M3LTE5YjMtNDcxYy05OWIzLWViZTk0M2NhODE0ZFwvZGppNzhzby00OGNkNGQ0My00NzZmLTQ4MjItOWEwNi05N2NkZDZlNTUwZGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.p92hIDP4BMsoLQWcp8rvop8j_GGxXpoxWvHq6iJX3og" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final (10:00)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="europeanopenwaterswimmingchampionshipsmixedrelaysfinal" tvg-name="Water Sports 🏊 | 🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final (10:00)" tvg-logo="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/04/the-incredible-hulk-edward-norton.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇪🇺 European Open Water Swimming Championships Mixed Relays Final (10:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="womens20mr3r4swimmingeuropeanchampionshipstuffigrandialtezzewomens20m" tvg-name="Water Sports 🏊 | 🏊 🇪🇺 Women's 20m R3-R4 Swimming European Championships Tuffi Grandi Altezze Women's 20m (13:30)" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9977792_b_v13_aa.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇪🇺 Women's 20m R3-R4 Swimming European Championships Tuffi Grandi Altezze Women's 20m (13:30)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="paris2026openwaterswimmingmixedrelaysfinal" tvg-name="Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Open Water Swimming Mixed Relays Final (18:00)" tvg-logo="https://s1.pictoa.com/media/galleries/057/060/0570605568badb2965e/15299245568badb43c15.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇫🇷 Paris 2026 Open Water Swimming Mixed Relays Final (18:00)
 https://dlhd.st/watch.php?id=460
 
