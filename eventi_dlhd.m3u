@@ -2,27 +2,48 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliaparmavscatania" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹 (23:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Parma 🇮🇹_vs_Catania 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹 (23:30)
+#EXTINF:-1 tvg-id="clubfriendlyatalantavsathleticclub" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Atalanta 🇮🇹_vs_Athletic Club 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸 (20:45)
+https://dlhd.st/watch.php?id=1
+
+#EXTINF:-1 tvg-id="clubfriendlyatalantavsathleticclub" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Atalanta 🇮🇹_vs_Athletic Club 🇪🇸.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Atalanta 🇮🇹 vs Athletic Club 🇪🇸 (20:45)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italycoppaitaliaseriecvadovsinterii" tvg-name="Coppa Italia ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹 (21:00)" tvg-logo="https://media.tatacroma.com/Croma Assets/Communication/Mobiles/Images/309701_0_r0upfu.png" group-title="Eventi Live DLHD",Coppa Italia ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia Serie C : Vado 🇮🇹 vs Inter II 🇮🇹 (21:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="italycoppaitaliaparmavscatania" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Parma 🇮🇹_vs_Catania 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Parma 🇮🇹 vs Catania 🇮🇹 (18:00)
 https://dlhd.st/watch.php?id=857
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta1stround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (22:30)" tvg-logo="https://img.staticdj.com/efc63ad9e5932a6a971647e3a410f2e1.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (22:30)
+#EXTINF:-1 tvg-id="italycoppaitaliacagliarivsarezzo" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cagliari 🇮🇹_vs_Arezzo 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹 (18:30)
+https://dlhd.st/watch.php?id=854
+
+#EXTINF:-1 tvg-id="italycoppaitaliacagliarivsarezzo" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cagliari 🇮🇹_vs_Arezzo 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Cagliari 🇮🇹 vs Arezzo 🇮🇹 (18:30)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="italycoppaitaliamonzavsavellino" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Monza 🇮🇹 vs Avellino 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Monza 🇮🇹_vs_Avellino 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Monza 🇮🇹 vs Avellino 🇮🇹 (20:45)
+https://dlhd.st/watch.php?id=857
+
+#EXTINF:-1 tvg-id="italycoppaitaliafiorentinavsbenevento" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fiorentina 🇮🇹_vs_Benevento 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹 (21:15)
+https://dlhd.st/watch.php?id=854
+
+#EXTINF:-1 tvg-id="italycoppaitaliafiorentinavsbenevento" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fiorentina 🇮🇹_vs_Benevento 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Benevento 🇮🇹 (21:15)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta1stround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (17:00)" tvg-logo="https://www.gibsonstainless.com/wp-content/uploads/stainless-steel-split-ring-clamp-image-600x600.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (17:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta1stround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (22:30)" tvg-logo="https://png.pngtree.com/png-clipart/20250111/original/pngtree-holy-virgen-de-guadalupe-artwork-for-religious-graphics-png-image_20007819.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (22:30)
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta1stround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (17:00)" tvg-logo="https://static-ca-cdn.eporner.com/gallery/lx/wB/5ycxWJBwBlx/980748-really-hot-milf-with-amazing-tits.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 Cincinnati Open Tennis ATP/WTA : 1st Round (17:00)
 https://dlhd.st/watch.php?id=576
 
-#EXTINF:-1 tvg-id="chinaopenquarterfinal" tvg-name="Snooker 🎱 | 🎱 🇨🇳 China Open : Quarter-Final (13:30)" tvg-logo="https://aandaimages.com/wp-content/uploads/2025/05/Top-21-Beginner-Photography-Tips.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 China Open : Quarter-Final (13:30)
+#EXTINF:-1 tvg-id="medalceremoniesday5birmingham2026europeanathleticschampionships" tvg-name="Athletics 🏃 | 🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships (20:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/022/541/464/non_2x/australia-flag-map-png.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇪🇺 Medal Ceremonies : Day 5 - Birmingham 2026 European Athletics Championships (20:00)
 https://dlhd.st/watch.php?id=878
 
-#EXTINF:-1 tvg-id="chinaopenquarterfinal" tvg-name="Snooker 🎱 | 🎱 🇨🇳 China Open : Quarter-Final (19:00)" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,f_jpg,h_822,q_75,w_1220/https://tmpdmsmedia.newmindmedia.com/wsimgs/VL_Product_page_Correct_S_99__904988413.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 China Open : Quarter-Final (19:00)
-https://dlhd.st/watch.php?id=878
+#EXTINF:-1 tvg-id="europeanaquaticschampionshipsday5" tvg-name="Water Sports 🏊 | 🏊 🇪🇺 European Aquatics Championships : Day 5 (18:05)" tvg-logo="https://images.genius.com/082a23bc374e9f8e98c447141a0a5e81.1000x1000x1.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇪🇺 European Aquatics Championships : Day 5 (18:05)
+https://dlhd.st/watch.php?id=851
 
-#EXTINF:-1 tvg-id="europeanathleticschampionshipsday5alexanderstadium" tvg-name="Athletics 🏃 | 🏃 🇪🇺 European Athletics Championships : Day 5 - Alexander Stadium (17:00)" tvg-logo="https://s1.pictoa.com/media/galleries/088/146/088146556b971fd399d/1636713556b97201a136.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇪🇺 European Athletics Championships : Day 5 - Alexander Stadium (17:00)
-https://dlhd.st/watch.php?id=878
+#EXTINF:-1 tvg-id="europeanaquaticschampionshipsday5" tvg-name="Water Sports 🏊 | 🏊 🇪🇺 European Aquatics Championships : Day 5 (18:05)" tvg-logo="https://mozielife.com/wp-content/uploads/2024/09/cozy-reading-nook-chairs-8-min.png" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇪🇺 European Aquatics Championships : Day 5 (18:05)
+https://dlhd.st/watch.php?id=882
 
-#EXTINF:-1 tvg-id="arcticraceofnorwaystage2menbøivesterålenandenes1792km" tvg-name="Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km) (19:00)" tvg-logo="https://huskers.com/imgproxy/FM7fM0FThWdJlyOGZt8SQZ1CPrdS-vUkZ4Arm0FvaQk/rs:fit:1980:0:0:g:ce/q:90/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2h1c2tlcnMtY29tLXByb2QvMjAyMy8wOC8zMS9FY0I0clpWRUw0ZUpyS0hXdjlTUWdYelVha0taYWtuVzFnYVAyWjdSLmpwZw.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇳🇴 Arctic Race of Norway : Stage 2 Men | Bø I Vesterålen - Andenes (179.2km) (19:00)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="czechtourstage2menmladáboleslavjetd155km" tvg-name="Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km) (21:00)" tvg-logo="https://storage.googleapis.com/static.fastcampus.co.kr/prod/uploads/202208/162723-569/us-illust-kennyap-portfolio08.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇨🇿 Czech Tour : Stage 2 Men | Mladá Boleslav - Ještěd (155km) (21:00)
-https://dlhd.st/watch.php?id=879
+#EXTINF:-1 tvg-id="europeanaquaticsparis2026artisticswimmingacrobaticprogram" tvg-name="Water Sports 🏊 | 🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Program (21:20)" tvg-logo="https://png.pngtree.com/background/20230612/original/pngtree-xray-of-a-skeleton-of-a-person-picture-image_3175781.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 🇪🇺 European Aquatics Paris 2026 : Artistic Swimming Acrobatic Program (21:20)
+https://dlhd.st/watch.php?id=882
 
