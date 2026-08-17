@@ -2,48 +2,42 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlyliverpoolvscomo" tvg-name="Club Friendly ⚽ | ⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🇬🇧_vs_Como 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹 (19:00)
+#EXTINF:-1 tvg-id="clubfriendlyjuventusvsjuventusnextgen" tvg-name="All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Juventus 🇮🇹_vs_Juventus Next Gen 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="clubfriendlyjuventusvsjuventusnextgen" tvg-name="All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Juventus 🇮🇹_vs_Juventus Next Gen 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)
 https://dlhd.st/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="clubfriendlyliverpoolvscomo" tvg-name="Club Friendly ⚽ | ⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹 (19:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🇬🇧_vs_Como 🇮🇹.png" group-title="Eventi Live DLHD",Club Friendly ⚽ | ⚽ Club Friendly : Liverpool 🇬🇧 vs Como 🇮🇹 (19:00)
-https://dlhd.st/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="italycoppaitaliafrosinonevsjuvestabia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Frosinone 🇮🇹_vs_Juve Stabia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹 (18:00)
+#EXTINF:-1 tvg-id="italycoppaitaliapisavsempoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Pisa 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)
 https://dlhd.st/watch.php?id=857
 
-#EXTINF:-1 tvg-id="italycoppaitaliafrosinonevsjuvestabia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Frosinone 🇮🇹_vs_Juve Stabia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Frosinone 🇮🇹 vs Juve Stabia 🇮🇹 (18:00)
+#EXTINF:-1 tvg-id="italycoppaitaliapisavsempoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Pisa 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)
 https://dlhd.st/watch.php?id=3046
 
-#EXTINF:-1 tvg-id="italycoppaitaliagenoavsascoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Genoa 🇮🇹_vs_Ascoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹 (18:30)
+#EXTINF:-1 tvg-id="italycoppaitaliasassuolovscesena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Sassuolo 🇮🇹_vs_Cesena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)
 https://dlhd.st/watch.php?id=854
 
-#EXTINF:-1 tvg-id="italycoppaitaliagenoavsascoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Genoa 🇮🇹_vs_Ascoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Ascoli 🇮🇹 (18:30)
+#EXTINF:-1 tvg-id="italycoppaitaliasassuolovscesena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Sassuolo 🇮🇹_vs_Cesena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)
 https://dlhd.st/watch.php?id=3045
 
-#EXTINF:-1 tvg-id="italycoppaitaliaveronavsvirtusentella" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Verona 🇮🇹_vs_Virtus Entella 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹 (20:45)
+#EXTINF:-1 tvg-id="italycoppaitaliacremonesevssampdoria" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cremonese 🇮🇹_vs_Sampdoria 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)
 https://dlhd.st/watch.php?id=857
 
-#EXTINF:-1 tvg-id="italycoppaitaliaveronavsvirtusentella" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Verona 🇮🇹_vs_Virtus Entella 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Verona 🇮🇹 vs Virtus Entella 🇮🇹 (20:45)
+#EXTINF:-1 tvg-id="italycoppaitaliacremonesevssampdoria" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cremonese 🇮🇹_vs_Sampdoria 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)
 https://dlhd.st/watch.php?id=3046
 
-#EXTINF:-1 tvg-id="italycoppaitalialaziovsmantova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Lazio 🇮🇹_vs_Mantova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹 (21:15)
+#EXTINF:-1 tvg-id="italycoppaitaliapalermovslecce" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Palermo 🇮🇹_vs_Lecce 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)
 https://dlhd.st/watch.php?id=854
 
-#EXTINF:-1 tvg-id="italycoppaitalialaziovsmantova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Lazio 🇮🇹_vs_Mantova 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Lazio 🇮🇹 vs Mantova 🇮🇹 (21:15)
+#EXTINF:-1 tvg-id="italycoppaitaliapalermovslecce" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Palermo 🇮🇹_vs_Lecce 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)
 https://dlhd.st/watch.php?id=3045
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://c8.alamy.com/comp/2R8W5RH/michael-olise-france-u21-during-the-uefa-under-21-championship-georgia-romania-2023-match-between-france-2-1-italy-at-cluj-arena-on-june-22-2023-in-cluj-napoca-romania-credit-maurizio-borsariafloalamy-live-news-2R8W5RH.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta3rdroundampdoubles1stround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)" tvg-logo="https://cdn.prod.website-files.com/6672ad5a91e928d6fe0a0475/66978236f37d6ecb1b53e9d9_64132a0876c3b639a59b7e6e_Les-diffe%25CC%2581rents-types-de-logos-article-blog-simon.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta2ndround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)" tvg-logo="https://images.squarespace-cdn.com/content/v1/61abb14a3bb22d5729162979/1638654024025-8LYUI36QGW7BM3GE07JF/Map.PNG?format=1500w" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 2nd Round (17:00)
+#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta3rdroundampdoubles1stround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)" tvg-logo="https://www.immigrationeu.com/wp-content/uploads/sites/1018/2025/04/andorra-600x338.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)
 https://dlhd.st/watch.php?id=576
 
-#EXTINF:-1 tvg-id="birmingham2026europeanathleticschampionshipsmedalceremoniesday7" tvg-name="Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7 (19:30)" tvg-logo="https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/0a7b26cd53160d6cdf43aa79b9adc9f8/thumb_1200_849.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Birmingham 2026 European Athletics Championships Medal Ceremonies | Day 7 (19:30)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="arcticraceofnorwaystage4mensortlandnarvik1908km" tvg-name="Cycling 🚴 | 🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km) (16:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Arctic Race of Norway | Stage 4 Men | Sortland - Narvik (190.8 km) (16:15)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="swimmingeuropeanchampionshipsparis2026day7eveningsession" tvg-name="Water Sports 🏊 | 🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session (18:25)" tvg-logo="https://image.tmdb.org/t/p/original/rCEmgjIM098d84R4heGHPM2vUSb.jpg" group-title="Eventi Live DLHD",Water Sports 🏊 | 🏊 Swimming: European Championships - Paris 2026 Day 7 - Evening Session (18:25)
-https://dlhd.st/watch.php?id=851
+#EXTINF:-1 tvg-id="womenslongjumpfinalbirmingham" tvg-name="Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)" tvg-logo="https://cdn.yogajournal.com/wp-content/uploads/2022/01/Forearm-Plank_Andrew-Clark.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)
+https://dlhd.st/watch.php?id=462
 
