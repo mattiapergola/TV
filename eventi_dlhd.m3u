@@ -2,42 +2,18 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="clubfriendlyjuventusvsjuventusnextgen" tvg-name="All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Juventus 🇮🇹_vs_Juventus Next Gen 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)
+#EXTINF:-1 tvg-id="uefachampionsleaguedinamozagrebvsvikingfk" tvg-name="All Soccer Events ⚽ | ⚽ 🇭🇷 UEFA Champions League : Dinamo Zagreb 🇭🇷 vs Viking FK 🇳🇴 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Dinamo Zagreb 🇭🇷_vs_Viking FK 🇳🇴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇭🇷 UEFA Champions League : Dinamo Zagreb 🇭🇷 vs Viking FK 🇳🇴 (21:00)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="clubfriendlyjuventusvsjuventusnextgen" tvg-name="All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Juventus 🇮🇹_vs_Juventus Next Gen 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Club Friendly : Juventus 🇮🇹 vs Juventus Next Gen 🇮🇹 (18:00)
-https://dlhd.st/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="italycoppaitaliapisavsempoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Pisa 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)
-https://dlhd.st/watch.php?id=857
-
-#EXTINF:-1 tvg-id="italycoppaitaliapisavsempoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Pisa 🇮🇹_vs_Empoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Pisa 🇮🇹 vs Empoli 🇮🇹 (18:00)
-https://dlhd.st/watch.php?id=3046
-
-#EXTINF:-1 tvg-id="italycoppaitaliasassuolovscesena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Sassuolo 🇮🇹_vs_Cesena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=854
-
-#EXTINF:-1 tvg-id="italycoppaitaliasassuolovscesena" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Sassuolo 🇮🇹_vs_Cesena 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Sassuolo 🇮🇹 vs Cesena 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=3045
-
-#EXTINF:-1 tvg-id="italycoppaitaliacremonesevssampdoria" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cremonese 🇮🇹_vs_Sampdoria 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)
-https://dlhd.st/watch.php?id=857
-
-#EXTINF:-1 tvg-id="italycoppaitaliacremonesevssampdoria" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cremonese 🇮🇹_vs_Sampdoria 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Cremonese 🇮🇹 vs Sampdoria 🇮🇹 (20:45)
-https://dlhd.st/watch.php?id=3046
-
-#EXTINF:-1 tvg-id="italycoppaitaliapalermovslecce" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Palermo 🇮🇹_vs_Lecce 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)
-https://dlhd.st/watch.php?id=854
-
-#EXTINF:-1 tvg-id="italycoppaitaliapalermovslecce" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Palermo 🇮🇹_vs_Lecce 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Coppa Italia : Palermo 🇮🇹 vs Lecce 🇮🇹 (21:15)
-https://dlhd.st/watch.php?id=3045
-
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta3rdroundampdoubles1stround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)
+#EXTINF:-1 tvg-id="uefachampionsleaguefenerbahçevsolympiquelyonnais" tvg-name="All Soccer Events ⚽ | ⚽ 🇹🇷 UEFA Champions League : Fenerbahçe 🇹🇷 vs Olympique Lyonnais 🇫🇷 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fenerbahçe 🇹🇷_vs_Olympique Lyonnais 🇫🇷.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇹🇷 UEFA Champions League : Fenerbahçe 🇹🇷 vs Olympique Lyonnais 🇫🇷 (21:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="2026cincinnatiopentennisatpwta3rdroundampdoubles1stround" tvg-name="Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)" tvg-logo="https://img.ifunny.co/images/49054d614571d19175e13b229bc24e90a605afb3129d3ada0f1c499fc09a0e8a_1.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 Cincinnati Open Tennis ATP/WTA : 3rd Round &amp; Doubles 1st Round (17:00)
-https://dlhd.st/watch.php?id=576
-
-#EXTINF:-1 tvg-id="womenslongjumpfinalbirmingham" tvg-name="Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)" tvg-logo="https://kennisislakemarina.com/cdn/shop/files/Larson_Bowrider.png?v=1753280975" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 Women's Long Jump Final : Birmingham (19:00)
+#EXTINF:-1 tvg-id="uefachampionsleaguelevskisofiavsaekathens" tvg-name="All Soccer Events ⚽ | ⚽ 🇧🇬 UEFA Champions League : Levski Sofia 🇧🇬 vs AEK Athens 🇬🇷 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Levski Sofia 🇧🇬_vs_AEK Athens 🇬🇷.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇧🇬 UEFA Champions League : Levski Sofia 🇧🇬 vs AEK Athens 🇬🇷 (21:00)
 https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="atpwta3rdroundatpdoubles1stroundwtadoubles2ndround" tvg-name="Tennis 🎾 | 🎾 ATP/WTA 3rd Round; ATP Doubles 1st Round; WTA Doubles 2nd Round (17:00)" tvg-logo="http://www.pngall.com/wp-content/uploads/2017/03/Minnie-Mouse.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP/WTA 3rd Round; ATP Doubles 1st Round; WTA Doubles 2nd Round (17:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="atpwta3rdroundatpdoubles1stroundwtadoubles2ndround" tvg-name="Tennis 🎾 | 🎾 ATP/WTA 3rd Round; ATP Doubles 1st Round; WTA Doubles 2nd Round (17:00)" tvg-logo="https://cullyskitchen.com/wp-content/uploads/2022/01/nutrition-facts-lays.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 ATP/WTA 3rd Round; ATP Doubles 1st Round; WTA Doubles 2nd Round (17:00)
+https://dlhd.st/watch.php?id=576
 
