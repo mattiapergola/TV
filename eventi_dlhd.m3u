@@ -2,36 +2,33 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleaguevikingvsdinamozagreb" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Champions League : 🇳🇴 Viking vs 🇭🇷 Dinamo Zagreb (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/🇳🇴 Viking_vs_🇭🇷 Dinamo Zagreb.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Champions League : 🇳🇴 Viking vs 🇭🇷 Dinamo Zagreb (21:00)
-https://dlhd.st/watch.php?id=461
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguehapoeltelavivvsatalanta" tvg-name="UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Hapoel Tel Aviv 🇮🇱_vs_Atalanta 🇮🇹.png" group-title="Eventi Live DLHD",UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)
+https://dlhd.st/watch.php?id=6
 
-#EXTINF:-1 tvg-id="uefachampionsleagueaekathensvslevskisofia" tvg-name="All Soccer Events ⚽ | ⚽ 🇬🇪🇺 UEFA Champions League : 🇷 AEK Athens vs 🇧🇬 Levski Sofia (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/🇷 AEK Athens_vs_🇧🇬 Levski Sofia.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇬🇪🇺 UEFA Champions League : 🇷 AEK Athens vs 🇧🇬 Levski Sofia (21:00)
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguehapoeltelavivvsatalanta" tvg-name="UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Hapoel Tel Aviv 🇮🇱_vs_Atalanta 🇮🇹.png" group-title="Eventi Live DLHD",UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="usopenqualifying2ndroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸 (19:00)" tvg-logo="https://png.pngtree.com/template/20220222/ourmid/pngtree-fresh-and-simple-teacher-s-day-holiday-poster-image_795262.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸 (19:00)
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguehapoeltelavivvsatalanta" tvg-name="UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Hapoel Tel Aviv 🇮🇱_vs_Atalanta 🇮🇹.png" group-title="Eventi Live DLHD",UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="usopenqualifying2ndroundwinstonsalematpampmonterreywtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸 (19:00)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35b902b9-a8e9-41d0-a77a-8a30c17ee4fe/dj9v71c-3d47b2c4-86a2-4f65-b843-945262e57c56.png/v1/fill/w_1192,h_670,q_70,strp/roblox_deepwoken_fan_art__the_nameless_king_by_rusliyt_dj9v71c-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2MCIsInBhdGgiOiJcL2ZcLzM1YjkwMmI5LWE4ZTktNDFkMC1hNzdhLThhMzBjMTdlZTRmZVwvZGo5djcxYy0zZDQ3YjJjNC04NmEyLTRmNjUtYjg0My05NDUyNjJlNTdjNTYucG5nIiwid2lkdGgiOiI8PTM4NDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kbdJfk0ij10UgoXCi2U2tu6BCABVxvjxyK7IMBD7pyc" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 US Open Qualifying 2nd Round; Winston-Salem-ATP &amp; Monterrey-WTA Early Rounds 🇺🇸 (19:00)
+#EXTINF:-1 tvg-id="europeuefaconferenceleaguehapoeltelavivvsatalanta" tvg-name="UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Hapoel Tel Aviv 🇮🇱_vs_Atalanta 🇮🇹.png" group-title="Eventi Live DLHD",UEFA Conference League ⚽ | ⚽ 🇮🇱 Europe - UEFA Conference League : Hapoel Tel Aviv 🇮🇱 vs Atalanta 🇮🇹 (20:00)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)" tvg-logo="https://dam.mediacorp.sg/image/upload/s--sQgxaq83--/c_lfill,dpr_2.0,g_face:auto,h_800/f_auto,q_auto/v1/mediacorp/8days/image/2024/04/19/screenshot_2024_04_19_142618.png?itok=c91-l3rE" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="usopenqualifying3rdroundwinstonsalematpampmonterreywtaquarterfinals" tvg-name="Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)" tvg-logo="https://i1.kknews.cc/VcG5wXBH5B1lJHCLbLTkBLPrv4pq9k3aKQ/0.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Qualifying 3rd Round; Winston-Salem-ATP &amp; Monterrey-WTA Quarterfinals (19:00)
 https://dlhd.st/watch.php?id=576
 
-#EXTINF:-1 tvg-id="wuhanopenround4afternoonsession" tvg-name="Snooker 🎱 | 🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳 (08:00)" tvg-logo="https://littleyellowstarteaches.com/wp-content/uploads/2025/06/dolly-parton-quotes-for-kids-89.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳 (08:00)
+#EXTINF:-1 tvg-id="iaafdiamondleaguezurich" tvg-name="Athletics 🏃 | 🏃 IAAF Diamond League - Zurich (20:00)" tvg-logo="https://makylacreates.com/wp-content/uploads/2023/06/free-dress-sewing-patterns.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 IAAF Diamond League - Zurich (20:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="ucimountainbikeworldchampionshipswchampselitexccwomen" tvg-name="Cycling 🚴 | 🚵 UCI Mountain Bike World Championships : WChamps Elite XCC Women (17:35)" tvg-logo="https://lh6.googleusercontent.com/1tvAzT0UZj2snqU99oDebjl9xU-_oH6PUZDwRmqvsMCQd-xZMoiLA7YQBj78rqEwntPPdfbGNTnSPZnEr-nhZRSDvRkzgAPBbVRVpeR4uWyI6HO1zOSgEBRyh8D30sKQUR51vlAhNXoKrI453bDbF_U" group-title="Eventi Live DLHD",Cycling 🚴 | 🚵 UCI Mountain Bike World Championships : WChamps Elite XCC Women (17:35)
 https://dlhd.st/watch.php?id=878
 
-#EXTINF:-1 tvg-id="wuhanopenround4afternoonsession" tvg-name="Snooker 🎱 | 🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳 (13:30)" tvg-logo="https://pickersretrohaven.com.au/wp-content/uploads/2026/03/Untitled-design-86.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇨🇳 Wuhan Open | Round 4 Afternoon Session 🇨🇳 (13:30)
-https://dlhd.st/watch.php?id=879
-
-#EXTINF:-1 tvg-id="cyclingvueltaaespañastage5falsetcostadauradatoroquetesterresdelebre" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Cycling : Vuelta a España Stage 5 – Falset, Costa Daurada to Roquetes, Terres de l'Ebre (14:45)" tvg-logo="https://i.etsystatic.com/20546905/r/il/19662b/7982603858/il_fullxfull.7982603858_frvc.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Cycling : Vuelta a España Stage 5 – Falset, Costa Daurada to Roquetes, Terres de l'Ebre (14:45)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomenfrancewvsitalyw" tvg-name="Volleyball 🏐 | ⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/France W 🇫🇷_vs_Italy W 🇮🇹.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹 (16:00)
+#EXTINF:-1 tvg-id="europeanchampionshipswomenukrainewvsserbiaw" tvg-name="Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="europeanchampionshipswomenfrancewvsitalyw" tvg-name="Volleyball 🏐 | ⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹 (16:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/France W 🇫🇷_vs_Italy W 🇮🇹.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇫🇷 European Championships Women : France W 🇫🇷 vs Italy W 🇮🇹 (16:00)
-https://dlhd.st/watch.php?id=462
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomengermanywvsturkeyw" tvg-name="Volleyball 🏐 | ⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Germany W 🇩🇪_vs_Turkey W 🇹🇷.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷 (18:00)
-https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="europeanchampionshipswomengermanywvsturkeyw" tvg-name="Volleyball 🏐 | ⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Germany W 🇩🇪_vs_Turkey W 🇹🇷.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇩🇪 European Championships Women : Germany W 🇩🇪 vs Turkey W 🇹🇷 (18:00)
+#EXTINF:-1 tvg-id="europeanchampionshipswomenukrainewvsserbiaw" tvg-name="Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)" tvg-logo="https://www.yashodahospitals.com/wp-content/uploads/Hernia-What-You-Need-To-Know_Body-3.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇺🇦 European Championships Women : Ukraine W 🇺🇦 vs Serbia W 🇷🇸 (16:00)
 https://dlhd.st/watch.php?id=462
 
