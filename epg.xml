@@ -220826,7 +220826,507 @@
     <country lang="it">FRA</country>
     <episode-num system="onscreen">S1 E34</episode-num>
   </programme>
-<programme channel="608014d19a26320007c92ab6" start="20260830074800 +0000" stop="20260830081900 +0000">
+<channel id="69690bb672db627531285928">
+    <display-name>NFL Channel</display-name>
+    <icon src="https://images.pluto.tv/channels/69690bb672db627531285928/colorLogoPNG_1785250829369.png" />
+  </channel>
+  <channel id="62442f28afe626000747f195">
+    <display-name>I Jefferson</display-name>
+    <icon src="https://images.pluto.tv/channels/62442f28afe626000747f195/colorLogoPNG_1779087604763.png" />
+  </channel>
+  <channel id="66a0eea88561260008b1c5d0">
+    <display-name>Carabinieri</display-name>
+    <icon src="https://images.pluto.tv/channels/66a0eea88561260008b1c5d0/colorLogoPNG.png" />
+  </channel>
+  <channel id="6245d3792792150007e20634">
+    <display-name>Settimo Cielo</display-name>
+    <icon src="https://images.pluto.tv/channels/6245d3792792150007e20634/colorLogoPNG.png" />
+  </channel>
+  <channel id="67d9836ba1609bdb523f0c9d">
+    <display-name>Relic Hunter</display-name>
+    <icon src="https://images.pluto.tv/channels/67d9836ba1609bdb523f0c9d/colorLogoPNG.png" />
+  </channel>
+  <channel id="691c5b2e74baa89ef7230baf">
+    <display-name>Nina</display-name>
+    <icon src="https://images.pluto.tv/channels/691c5b2e74baa89ef7230baf/colorLogoPNG_1771598155961.png" />
+  </channel>
+  <channel id="60b9ff2722bfa400072676ef">
+    <display-name>Pluto TV Serie</display-name>
+    <icon src="https://images.pluto.tv/channels/60b9ff2722bfa400072676ef/colorLogoPNG_1779187121953.png" />
+  </channel>
+  <channel id="60a2837f8154ab0007c4dcdf">
+    <display-name>Le sorelle McLeod</display-name>
+    <icon src="https://images.pluto.tv/channels/60a2837f8154ab0007c4dcdf/colorLogoPNG.png" />
+  </channel>
+  <channel id="62e7fa5ab5062e0007dcf97d">
+    <display-name>BBC Series</display-name>
+    <icon src="https://images.pluto.tv/channels/62e7fa5ab5062e0007dcf97d/colorLogoPNG_1770365241843.png" />
+  </channel>
+  <channel id="6349279ed5023700078f2bc2">
+    <display-name>Mai dire sì</display-name>
+    <icon src="https://images.pluto.tv/channels/6349279ed5023700078f2bc2/colorLogoPNG.png" />
+  </channel>
+  <channel id="69664afedcbf5c784492e422">
+    <display-name>The Intern</display-name>
+    <icon src="https://images.pluto.tv/channels/69664afedcbf5c784492e422/colorLogoPNG_1772434734016.png" />
+  </channel>
+  <channel id="66d7120815d2c60008cec006">
+    <display-name>Flashpoint</display-name>
+    <icon src="https://images.pluto.tv/channels/66d7120815d2c60008cec006/colorLogoPNG.png" />
+  </channel>
+  <channel id="66a8c7aefe11e500085b1587">
+    <display-name>Cherif</display-name>
+    <icon src="https://images.pluto.tv/channels/66a8c7aefe11e500085b1587/colorLogoPNG.png" />
+  </channel>
+  <channel id="66a8c8b3d2d50d000821fc4c">
+    <display-name>Tandem</display-name>
+    <icon src="https://images.pluto.tv/channels/66a8c8b3d2d50d000821fc4c/colorLogoPNG.png" />
+  </channel>
+  <channel id="66d9aa4315d2c60008d4ac40">
+    <display-name>Alice Nevers</display-name>
+    <icon src="https://images.pluto.tv/channels/66d9aa4315d2c60008d4ac40/colorLogoPNG.png" />
+  </channel>
+  <channel id="66d9a98961dbf00008efb5fc">
+    <display-name>Sulle tracce del crimine</display-name>
+    <icon src="https://images.pluto.tv/channels/66d9a98961dbf00008efb5fc/colorLogoPNG.png" />
+  </channel>
+  <channel id="6500457d3efb510008315e59">
+    <display-name>New Tricks</display-name>
+    <icon src="https://images.pluto.tv/channels/6500457d3efb510008315e59/colorLogoPNG.png" />
+  </channel>
+  <channel id="625e6cc905e09f00073addee">
+    <display-name>Squadra Speciale Cobra 11</display-name>
+    <icon src="https://images.pluto.tv/channels/625e6cc905e09f00073addee/colorLogoPNG_1761308604738.png" />
+  </channel>
+  <channel id="69fc9010f6ac24413f520103">
+    <display-name>ZDF Squadra Speciale Lipsia</display-name>
+    <icon src="https://images.pluto.tv/channels/69fc9010f6ac24413f520103/colorLogoPNG_1780491443862.png" />
+  </channel>
+  <channel id="69fc8fd109705ebdf782724a">
+    <display-name>ZDF Guardia Costiera</display-name>
+    <icon src="https://images.pluto.tv/channels/69fc8fd109705ebdf782724a/colorLogoPNG_1780491297687.png" />
+  </channel>
+  <channel id="638f286445264d00084ec6dc">
+    <display-name>Autostop per il cielo</display-name>
+    <icon src="https://images.pluto.tv/channels/638f286445264d00084ec6dc/colorLogoPNG.png" />
+  </channel>
+  <channel id="608aa777b907770007e5d05d">
+    <display-name>Pluto TV Serie Crime</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png" />
+  </channel>
+  <channel id="65cb78b83a116800079e2e35">
+    <display-name>Cin Cin</display-name>
+    <icon src="https://images.pluto.tv/channels/65cb78b83a116800079e2e35/colorLogoPNG.png" />
+  </channel>
+  <channel id="65cb76723a116800079e1fc3">
+    <display-name>Love Boat</display-name>
+    <icon src="https://images.pluto.tv/channels/65cb76723a116800079e1fc3/colorLogoPNG.png" />
+  </channel>
+  <channel id="65cb76ea11ced70008206b66">
+    <display-name>Dynasty</display-name>
+    <icon src="https://images.pluto.tv/channels/65cb76ea11ced70008206b66/colorLogoPNG.png" />
+  </channel>
+  <channel id="65cb77853ba51e00084cba02">
+    <display-name>Mission Impossible</display-name>
+    <icon src="https://images.pluto.tv/channels/65cb77853ba51e00084cba02/colorLogoPNG.png" />
+  </channel>
+  <channel id="634926e4b51d2d00077819a2">
+    <display-name>Renegade</display-name>
+    <icon src="https://images.pluto.tv/channels/634926e4b51d2d00077819a2/colorLogoPNG.png" />
+  </channel>
+  <channel id="608aa17fb9f4490007e6419a">
+    <display-name>Pluto TV Film</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png" />
+  </channel>
+  <channel id="608aa20a2e7f270007c4878d">
+    <display-name>Pluto TV Film Azione</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png" />
+  </channel>
+  <channel id="61c09e3ac210ed0007606620">
+    <display-name>Pluto TV Horror</display-name>
+    <icon src="https://images.pluto.tv/channels/61c09e3ac210ed0007606620/colorLogoPNG.png" />
+  </channel>
+  <channel id="608aa5e995132a00075f7005">
+    <display-name>Pluto TV Film Thriller</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa5e995132a00075f7005/colorLogoPNG.png" />
+  </channel>
+  <channel id="64808a8c536e0c0008a276d1">
+    <display-name>Pluto TV Legami Letali</display-name>
+    <icon src="https://images.pluto.tv/channels/64808a8c536e0c0008a276d1/colorLogoPNG_1747395859514.png" />
+  </channel>
+  <channel id="608aa4a4cc92820007b663af">
+    <display-name>Pluto TV Film Romantici</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png" />
+  </channel>
+  <channel id="699d87093d5dba980705cca8">
+    <display-name>Pluto TV Film Ancora Più Romantici</display-name>
+    <icon src="https://images.pluto.tv/channels/699d87093d5dba980705cca8/colorLogoPNG_1777274173528.png" />
+  </channel>
+  <channel id="608aa512d67fd900072323db">
+    <display-name>Pluto TV Film Commedia</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png" />
+  </channel>
+  <channel id="612e05b885183d0007958101">
+    <display-name>Pluto TV Christmas tutto l'anno</display-name>
+    <icon src="https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png" />
+  </channel>
+  <channel id="62e7fb67478a5b0007e6c50c">
+    <display-name>Pluto TV Western</display-name>
+    <icon src="https://images.pluto.tv/channels/62e7fb67478a5b0007e6c50c/colorLogoPNG_1732029652283.png" />
+  </channel>
+  <channel id="65253f9881f942000833ccd5">
+    <display-name>Pluto TV Totò</display-name>
+    <icon src="https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png" />
+  </channel>
+  <channel id="661f8f01801af800083d9d81">
+    <display-name>Pluto TV Alberto Sordi</display-name>
+    <icon src="https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png" />
+  </channel>
+  <channel id="608aa7d8359b270007861489">
+    <display-name>Pluto TV Cinema Italiano</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png" />
+  </channel>
+  <channel id="671754d8e482950008962aaf">
+    <display-name>Cinema Poliziottesco</display-name>
+    <icon src="https://images.pluto.tv/channels/671754d8e482950008962aaf/colorLogoPNG.png" />
+  </channel>
+  <channel id="66335489307fa300082bd6e4">
+    <display-name>Pluto TV Eros</display-name>
+    <icon src="https://images.pluto.tv/channels/66335489307fa300082bd6e4/colorLogoPNG.png" />
+  </channel>
+  <channel id="6786235bd648bf0008c2780a">
+    <display-name>Pluto TV Cinema Orientale</display-name>
+    <icon src="https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png" />
+  </channel>
+  <channel id="68750875759366af05a151ce">
+    <display-name>Pluto TV Film Storici</display-name>
+    <icon src="https://images.pluto.tv/channels/68750875759366af05a151ce/colorLogoPNG_1756144116606.png" />
+  </channel>
+  <channel id="65f865a62873090008d06382">
+    <display-name>Duri a Morire</display-name>
+    <icon src="https://images.pluto.tv/channels/65f865a62873090008d06382/colorLogoPNG.png" />
+  </channel>
+  <channel id="6536608b4f123d000876b78b">
+    <display-name>Gli Immortali – Seagal vs Lundgren</display-name>
+    <icon src="https://images.pluto.tv/channels/6536608b4f123d000876b78b/colorLogoPNG_1784618231947.png" />
+  </channel>
+  <channel id="653660b4295b840008a70ba3">
+    <display-name>CineThriller</display-name>
+    <icon src="https://images.pluto.tv/channels/653660b4295b840008a70ba3/colorLogoPNG_1749022092472.png" />
+  </channel>
+  <channel id="6911c8dd8caba6f046c5c5d5">
+    <display-name>Pluto TV Notti di Terrore</display-name>
+    <icon src="https://images.pluto.tv/channels/6911c8dd8caba6f046c5c5d5/colorLogoPNG_1766041208757.png" />
+  </channel>
+  <channel id="6911c92b4316999535eb1e08">
+    <display-name>Pluto TV Notti di Sangue</display-name>
+    <icon src="https://images.pluto.tv/channels/6911c92b4316999535eb1e08/colorLogoPNG_1766041125862.png" />
+  </channel>
+  <channel id="6911c9704316999535eb21cf">
+    <display-name>Pluto TV Notti di Passione</display-name>
+    <icon src="https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png" />
+  </channel>
+  <channel id="66c35c0c92b1af0008c8e83a">
+    <display-name>Horror Club</display-name>
+    <icon src="https://images.pluto.tv/channels/66c35c0c92b1af0008c8e83a/colorLogoPNG.png" />
+  </channel>
+  <channel id="66c70033b1a34600087bb09a">
+    <display-name>Pluto TV Paranormal</display-name>
+    <icon src="https://images.pluto.tv/channels/66c70033b1a34600087bb09a/colorLogoPNG.png" />
+  </channel>
+  <channel id="62e8d5369e48940007fc1dc1">
+    <display-name>The Asylum</display-name>
+    <icon src="https://images.pluto.tv/channels/62e8d5369e48940007fc1dc1/colorLogoPNG.png" />
+  </channel>
+  <channel id="67ed14aaf7c5d70b9089c3bf">
+    <display-name>Pluto TV Serie Sci-Fi</display-name>
+    <icon src="https://images.pluto.tv/channels/67ed14aaf7c5d70b9089c3bf/colorLogoPNG_1750259768860.png" />
+  </channel>
+  <channel id="61728bb9ee3773000840c1fa">
+    <display-name>Pluto TV Sci-Fi</display-name>
+    <icon src="https://images.pluto.tv/channels/61728bb9ee3773000840c1fa/colorLogoPNG.png" />
+  </channel>
+  <channel id="65cb73d33ba51e00084cabad">
+    <display-name>Star Trek: Voyager</display-name>
+    <icon src="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" />
+  </channel>
+  <channel id="60802d37ee238e0007c94e64">
+    <display-name>Andromeda</display-name>
+    <icon src="https://images.pluto.tv/channels/60802d37ee238e0007c94e64/colorLogoPNG.png" />
+  </channel>
+  <channel id="63eb57d6c111bc0008fe2658">
+    <display-name>Sanctuary</display-name>
+    <icon src="https://images.pluto.tv/channels/63eb57d6c111bc0008fe2658/colorLogoPNG.png" />
+  </channel>
+  <channel id="66d9ab4bf0f17500084e9b7e">
+    <display-name>Pluto TV True Crime</display-name>
+    <icon src="https://images.pluto.tv/channels/66d9ab4bf0f17500084e9b7e/colorLogoPNG.png" />
+  </channel>
+  <channel id="64ec5cf50f73a800081310a5">
+    <display-name>Forensic Files</display-name>
+    <icon src="https://images.pluto.tv/channels/64ec5cf50f73a800081310a5/colorLogoPNG.png" />
+  </channel>
+  <channel id="66177d18c8311c0008d077d0">
+    <display-name>Storie Criminali</display-name>
+    <icon src="https://images.pluto.tv/channels/66177d18c8311c0008d077d0/colorLogoPNG.png" />
+  </channel>
+  <channel id="60e4507a06171800072339a3">
+    <display-name>Il Banco dei Pugni</display-name>
+    <icon src="https://images.pluto.tv/channels/60e4507a06171800072339a3/colorLogoPNG.png" />
+  </channel>
+  <channel id="64ec5c6644fe100009d114ae">
+    <display-name>Affare Fatto</display-name>
+    <icon src="https://images.pluto.tv/channels/64ec5c6644fe100009d114ae/colorLogoPNG.png" />
+  </channel>
+  <channel id="690cb9140d121b44ad925ac9">
+    <display-name>Mayday: Disastro Aereo</display-name>
+    <icon src="https://images.pluto.tv/channels/690cb9140d121b44ad925ac9/colorLogoPNG_1762957819953.png" />
+  </channel>
+  <channel id="67c832cc9b53325ee16fb899">
+    <display-name>Wicked Tuna</display-name>
+    <icon src="https://images.pluto.tv/channels/67c832cc9b53325ee16fb899/colorLogoPNG.png" />
+  </channel>
+  <channel id="61fbd3f0733df400076c9a2d">
+    <display-name>Il Testimone</display-name>
+    <icon src="https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/colorLogoPNG.png" />
+  </channel>
+  <channel id="6093f9ed2c75660007322bb7">
+    <display-name>Catfish</display-name>
+    <icon src="https://images.pluto.tv/channels/6093f9ed2c75660007322bb7/colorLogoPNG_1750862971704.png" />
+  </channel>
+  <channel id="619263ee9541940007d20d60">
+    <display-name>Geordie Shore</display-name>
+    <icon src="https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png" />
+  </channel>
+  <channel id="67e3b0d2443f0671bc8a1297">
+    <display-name>Pluto TV Shore</display-name>
+    <icon src="https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png" />
+  </channel>
+  <channel id="60940a07d88ba90007b9cb71">
+    <display-name>16 Anni e Incinta</display-name>
+    <icon src="https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png" />
+  </channel>
+  <channel id="62e7fc8c0d061100083946a9">
+    <display-name>Teen Mom</display-name>
+    <icon src="https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png" />
+  </channel>
+  <channel id="64c109a4798def0008a6e03e">
+    <display-name>Top Gear</display-name>
+    <icon src="https://images.pluto.tv/channels/64c109a4798def0008a6e03e/colorLogoPNG.png" />
+  </channel>
+  <channel id="691c5bef3a369d8f40192e71">
+    <display-name>Inter 24/7</display-name>
+    <icon src="https://images.pluto.tv/channels/691c5bef3a369d8f40192e71/colorLogoPNG_1775046814007.png" />
+  </channel>
+  <channel id="69148c76e9dec35c9269a16c">
+    <display-name>Pluto TV Snooker 900</display-name>
+    <icon src="https://images.pluto.tv/channels/69148c76e9dec35c9269a16c/colorLogoPNG_1763016465334.png" />
+  </channel>
+  <channel id="696e0fe49ba4ac18057433ac">
+    <display-name>Rally TV</display-name>
+    <icon src="https://images.pluto.tv/channels/696e0fe49ba4ac18057433ac/colorLogoPNG_1770893941495.png" />
+  </channel>
+  <channel id="6971fc6dca441014e4600f2c">
+    <display-name>Automoto</display-name>
+    <icon src="https://images.pluto.tv/channels/6971fc6dca441014e4600f2c/colorLogoPNG_1773155503349.png" />
+  </channel>
+  <channel id="660bfc4424e1d000085b5f93">
+    <display-name>FIFA+</display-name>
+    <icon src="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" />
+  </channel>
+  <channel id="608016e446d73500075ea7e0">
+    <display-name>World Poker Tour</display-name>
+    <icon src="https://images.pluto.tv/channels/608016e446d73500075ea7e0/colorLogoPNG.png" />
+  </channel>
+  <channel id="608030eff4b6f70007e1684c">
+    <display-name>Pluto TV Sport</display-name>
+    <icon src="https://images.pluto.tv/channels/608030eff4b6f70007e1684c/colorLogoPNG_1746816937164.png" />
+  </channel>
+  <channel id="679203d4bc03978b9b4b79a6">
+    <display-name>UFC</display-name>
+    <icon src="https://images.pluto.tv/channels/679203d4bc03978b9b4b79a6/colorLogoPNG.png" />
+  </channel>
+  <channel id="671655b2daad7f00085d202d">
+    <display-name>MODUS Super Series Darts</display-name>
+    <icon src="https://images.pluto.tv/channels/671655b2daad7f00085d202d/colorLogoPNG_1732093506297.png" />
+  </channel>
+  <channel id="62bc1f502b70e3000706298e">
+    <display-name>South Park</display-name>
+    <icon src="https://images.pluto.tv/channels/62bc1f502b70e3000706298e/colorLogoPNG.png" />
+  </channel>
+  <channel id="6602acadb2abe500081cf28a">
+    <display-name>I soliti idioti</display-name>
+    <icon src="https://images.pluto.tv/channels/6602acadb2abe500081cf28a/colorLogoPNG.png" />
+  </channel>
+  <channel id="609404b0a8ec810007d8de9d">
+    <display-name>Pluto TV Scherzi e risate</display-name>
+    <icon src="https://images.pluto.tv/channels/609404b0a8ec810007d8de9d/colorLogoPNG.png" />
+  </channel>
+  <channel id="608014d19a26320007c92ab6">
+    <display-name>FailArmy</display-name>
+    <icon src="https://images.pluto.tv/channels/608014d19a26320007c92ab6/colorLogoPNG.png" />
+  </channel>
+  <channel id="6093f48c95132a00075fd859">
+    <display-name>Just for Laughs GAGS</display-name>
+    <icon src="https://images.pluto.tv/channels/6093f48c95132a00075fd859/colorLogoPNG_1745912777006.png" />
+  </channel>
+  <channel id="65d7211d0d45610008ffcf92">
+    <display-name>LOL Just For Laughs</display-name>
+    <icon src="https://images.pluto.tv/channels/65d7211d0d45610008ffcf92/colorLogoPNG_1758784569061.png" />
+  </channel>
+  <channel id="69affcad8940750a23a7231a">
+    <display-name>One Piece</display-name>
+    <icon src="https://images.pluto.tv/channels/69affcad8940750a23a7231a/colorLogoPNG_1783322322648.png" />
+  </channel>
+  <channel id="63eb82e24e83e70008ab735f">
+    <display-name>Yu-Gi-Oh!</display-name>
+    <icon src="https://images.pluto.tv/channels/63eb82e24e83e70008ab735f/colorLogoPNG.png" />
+  </channel>
+  <channel id="612375086abc84000738fc03">
+    <display-name>Inazuma Eleven</display-name>
+    <icon src="https://images.pluto.tv/channels/612375086abc84000738fc03/colorLogoPNG-1668928583258.png" />
+  </channel>
+  <channel id="65b90daed77d450008a43345">
+    <display-name>Pluto TV Anime</display-name>
+    <icon src="https://images.pluto.tv/channels/65b90daed77d450008a43345/colorLogoPNG_1747395522672.png" />
+  </channel>
+  <channel id="624da1cd2af90c0007c13205">
+    <display-name>Avatar</display-name>
+    <icon src="https://images.pluto.tv/channels/624da1cd2af90c0007c13205/colorLogoPNG.png" />
+  </channel>
+  <channel id="68adb5853efb41cd97ce413d">
+    <display-name>I Puffi</display-name>
+    <icon src="https://images.pluto.tv/channels/68adb5853efb41cd97ce413d/colorLogoPNG_1759447100016.png" />
+  </channel>
+  <channel id="6093f9281db477000759fce0">
+    <display-name>SpongeBob</display-name>
+    <icon src="https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1784271002457.png" />
+  </channel>
+  <channel id="6093f6f8351eb0000754afb8">
+    <display-name>Pluto TV Cartoni Animati</display-name>
+    <icon src="https://images.pluto.tv/channels/6093f6f8351eb0000754afb8/colorLogoPNG_1784270298163.png" />
+  </channel>
+  <channel id="67f4f99729b03f18cb36647e">
+    <display-name>Pluto TV Kids Classics</display-name>
+    <icon src="https://images.pluto.tv/channels/67f4f99729b03f18cb36647e/colorLogoPNG_1784270665487.png" />
+  </channel>
+  <channel id="686cfdf894a028da3aac4252">
+    <display-name>Barbie &amp; Friends</display-name>
+    <icon src="https://images.pluto.tv/channels/686cfdf894a028da3aac4252/colorLogoPNG_1765896833779.png" />
+  </channel>
+  <channel id="686cfe983ffa5e0c91cdb5df">
+    <display-name>Mattel Junior</display-name>
+    <icon src="https://images.pluto.tv/channels/686cfe983ffa5e0c91cdb5df/colorLogoPNG_1765897494203.png" />
+  </channel>
+  <channel id="62619405c733e8000732d1fe">
+    <display-name>Teenage Mutant Ninja Turtles</display-name>
+    <icon src="https://images.pluto.tv/channels/62619405c733e8000732d1fe/colorLogoPNG.png" />
+  </channel>
+  <channel id="66a8c64814a2bb00084d09d6">
+    <display-name>Gormiti</display-name>
+    <icon src="https://images.pluto.tv/channels/66a8c64814a2bb00084d09d6/colorLogoPNG.png" />
+  </channel>
+  <channel id="63eb573ba99571000897135b">
+    <display-name>Pluto TV Teen</display-name>
+    <icon src="https://images.pluto.tv/channels/63eb573ba99571000897135b/colorLogoPNG_1768492753362.png" />
+  </channel>
+  <channel id="609401db8cf51c00084b592e">
+    <display-name>iCarly</display-name>
+    <icon src="https://images.pluto.tv/channels/609401db8cf51c00084b592e/colorLogoPNG_1784270441871.png" />
+  </channel>
+  <channel id="6093f7b5bb49b90007cecaad">
+    <display-name>Pluto TV Teen Club</display-name>
+    <icon src="https://images.pluto.tv/channels/6093f7b5bb49b90007cecaad/colorLogoPNG_1784270785442.png" />
+  </channel>
+  <channel id="69fc903b201df02a8b0f3017">
+    <display-name>H2O &amp; Friends</display-name>
+    <icon src="https://images.pluto.tv/channels/69fc903b201df02a8b0f3017/colorLogoPNG_1780583326436.png" />
+  </channel>
+  <channel id="664f0ddbf78a8500092dcffa">
+    <display-name>Hell's Kitchen</display-name>
+    <icon src="https://images.pluto.tv/channels/664f0ddbf78a8500092dcffa/colorLogoPNG.png" />
+  </channel>
+  <channel id="6971fc07c945e6e4e5bc46bf">
+    <display-name>Gambero Rosso</display-name>
+    <icon src="https://images.pluto.tv/channels/6971fc07c945e6e4e5bc46bf/colorLogoPNG_1771841506820.png" />
+  </channel>
+  <channel id="608aa718a8ec810007d87fee">
+    <display-name>Pluto TV Cucina</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png" />
+  </channel>
+  <channel id="60801976f92a750007a0699c">
+    <display-name>Pluto TV Real Life</display-name>
+    <icon src="https://images.pluto.tv/channels/60801976f92a750007a0699c/colorLogoPNG_1775123848385.png" />
+  </channel>
+  <channel id="63c923944207be0007fd0887">
+    <display-name>Pluto TV Viaggi</display-name>
+    <icon src="https://images.pluto.tv/channels/63c923944207be0007fd0887/colorLogoPNG_1774882201565.png" />
+  </channel>
+  <channel id="6661739641af6400080cd8f1">
+    <display-name>Extreme Makeover Home Edition</display-name>
+    <icon src="https://images.pluto.tv/channels/6661739641af6400080cd8f1/colorLogoPNG.png" />
+  </channel>
+  <channel id="69b1489b5828e7c242d83064">
+    <display-name>Space Live</display-name>
+    <icon src="https://images.pluto.tv/channels/69b1489b5828e7c242d83064/colorLogoPNG_1775118441487.png" />
+  </channel>
+  <channel id="608aa8a5709d6b0007b132fe">
+    <display-name>Pluto TV Documentari</display-name>
+    <icon src="https://images.pluto.tv/channels/608aa8a5709d6b0007b132fe/colorLogoPNG.png" />
+  </channel>
+  <channel id="65253fdf3fd33c00080214a3">
+    <display-name>Pluto TV Storia</display-name>
+    <icon src="https://images.pluto.tv/channels/65253fdf3fd33c00080214a3/colorLogoPNG_1773147329671.png" />
+  </channel>
+  <channel id="6a439aae539f6cfa9cd04d27">
+    <display-name>Pluto TV Arte</display-name>
+    <icon src="https://images.pluto.tv/channels/6a439aae539f6cfa9cd04d27/colorLogoPNG_1785329587571.png" />
+  </channel>
+  <channel id="610a9ebe8c2ac2000734776e">
+    <display-name>Naturescape</display-name>
+    <icon src="https://images.pluto.tv/channels/610a9ebe8c2ac2000734776e/colorLogoPNG.png" />
+  </channel>
+  <channel id="60802b37709d6b0007b0c549">
+    <display-name>Pluto TV Natura</display-name>
+    <icon src="https://images.pluto.tv/channels/60802b37709d6b0007b0c549/colorLogoPNG_1773147389391.png" />
+  </channel>
+  <channel id="6231ec4b62cd1f0007093c7b">
+    <display-name>CBS News 24/7</display-name>
+    <icon src="https://images.pluto.tv/channels/6231ec4b62cd1f0007093c7b/colorLogoPNG.png" />
+  </channel>
+  <channel id="66c45ba803e3b20008d8c294">
+    <display-name>CNN Headlines International</display-name>
+    <icon src="https://images.pluto.tv/channels/66c45ba803e3b20008d8c294/colorLogoPNG_1775159849441.png" />
+  </channel>
+  <channel id="61b86ea479a4390007c6d5fc">
+    <display-name>Euronews</display-name>
+    <icon src="https://images.pluto.tv/channels/61b86ea479a4390007c6d5fc/colorLogoPNG.png" />
+  </channel>
+  <channel id="6971fc932c004063166ac8fd">
+    <display-name>Il Sole24Ore TV</display-name>
+    <icon src="https://images.pluto.tv/channels/6971fc932c004063166ac8fd/colorLogoPNG_1773240969038.png" />
+  </channel>
+  <channel id="69ef572280ef8232ceef596b">
+    <display-name>That's 60s</display-name>
+    <icon src="https://images.pluto.tv/channels/69ef572280ef8232ceef596b/colorLogoPNG_1779270729947.png" />
+  </channel>
+  <channel id="69ef53e12f4d2b4f9c582e76">
+    <display-name>That's 70s</display-name>
+    <icon src="https://images.pluto.tv/channels/69ef53e12f4d2b4f9c582e76/colorLogoPNG_1779094999764.png" />
+  </channel>
+  <channel id="69ef54f3c700cf0140272def">
+    <display-name>That's 80s</display-name>
+    <icon src="https://images.pluto.tv/channels/69ef54f3c700cf0140272def/colorLogoPNG_1779094967843.png" />
+  </channel>
+  <channel id="69ef55c3b80e144b55d74e36">
+    <display-name>That's 90s/00s</display-name>
+    <icon src="https://images.pluto.tv/channels/69ef55c3b80e144b55d74e36/colorLogoPNG_1779094979748.png" />
+  </channel>
+  <channel id="69ef5682980899a9edf1a884">
+    <display-name>That's Rock</display-name>
+    <icon src="https://images.pluto.tv/channels/69ef5682980899a9edf1a884/colorLogoPNG_1779094988172.png" />
+  </channel>
+  <programme channel="608014d19a26320007c92ab6" start="20260830074800 +0000" stop="20260830081900 +0000">
     <title>FailArmy Expectations vs. Reality</title>
     <live />
     <episode-num system="original-air-date">20260830074800 +0000</episode-num>
