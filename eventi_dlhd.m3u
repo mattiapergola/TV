@@ -2,12 +2,48 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="coppaitaliaseriecsorrentovscosenza" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Sorrento 🇮🇹 vs Cosenza 🇮🇹 (18:30)" tvg-logo="https://img.atlasobscura.com/1Io6mRJVC9WNM9oQrYc3QXiwbJjByFp_nobaLhgW7w0/rt:fit/w:1280/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jZTJkN2U1MTMy/ZGI5Yzk5YTNfQy50/cnVuY2F0dXNfU3Vw/ZXJpbmEoMSkuSlBH.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Sorrento 🇮🇹 vs Cosenza 🇮🇹 (18:30)
+#EXTINF:-1 tvg-id="coppaitaliapalermovsmantova" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Palermo 🇮🇹 vs Mantova 🇮🇹 (18:00)" tvg-logo="https://www.experiencedtravellers.com/wp-content/uploads/2021/06/Palermo-Sicily-Italy.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Palermo 🇮🇹 vs Mantova 🇮🇹 (18:00)
+https://dlhd.st/watch.php?id=854
+
+#EXTINF:-1 tvg-id="coppaitaliacagliarivsverona" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Cagliari 🇮🇹 vs Verona 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cagliari 🇮🇹_vs_Verona 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Cagliari 🇮🇹 vs Verona 🇮🇹 (21:00)
+https://dlhd.st/watch.php?id=854
+
+#EXTINF:-1 tvg-id="coppaitaliaseriectrentovsdesenzanocalvina" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Trento 🇮🇹_vs_Desenzano Calvina 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)
+https://dlhd.st/watch.php?id=9
+
+#EXTINF:-1 tvg-id="coppaitaliaseriectrentovsdesenzanocalvina" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Trento 🇮🇹_vs_Desenzano Calvina 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="britishopen2ndround" tvg-name="Snooker 🎱 | 🎱 British Open | 2nd Round (20:00)" tvg-logo="https://www.al.com/resizer/lNAUMvBNbZflVZqZUUCm1SDGYjc=/800x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/M6RLTR6PXVDPLFCOQEONYY5G4A.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 British Open | 2nd Round (20:00)
+#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)" tvg-logo="https://c8.alamy.com/comp/CFNYDA/drake-the-53rd-annual-grammy-awards-at-the-staples-center-red-carpet-CFNYDA.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)" tvg-logo="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/aurora-borealis-over-iceland-gnther-egger.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJRQerrFSP5FpdD1mlYx5MaWACCei35z9PbAVx3NGFQAtoHPo2SyPxtdE0puUN_N7OSez8H9zIdiui2AvEssATj31p18vt5jrTee4fyvZub9f_B3zELKOKbTUA9AeLk_iNa2bKK7eeb_e7R4XcK7APKJ0IIP568cREZQOoQ8fvpy8-TSnvYztaPGFnqiUC/w1200-h630-p-k-no-nu/Arte-y-Cultura-pz5s1yfh6ku8unanhs8ly9r6rlt374uxlbq9f1msd0.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)
 https://dlhd.st/watch.php?id=879
 
-#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalsitalywvsswedenw" tvg-name="Volleyball 🏐 | 🏐 🇮🇹 European Championships Women Quarterfinals : Italy W 🇮🇹 vs Sweden W 🇸🇪 (19:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Italy W 🇮🇹_vs_Sweden W 🇸🇪.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇮🇹 European Championships Women Quarterfinals : Italy W 🇮🇹 vs Sweden W 🇸🇪 (19:00)
+#EXTINF:-1 tvg-id="2026usopentennismensampwomenssecondround" tvg-name="Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)" tvg-logo="https://images.axios.com/1guLfePdwU93rD9LXXe-1oDnPqc=/1366x768/smart/2017/12/15/1513304815670.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🇺🇸 2026 US Open Tennis Men's &amp; Women's Second Round (17:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="britishopen3rdround" tvg-name="Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (14:00)" tvg-logo="https://storage-asset.msi.com/event/spb/2019/best-gaming-desktop-pc/images/kv-pd.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (14:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="britishopen3rdround" tvg-name="Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (20:00)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGC_eNkqKNBLQxZSEx7zVBcI0ywfOlsbBzwd25_C5bnbe2d03ZvRuur8eF0SX8ogcc07MxXIuPx8j2bhHe3zJQXYzARxVIcR70Ro-owc5dQg2qLc5FPOERk7BhkAT2bBejTIOK5S-KVztO/s1600/EMANCIPATION+DAY+AUGUST++1-1834.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (20:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="vueltaaespanastage2mountain166km4400m" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Vuelta a Espana Stage 2 - Mountain | 166 km | 4400 m (15:00)" tvg-logo="https://statico.soapcentral.com/editor/2026/03/5ee83-17732096120081.jpg?w=640" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Vuelta a Espana Stage 2 - Mountain | 166 km | 4400 m (15:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalspolandwvsnetherlandsw" tvg-name="Volleyball 🏐 | 🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱 (15:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Poland W 🇵🇱_vs_Netherlands W 🇳🇱.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱 (15:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalspolandwvsnetherlandsw" tvg-name="Volleyball 🏐 | 🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱 (15:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Poland W 🇵🇱_vs_Netherlands W 🇳🇱.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇵🇱 European Championships Women Quarterfinals : Poland W 🇵🇱 vs Netherlands W 🇳🇱 (15:00)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalsgermanywvstürkiyewazerbaijanw" tvg-name="Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (18:00)" tvg-logo="https://www.mappr.co/wp-content/uploads/2023/07/germany-states-map.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (18:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="europeanchampionshipswomenquarterfinalsgermanywvstürkiyewazerbaijanw" tvg-name="Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (18:00)" tvg-logo="https://www.mappr.co/wp-content/uploads/2023/07/germany-states-map.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇩🇪 European Championships Women Quarterfinals : Germany W 🇩🇪 vs Türkiye W 🇹🇷 / Azerbaijan W 🇦🇿 (18:00)
 https://dlhd.st/watch.php?id=462
 
