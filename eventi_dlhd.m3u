@@ -2,15 +2,57 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="coppaitaliacagliarivsverona" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Cagliari 🇮🇹 vs Verona 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cagliari 🇮🇹_vs_Verona 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia : Cagliari 🇮🇹 vs Verona 🇮🇹 (21:00)
-https://dlhd.st/watch.php?id=854
-
-#EXTINF:-1 tvg-id="coppaitaliaseriectrentovsdesenzanocalvina" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Trento 🇮🇹_vs_Desenzano Calvina 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)
-https://dlhd.st/watch.php?id=9
-
-#EXTINF:-1 tvg-id="coppaitaliaseriectrentovsdesenzanocalvina" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Trento 🇮🇹_vs_Desenzano Calvina 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Coppa Italia Serie C : Trento 🇮🇹 vs Desenzano Calvina 🇮🇹 (21:00)
+#EXTINF:-1 tvg-id="germanybundesliga2hannover96vskarlsruhersc" tvg-name="All Soccer Events ⚽ | Germany - Bundesliga 2 : Hannover 96 vs Karlsruher SC (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Hannover 96_vs_Karlsruher SC.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | Germany - Bundesliga 2 : Hannover 96 vs Karlsruher SC (18:30)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="britishopen3rdround" tvg-name="Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (20:00)" tvg-logo="https://rmkshoes.com/wp-content/uploads/hoka-wide-and-regular.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 🇬🇧 British Open | 3rd Round (20:00)
+#EXTINF:-1 tvg-id="italyserieagenoavscomo" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Serie A : Genoa 🇮🇹 vs Como 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Genoa 🇮🇹_vs_Como 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Serie A : Genoa 🇮🇹 vs Como 🇮🇹 (20:45)
+https://dlhd.st/watch.php?id=69
+
+#EXTINF:-1 tvg-id="italyserieagenoavscomo" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Serie A : Genoa 🇮🇹 vs Como 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Genoa 🇮🇹_vs_Como 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy Serie A : Genoa 🇮🇹 vs Como 🇮🇹 (20:45)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="englandpremierleagueipswichtownvsliverpool" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 England Premier League : Ipswich Town 🏴 vs Liverpool 🏴 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Ipswich Town 🏴_vs_Liverpool 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 England Premier League : Ipswich Town 🏴 vs Liverpool 🏴 (21:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles3rdroundandwomensdoubles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)" tvg-logo="https://2.bp.blogspot.com/-hqYnuZRv_tc/VCO_0-mtv4I/AAAAAAAABVE/zafM1-RhGnM/s1600/Neolatinas_mio_color.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles3rdroundandwomensdoubles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)" tvg-logo="https://static.semrush.com/blog/uploads/media/7a/47/7a47f881e2e9e89bf9bc2bfe6f0d37c5/bing-visual-search.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles3rdroundandwomensdoubles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)" tvg-logo="https://www.cricketsky.com/images/team/logo/india-team-logo.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)
 https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="usopengrandslamtennismensampwomenssingles3rdroundandwomensdoubles1stround" tvg-name="Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)" tvg-logo="https://png.pngtree.com/png-vector/20240325/ourlarge/pngtree-funny-dino-cartoon-going-to-school-png-image_12197181.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 US Open Grand Slam Tennis Mens &amp; Womens Singles 3rd Round and Womens Doubles 1st Round (17:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="formula3monzanationalracetrackpractice" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 3 : Monza National Racetrack Practice (08:35)" tvg-logo="https://www.verywellmind.com/thmb/p7L8AwDPLJ6KHSkLwfiD1STOEz0=/1500x1000/filters:no_upscale():max_bytes(150000):strip_icc()/infj-introverted-intuitive-feeling-judging-2795978-5c2d04f846e0fb0001dddc1a.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 3 : Monza National Racetrack Practice (08:35)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2monzanationalracetrackpractice" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : Monza National Racetrack Practice (10:00)" tvg-logo="https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/aurora-borealis-over-iceland-gnther-egger.jpg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : Monza National Racetrack Practice (10:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1pirelliitaliangppractice1" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Pirelli Italian GP - Practice 1 (12:30)" tvg-logo="https://www.guideoftheworld.com/map/north-america/usa/time-zone/us-time-zones-map.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Pirelli Italian GP - Practice 1 (12:30)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2monzanationalracetrackqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 2 : Monza National Racetrack Qualifying (10:00)" tvg-logo="https://nyahomedical.com/wp-content/uploads/2020/12/nyaho_big_staff-2048x1367.jpeg" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 2 : Monza National Racetrack Qualifying (10:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula3monzanationalracetrackqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 3 : Monza National Racetrack Qualifying (14:00)" tvg-logo="https://sportshub.cbsistatic.com/i/r/2026/08/27/ed990727-2292-4a3c-a402-c8fc58381a97/thumbnail/1200x675/30fcf386763019a0a7b7abcc625578a7/nalyssa-getty.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 3 : Monza National Racetrack Qualifying (14:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1pirelliitaliangppractice2" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Pirelli Italian GP - Practice 2 (16:00)" tvg-logo="https://cdn.pixabay.com/photo/2023/09/05/03/26/lord-radha-8234176_1280.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Pirelli Italian GP - Practice 2 (16:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="britishopenquarterfinals" tvg-name="Snooker 🎱 | 🎱 British Open : Quarter-finals (14:00)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/1024px/1f3b1.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 British Open : Quarter-finals (14:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="britishopenquarterfinals" tvg-name="Snooker 🎱 | 🎱 British Open : Quarter-finals (20:00)" tvg-logo="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/1024px/1f3b1.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 British Open : Quarter-finals (20:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="iaafdiamondleaguebrusselsday1" tvg-name="Athletics 🏃 | 🏃 IAAF Diamond League : Brussels Day 1 (20:00)" tvg-logo="https://i.pinimg.com/originals/77/ac/f8/77acf80c87e97d4665ea5c5fcd8e4c19.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 IAAF Diamond League : Brussels Day 1 (20:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="vueltaaespañastage13192almunecarstore" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Vuelta a España : Stage 13 - 192 Almunecar - Store 🇪🇸 (14:45)" tvg-logo="https://es.dentalalvarez.com/wp-content/uploads/2020/02/Endodoncia-Tratamiento-de-conducto.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Vuelta a España : Stage 13 - 192 Almunecar - Store 🇪🇸 (14:45)
+https://dlhd.st/watch.php?id=878
 
