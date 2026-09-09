@@ -2,30 +2,72 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleagueaekathensvslasklinz" tvg-name="All Soccer Events ⚽ | ⚽ 🇬🇷 UEFA Champions League : AEK Athens 🇬🇷 vs LASK Linz 🇦🇹 (18:45)" tvg-logo="https://static01.nyt.com/images/2025/01/25/multimedia/25trump-news-hegseth-priorities-ljbt/25trump-news-hegseth-priorities-ljbt-facebookJumbo.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇬🇷 UEFA Champions League : AEK Athens 🇬🇷 vs LASK Linz 🇦🇹 (18:45)
-https://dlhd.st/watch.php?id=6
+#EXTINF:-1 tvg-id="fifau20womensworldcupitalyu20vsnewzealandu20" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 FIFA U-20 Women's World Cup : Italy U20 🇮🇹 vs New Zealand U20 🇳🇿 (15:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Italy U20 🇮🇹_vs_New Zealand U20 🇳🇿.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 FIFA U-20 Women's World Cup : Italy U20 🇮🇹 vs New Zealand U20 🇳🇿 (15:00)
+https://dlhd.st/watch.php?id=882
 
-#EXTINF:-1 tvg-id="uefachampionsleagueaekathensvslasklinz" tvg-name="All Soccer Events ⚽ | ⚽ 🇬🇷 UEFA Champions League : AEK Athens 🇬🇷 vs LASK Linz 🇦🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/AEK Athens 🇬🇷_vs_LASK Linz 🇦🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇬🇷 UEFA Champions League : AEK Athens 🇬🇷 vs LASK Linz 🇦🇹 (18:45)
-https://dlhd.st/watch.php?id=462
+#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavsfeyenoord" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Barcelona 🇪🇸_vs_Feyenoord 🇳🇱.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)
+https://dlhd.st/watch.php?id=7
 
-#EXTINF:-1 tvg-id="uefachampionsleagueclubbruggevsastonvilla" tvg-name="All Soccer Events ⚽ | ⚽ 🇧🇪 UEFA Champions League : Club Brugge 🇧🇪 vs Aston Villa 🇬🇧 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Club Brugge 🇧🇪_vs_Aston Villa 🇬🇧.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇧🇪 UEFA Champions League : Club Brugge 🇧🇪 vs Aston Villa 🇬🇧 (18:45)
-https://dlhd.st/watch.php?id=10
-
-#EXTINF:-1 tvg-id="uefachampionsleagueclubbruggevsastonvilla" tvg-name="All Soccer Events ⚽ | ⚽ 🇧🇪 UEFA Champions League : Club Brugge 🇧🇪 vs Aston Villa 🇬🇧 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Club Brugge 🇧🇪_vs_Aston Villa 🇬🇧.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇧🇪 UEFA Champions League : Club Brugge 🇧🇪 vs Aston Villa 🇬🇧 (18:45)
-https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="uefachampionsleaguerealmadridvsinternazionale" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Real Madrid 🇪🇸 vs Internazionale 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Real Madrid 🇪🇸_vs_Internazionale 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Real Madrid 🇪🇸 vs Internazionale 🇮🇹 (21:00)
-https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="uefachampionsleaguelillevsrealbetis" tvg-name="All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : Lille 🇫🇷 vs Real Betis 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Lille 🇫🇷_vs_Real Betis 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : Lille 🇫🇷 vs Real Betis 🇪🇸 (21:00)
-https://dlhd.st/watch.php?id=14
-
-#EXTINF:-1 tvg-id="uefachampionsleagueportovsmanchestercity" tvg-name="All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Porto 🇵🇹 vs Manchester City 🇬🇧 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Porto 🇵🇹_vs_Manchester City 🇬🇧.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Porto 🇵🇹 vs Manchester City 🇬🇧 (21:00)
+#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavsfeyenoord" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Barcelona 🇪🇸_vs_Feyenoord 🇳🇱.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="uefachampionsleagueborussiadortmundvsvillarreal" tvg-name="All Soccer Events ⚽ | ⚽ 🇩🇪 UEFA Champions League : Borussia Dortmund 🇩🇪 vs Villarreal 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Borussia Dortmund 🇩🇪_vs_Villarreal 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇩🇪 UEFA Champions League : Borussia Dortmund 🇩🇪 vs Villarreal 🇪🇸 (21:00)
-https://dlhd.st/watch.php?id=6
+#EXTINF:-1 tvg-id="uefachampionsleaguestuttgartvsviking" tvg-name="All Soccer Events ⚽ | ⚽ 🇩🇪 UEFA Champions League : Stuttgart 🇩🇪 vs Viking 🇳🇴 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Stuttgart 🇩🇪_vs_Viking 🇳🇴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇩🇪 UEFA Champions League : Stuttgart 🇩🇪 vs Viking 🇳🇴 (18:45)
+https://dlhd.st/watch.php?id=11
 
-#EXTINF:-1 tvg-id="worldathleticscontinentaltourroveretomeeting" tvg-name="Athletics 🏃 | 🏃 World Athletics Continental Tour Rovereto Meeting 🇮🇹 (20:00)" tvg-logo="https://interviewguy.com/wp-content/uploads/2023/11/Welcome-Messages-For-New-Employees.jpg" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 World Athletics Continental Tour Rovereto Meeting 🇮🇹 (20:00)
+#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
+https://dlhd.st/watch.php?id=4
+
+#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
+https://dlhd.st/watch.php?id=153
+
+#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="uefachampionsleaguenapolivsarsenal" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Champions League : Napoli 🇮🇹 vs Arsenal 🏴 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Napoli 🇮🇹_vs_Arsenal 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Champions League : Napoli 🇮🇹 vs Arsenal 🏴 (21:00)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="uefachampionsleaguepsgvsslovanbratislava" tvg-name="All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/PSG 🇫🇷_vs_Slovan Bratislava 🇸🇰.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)
+https://dlhd.st/watch.php?id=7
+
+#EXTINF:-1 tvg-id="uefachampionsleaguepsgvsslovanbratislava" tvg-name="All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/PSG 🇫🇷_vs_Slovan Bratislava 🇸🇰.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="uefachampionsleaguesportingcpvsgalatasaray" tvg-name="All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)" tvg-logo="https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/blogs/13681/images/xmwwuvVARbKppWPhJXID_Exterior_of_Grand_Sierra_Resort.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)
+https://dlhd.st/watch.php?id=11
+
+#EXTINF:-1 tvg-id="uefachampionsleaguesportingcpvsgalatasaray" tvg-name="All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)" tvg-logo="https://img.freepik.com/premium-vector/pentagram-ritual-circle-emblems-sigil-occult-symbols-devil-sign-vector_1008660-44.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="usopenmensampwomensquarterfinals" tvg-name="Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)" tvg-logo="https://static.vecteezy.com/system/resources/previews/001/777/641/large_2x/hud-futuristic-technology-interface-vector.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="usopenmensampwomensquarterfinals" tvg-name="Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)" tvg-logo="https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_1280.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="usopenmensampwomensquarterfinals" tvg-name="Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)" tvg-logo="https://cdn.shopify.com/s/files/1/0591/6422/9806/files/messy_bun_hairstyle_for_long_hair.jpg?v=1744268813" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="usopenmensampwomensquarterfinals" tvg-name="Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)" tvg-logo="https://ehealthstar.com/wp-content/uploads/2016/08/Supraspinatus-muscle.jpg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾🏆 🇺🇸 US Open : Men's &amp; Women's Quarterfinals (17:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="englishopenround1" tvg-name="Snooker 🎱 | 🎱 English Open | Round 1 (11:00)" tvg-logo="https://www.trvst.world/wp-content/uploads/2022/01/wildflower-quotes-therese-of-lisieux-if-all-flowers-wanted-to-be-roses-nature-wo-7843.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 English Open | Round 1 (11:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="englishopenround1" tvg-name="Snooker 🎱 | 🎱 English Open | Round 1 (14:00)" tvg-logo="https://i.pinimg.com/originals/4a/a5/5d/4aa55d970528a24225f59aff4bb827f9.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 English Open | Round 1 (14:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="worldathleticscontinentaltourroveretomeeting" tvg-name="Athletics 🏃 | 🏃 🇮🇹 World Athletics Continental Tour Rovereto Meeting (20:00)" tvg-logo="https://www.impots.gouv.fr/sites/default/files/aide/img/miniature_og-twitter.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇮🇹 World Athletics Continental Tour Rovereto Meeting (20:00)
 https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="lavueltastage17menthebreakawayflat185km900m" tvg-name="Cycling 🚴 | 🚴 🇪🇸 La Vuelta Stage 17 | Men | The Breakaway Flat | 185 km | 900 m (14:30)" tvg-logo="https://www.krumpli.co.uk/wp-content/uploads/2023/05/Beef-Bhuna-Curry-01-960x960.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 La Vuelta Stage 17 | Men | The Breakaway Flat | 185 km | 900 m (14:30)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="touroftuscany193km" tvg-name="Cycling 🚴 | 🚴 🇮🇹 Tour of Tuscany | 193 km (17:00)" tvg-logo="https://static.wikia.nocookie.net/dreamworks/images/6/69/Nugent3.jpg/revision/latest/top-crop/width/360/height/360?cb=20120424225732" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇮🇹 Tour of Tuscany | 193 km (17:00)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="europeanchampionshipmenbulgariavsfyrmacedonia" tvg-name="Volleyball 🏐 | 🏐 🇧🇬 European Championship (men) : Bulgaria 🇧🇬 vs FYR Macedonia 🇲🇰 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Bulgaria 🇧🇬_vs_FYR Macedonia 🇲🇰.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇧🇬 European Championship (men) : Bulgaria 🇧🇬 vs FYR Macedonia 🇲🇰 (18:00)
+https://dlhd.st/watch.php?id=462
 
