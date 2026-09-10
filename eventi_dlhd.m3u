@@ -2,42 +2,87 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavsfeyenoord" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Barcelona 🇪🇸_vs_Feyenoord 🇳🇱.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)
-https://dlhd.st/watch.php?id=7
+#EXTINF:-1 tvg-id="uefachampionsleaguefenerbahçevsroma" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Fenerbahçe 🇹🇷 vs Roma 🇮🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fenerbahçe 🇹🇷_vs_Roma 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Fenerbahçe 🇹🇷 vs Roma 🇮🇹 (18:45)
+https://dlhd.st/watch.php?id=6
 
-#EXTINF:-1 tvg-id="uefachampionsleaguebarcelonavsfeyenoord" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Barcelona 🇪🇸_vs_Feyenoord 🇳🇱.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇸 UEFA Champions League : Barcelona 🇪🇸 vs Feyenoord 🇳🇱 (18:45)
-https://dlhd.st/watch.php?id=870
-
-#EXTINF:-1 tvg-id="uefachampionsleaguestuttgartvsviking" tvg-name="All Soccer Events ⚽ | ⚽ 🇩🇪 UEFA Champions League : Stuttgart 🇩🇪 vs Viking 🇳🇴 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Stuttgart 🇩🇪_vs_Viking 🇳🇴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇩🇪 UEFA Champions League : Stuttgart 🇩🇪 vs Viking 🇳🇴 (18:45)
-https://dlhd.st/watch.php?id=11
-
-#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
-https://dlhd.st/watch.php?id=4
-
-#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
-https://dlhd.st/watch.php?id=870
-
-#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
-https://dlhd.st/watch.php?id=153
-
-#EXTINF:-1 tvg-id="uefachampionsleagueliverpoolvsatléticomadrid" tvg-name="All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Liverpool 🏴_vs_Atlético Madrid 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🏴 UEFA Champions League : Liverpool 🏴 vs Atlético Madrid 🇪🇸 (21:00)
-https://dlhd.st/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="uefachampionsleaguenapolivsarsenal" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Champions League : Napoli 🇮🇹 vs Arsenal 🏴 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Napoli 🇮🇹_vs_Arsenal 🏴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Champions League : Napoli 🇮🇹 vs Arsenal 🏴 (21:00)
-https://dlhd.st/watch.php?id=3046
-
-#EXTINF:-1 tvg-id="uefachampionsleaguepsgvsslovanbratislava" tvg-name="All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/PSG 🇫🇷_vs_Slovan Bratislava 🇸🇰.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)
-https://dlhd.st/watch.php?id=7
-
-#EXTINF:-1 tvg-id="uefachampionsleaguepsgvsslovanbratislava" tvg-name="All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/PSG 🇫🇷_vs_Slovan Bratislava 🇸🇰.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇫🇷 UEFA Champions League : PSG 🇫🇷 vs Slovan Bratislava 🇸🇰 (21:00)
-https://dlhd.st/watch.php?id=462
-
-#EXTINF:-1 tvg-id="uefachampionsleaguesportingcpvsgalatasaray" tvg-name="All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Galatasaray_Sports_Club_Logo.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)
-https://dlhd.st/watch.php?id=11
-
-#EXTINF:-1 tvg-id="uefachampionsleaguesportingcpvsgalatasaray" tvg-name="All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Sporting CP 🇵🇹_vs_Galatasaray 🇹🇷.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇵🇹 UEFA Champions League : Sporting CP 🇵🇹 vs Galatasaray 🇹🇷 (21:00)
+#EXTINF:-1 tvg-id="uefachampionsleaguefenerbahçevsroma" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Fenerbahçe 🇹🇷 vs Roma 🇮🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fenerbahçe 🇹🇷_vs_Roma 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Fenerbahçe 🇹🇷 vs Roma 🇮🇹 (18:45)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="worldathleticscontinentaltourroveretomeeting" tvg-name="Athletics 🏃 | 🏃 🇮🇹 World Athletics Continental Tour Rovereto Meeting (20:00)" tvg-logo="https://www.katdootje.nl/wp-content/uploads/kartierr_Maincoon_cat_very_clear_eyes_ultra_realistic_in_a_gian_1a6833b6-35d2-43bf-9cc0-6bc4d1898999.png" group-title="Eventi Live DLHD",Athletics 🏃 | 🏃 🇮🇹 World Athletics Continental Tour Rovereto Meeting (20:00)
+#EXTINF:-1 tvg-id="uefachampionsleaguefenerbahçevsroma" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Fenerbahçe 🇹🇷 vs Roma 🇮🇹 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fenerbahçe 🇹🇷_vs_Roma 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Fenerbahçe 🇹🇷 vs Roma 🇮🇹 (18:45)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="uefachampionsleaguepsvvsshakhtardonetsk" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : PSV 🇳🇱 vs Shakhtar Donetsk 🇺🇦 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/PSV 🇳🇱_vs_Shakhtar Donetsk 🇺🇦.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : PSV 🇳🇱 vs Shakhtar Donetsk 🇺🇦 (18:45)
+https://dlhd.st/watch.php?id=10
+
+#EXTINF:-1 tvg-id="uefachampionsleaguepsvvsshakhtardonetsk" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : PSV 🇳🇱 vs Shakhtar Donetsk 🇺🇦 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/PSV 🇳🇱_vs_Shakhtar Donetsk 🇺🇦.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : PSV 🇳🇱 vs Shakhtar Donetsk 🇺🇦 (18:45)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="uefachampionsleaguepsvvsshakhtardonetsk" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : PSV 🇳🇱 vs Shakhtar Donetsk 🇺🇦 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/PSV 🇳🇱_vs_Shakhtar Donetsk 🇺🇦.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : PSV 🇳🇱 vs Shakhtar Donetsk 🇺🇦 (18:45)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="uefachampionsleagueslaviaprahavslens" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Slavia Praha 🇨🇿 vs Lens 🇫🇷 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Slavia Praha 🇨🇿_vs_Lens 🇫🇷.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Slavia Praha 🇨🇿 vs Lens 🇫🇷 (21:00)
+https://dlhd.st/watch.php?id=10
+
+#EXTINF:-1 tvg-id="uefachampionsleagueslaviaprahavslens" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Slavia Praha 🇨🇿 vs Lens 🇫🇷 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Slavia Praha 🇨🇿_vs_Lens 🇫🇷.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Slavia Praha 🇨🇿 vs Lens 🇫🇷 (21:00)
+https://dlhd.st/watch.php?id=3045
+
+#EXTINF:-1 tvg-id="uefachampionsleaguebayernmünchenvsbodøglimt" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Bayern München 🇩🇪 vs Bodø / Glimt 🇳🇴 (21:00)" tvg-logo="https://media.tenor.com/QFkIuEjfrQIAAAAe/good-night-sweet-dreams.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Bayern München 🇩🇪 vs Bodø / Glimt 🇳🇴 (21:00)
+https://dlhd.st/watch.php?id=11
+
+#EXTINF:-1 tvg-id="uefachampionsleaguebayernmünchenvsbodøglimt" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Bayern München 🇩🇪 vs Bodø / Glimt 🇳🇴 (21:00)" tvg-logo="https://www.vappingo.com/word-blog/wp-content/uploads/2018/01/APA-sample-formatting-of-essay-page.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Bayern München 🇩🇪 vs Bodø / Glimt 🇳🇴 (21:00)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="uefachampionsleaguebayernmünchenvsbodøglimt" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Bayern München 🇩🇪 vs Bodø / Glimt 🇳🇴 (21:00)" tvg-logo="https://thumbs.dreamstime.com/b/cozy-reading-nook-plush-armchair-bookshelf-filled-books-all-genres-reading-time-elegant-interior-design-cozy-reading-nook-292825610.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Bayern München 🇩🇪 vs Bodø / Glimt 🇳🇴 (21:00)
+https://dlhd.st/watch.php?id=3046
+
+#EXTINF:-1 tvg-id="uefachampionsleaguemanchesterunitedvssabah" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Manchester United 🇬🇧 vs Sabah 🇦🇿 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Manchester United 🇬🇧_vs_Sabah 🇦🇿.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Manchester United 🇬🇧 vs Sabah 🇦🇿 (21:00)
+https://dlhd.st/watch.php?id=16
+
+#EXTINF:-1 tvg-id="uefachampionsleaguemanchesterunitedvssabah" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Manchester United 🇬🇧 vs Sabah 🇦🇿 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Manchester United 🇬🇧_vs_Sabah 🇦🇿.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Manchester United 🇬🇧 vs Sabah 🇦🇿 (21:00)
+https://dlhd.st/watch.php?id=3044
+
+#EXTINF:-1 tvg-id="uefachampionsleaguecomovsrbleipzig" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Como 🇮🇹 vs RB Leipzig 🇩🇪 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Como 🇮🇹_vs_RB Leipzig 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Como 🇮🇹 vs RB Leipzig 🇩🇪 (21:00)
+https://dlhd.st/watch.php?id=23
+
+#EXTINF:-1 tvg-id="uefachampionsleaguecomovsrbleipzig" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Como 🇮🇹 vs RB Leipzig 🇩🇪 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Como 🇮🇹_vs_RB Leipzig 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Como 🇮🇹 vs RB Leipzig 🇩🇪 (21:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="uefachampionsleaguecomovsrbleipzig" tvg-name="All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Como 🇮🇹 vs RB Leipzig 🇩🇪 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Como 🇮🇹_vs_RB Leipzig 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🌍 UEFA Champions League : Como 🇮🇹 vs RB Leipzig 🇩🇪 (21:00)
+https://dlhd.st/watch.php?id=3047
+
+#EXTINF:-1 tvg-id="2026usopengrandslamtennismensdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)" tvg-logo="https://picturemushroom.com/wiki-image/1080/154099591216627753.jpeg" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="2026usopengrandslamtennismensdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)" tvg-logo="https://www.legnagoferr.it/wp-content/uploads/2025/10/ausonia-40101-legnagoferr.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="2026usopengrandslamtennismensdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)" tvg-logo="https://i.pinimg.com/originals/a9/3c/a7/a93ca70a98872f565f923cd64eb289e5.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="2026usopengrandslamtennismensdoublessemifinals" tvg-name="Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)" tvg-logo="https://www.mapstudio.co.za/wp-content/uploads/2017/11/TIMEZONES-800x552.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 2026 US Open Grand Slam Tennis Men's Doubles Semifinals (17:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="englishopenround2" tvg-name="Snooker 🎱 | 🎱 English Open | Round 2 (11:00)" tvg-logo="https://i.pinimg.com/736x/e9/f6/0b/e9f60be002181034b6fd3392e2274d11.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 English Open | Round 2 (11:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="englishopenround2" tvg-name="Snooker 🎱 | 🎱 English Open | Round 2 (14:00)" tvg-logo="https://techent.tv/wp-content/uploads/2020/12/free-fire-cristiano.jpg" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 English Open | Round 2 (14:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="vueltaaespañastage1832elpuertosantamariajerezdelafrontera" tvg-name="Cycling 🚴 | 🚴 🇪🇸 Vuelta a España Stage 18 - 32 : El Puerto Santa Maria - Jerez De La Frontera 🇪🇸 (15:00)" tvg-logo="https://i.ytimg.com/vi/S6thElqz0Sc/maxresdefault.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇪🇸 Vuelta a España Stage 18 - 32 : El Puerto Santa Maria - Jerez De La Frontera 🇪🇸 (15:00)
+https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="sabatinicupmen210km" tvg-name="Cycling 🚴 | 🚴 🇮🇹 Sabatini Cup Men | 210 km 🇮🇹 (15:10)" tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2024/05/25/1216855304.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇮🇹 Sabatini Cup Men | 210 km 🇮🇹 (15:10)
 https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="europeanchampionshipspolandvsportugal" tvg-name="Volleyball 🏐 | 🏐 🇵🇱 European Championships : Poland 🇵🇱 vs Portugal 🇵🇹 (15:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Poland 🇵🇱_vs_Portugal 🇵🇹.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇵🇱 European Championships : Poland 🇵🇱 vs Portugal 🇵🇹 (15:00)
+https://dlhd.st/watch.php?id=461
+
+#EXTINF:-1 tvg-id="europeanchampionshipspolandvsportugal" tvg-name="Volleyball 🏐 | 🏐 🇵🇱 European Championships : Poland 🇵🇱 vs Portugal 🇵🇹 (15:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Poland 🇵🇱_vs_Portugal 🇵🇹.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇵🇱 European Championships : Poland 🇵🇱 vs Portugal 🇵🇹 (15:00)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="europeanchampionshipsfrancevsswitzerland" tvg-name="Volleyball 🏐 | 🏐 🇫🇷 European Championships : France 🇫🇷 vs Switzerland 🇨🇭 (16:00)" tvg-logo="http://www.pixelstalk.net/wp-content/uploads/2016/07/French-Flag-HD-Image.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇫🇷 European Championships : France 🇫🇷 vs Switzerland 🇨🇭 (16:00)
+https://dlhd.st/watch.php?id=14
+
+#EXTINF:-1 tvg-id="europeanchampionshipsitalyvssweden" tvg-name="Volleyball 🏐 | 🏐 🇮🇹 European Championships : Italy 🇮🇹 vs Sweden 🇸🇪 (21:05)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Italy 🇮🇹_vs_Sweden 🇸🇪.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 🇮🇹 European Championships : Italy 🇮🇹 vs Sweden 🇸🇪 (21:05)
+https://dlhd.st/watch.php?id=462
 
