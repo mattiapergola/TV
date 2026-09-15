@@ -2,31 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italycoppaitaliagenoavssüdtirol" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Südtirol 🇮🇹 (18:00)" tvg-logo="https://biologynotesonline.com/wp-content/uploads/2024/04/image-373.png?ezimgfmt=rs:378x284/rscb1/ngcb1/notWebP" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Südtirol 🇮🇹 (18:00)
-https://dlhd.st/watch.php?id=854
-
-#EXTINF:-1 tvg-id="italycoppaitaliagenoavssüdtirol" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Südtirol 🇮🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Genoa 🇮🇹_vs_Südtirol 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Genoa 🇮🇹 vs Südtirol 🇮🇹 (18:00)
-https://dlhd.st/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="italyserieccasertanavsteamaltamura" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Casertana 🇮🇹 vs Team Altamura 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Casertana 🇮🇹_vs_Team Altamura 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Casertana 🇮🇹 vs Team Altamura 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=167
-
-#EXTINF:-1 tvg-id="italyserieccrotonevsinterii" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Crotone 🇮🇹 vs Inter II 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Crotone 🇮🇹_vs_Inter II 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Crotone 🇮🇹 vs Inter II 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=168
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovscosenza" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Giugliano 🇮🇹 vs Cosenza 🇮🇹 (18:30)" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Giugliano 🇮🇹 vs Cosenza 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=169
-
-#EXTINF:-1 tvg-id="italyseriecgiuglianovscosenza" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Giugliano 🇮🇹 vs Cosenza 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Giugliano 🇮🇹_vs_Cosenza 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Giugliano 🇮🇹 vs Cosenza 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=460
-
-#EXTINF:-1 tvg-id="italyseriecpicernovscatania" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Picerno 🇮🇹 vs Catania 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Picerno 🇮🇹_vs_Catania 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Picerno 🇮🇹 vs Catania 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=170
-
-#EXTINF:-1 tvg-id="italyseriecpicernovscatania" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Picerno 🇮🇹 vs Catania 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Picerno 🇮🇹_vs_Catania 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Picerno 🇮🇹 vs Catania 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italycoppaitaliafiorentinavspisa" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Pisa 🇮🇹 (21:00)" tvg-logo="https://www.shuttledirect.com/blog/wp-content/uploads/2016/06/Jun-16-BP12-Image-1-Pisa-View.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Pisa 🇮🇹 (21:00)
+#EXTINF:-1 tvg-id="italycoppaitaliafiorentinavspisa" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Pisa 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fiorentina 🇮🇹_vs_Pisa 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Pisa 🇮🇹 (21:00)
 https://dlhd.st/watch.php?id=854
 
 #EXTINF:-1 tvg-id="italycoppaitaliafiorentinavspisa" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Pisa 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Fiorentina 🇮🇹_vs_Pisa 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Coppa Italia : Fiorentina 🇮🇹 vs Pisa 🇮🇹 (21:00)
@@ -47,7 +23,7 @@ https://dlhd.st/watch.php?id=460
 #EXTINF:-1 tvg-id="italyseriecvirtuscasaranovsaudacecerignola" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Virtus Casarano 🇮🇹 vs Audace Cerignola 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Virtus Casarano 🇮🇹_vs_Audace Cerignola 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Virtus Casarano 🇮🇹 vs Audace Cerignola 🇮🇹 (21:00)
 https://dlhd.st/watch.php?id=167
 
-#EXTINF:-1 tvg-id="italyserieccavesevssorrento" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Cavese 🇮🇹 vs Sorrento 🇮🇹 (21:00)" tvg-logo="https://2.bp.blogspot.com/-PSV3qOvAfjM/Ujrsb-vkPVI/AAAAAAAACvI/33OaqWv2rKk/s1600/Ada+apa+denganmu.PNG" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Cavese 🇮🇹 vs Sorrento 🇮🇹 (21:00)
+#EXTINF:-1 tvg-id="italyserieccavesevssorrento" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Cavese 🇮🇹 vs Sorrento 🇮🇹 (21:00)" tvg-logo="https://onlymyenglish.com/wp-content/uploads/2020/11/Sea-animals-Name-min-212x300.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Cavese 🇮🇹 vs Sorrento 🇮🇹 (21:00)
 https://dlhd.st/watch.php?id=171
 
 #EXTINF:-1 tvg-id="italyseriecfoggiavssavoia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Foggia 🇮🇹 vs Savoia 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Foggia 🇮🇹_vs_Savoia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Foggia 🇮🇹 vs Savoia 🇮🇹 (21:00)
@@ -55,13 +31,4 @@ https://dlhd.st/watch.php?id=169
 
 #EXTINF:-1 tvg-id="italyseriecscafatesevsmonopoli" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Scafatese 🇮🇹 vs Monopoli 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Scafatese 🇮🇹_vs_Monopoli 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Scafatese 🇮🇹 vs Monopoli 🇮🇹 (21:00)
 https://dlhd.st/watch.php?id=172
-
-#EXTINF:-1 tvg-id="guadalajarawtaampsaopaulowtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://i.pinimg.com/originals/26/07/1b/26071b6a85a3d12f8e9718b9cf1059f4.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds (18:00)
-https://dlhd.st/watch.php?id=576
-
-#EXTINF:-1 tvg-id="tourofabruzzostage1mencupellocasalincontrada156km" tvg-name="Cycling 🚴 | 🚴 Tour of Abruzzo | Stage 1 Men | Cupello - Casalincontrada (156km) (13:30)" tvg-logo="https://d20ohkaloyme4g.cloudfront.net/img/document_thumbnails/2eac60bb16db4a748af38bcf256404ff/thumb_1200_849.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour of Abruzzo | Stage 1 Men | Cupello - Casalincontrada (156km) (13:30)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanchampionshipspolandvsukraine" tvg-name="Volleyball 🏐 | ⚽ 🇵🇱 European Championships : Poland 🇵🇱 vs Ukraine 🇺🇦 (18:00)" tvg-logo="https://wallpapercave.com/wp/wp2175488.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇵🇱 European Championships : Poland 🇵🇱 vs Ukraine 🇺🇦 (18:00)
-https://dlhd.st/watch.php?id=462
 
