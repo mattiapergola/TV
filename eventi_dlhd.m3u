@@ -2,28 +2,7 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecgrossetovscampobasso" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Grosseto 🇮🇹 vs Campobasso 🇮🇹 (18:30)" tvg-logo="https://c8.alamy.com/comp/2BBHJ7P/diego-lopez-real-madrid-goalkeeper-2BBHJ7P.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Grosseto 🇮🇹 vs Campobasso 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=28
-
-#EXTINF:-1 tvg-id="italyserieclatinavsnuovamonterosi" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Latina 🇮🇹 vs Nuova Monterosi 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Latina 🇮🇹_vs_Nuova Monterosi 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Latina 🇮🇹 vs Nuova Monterosi 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=177
-
-#EXTINF:-1 tvg-id="italyseriecostiamarelidocalciovsravenna" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Ostia Mare LidoCalcio 🇮🇹 vs Ravenna 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Ostia Mare LidoCalcio 🇮🇹_vs_Ravenna 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Ostia Mare LidoCalcio 🇮🇹 vs Ravenna 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=29
-
-#EXTINF:-1 tvg-id="italyseriecostiamarelidocalciovsravenna" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Ostia Mare LidoCalcio 🇮🇹 vs Ravenna 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Ostia Mare LidoCalcio 🇮🇹_vs_Ravenna 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Ostia Mare LidoCalcio 🇮🇹 vs Ravenna 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=870
-
-#EXTINF:-1 tvg-id="italyseriecpinetovsforlì" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pineto 🇮🇹 vs Forlì 🇮🇹 (18:30)" tvg-logo="https://image.slidesharecdn.com/riverlandforms-240327155502-47ab1377/75/River-landforms-in-middle-and-lower-courses-meanders-and-oxbow-lakes-12-2048.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pineto 🇮🇹 vs Forlì 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=178
-
-#EXTINF:-1 tvg-id="italyseriecsambenedettesevsatalantaii" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sambenedettese 🇮🇹 vs Atalanta II 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Sambenedettese 🇮🇹_vs_Atalanta II 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sambenedettese 🇮🇹 vs Atalanta II 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=21
-
-#EXTINF:-1 tvg-id="italyseriecsassaritorresvspianese" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sassari Torres 🇮🇹 vs Pianese 🇮🇹 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Sassari Torres 🇮🇹_vs_Pianese 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Sassari Torres 🇮🇹 vs Pianese 🇮🇹 (18:30)
-https://dlhd.st/watch.php?id=179
-
-#EXTINF:-1 tvg-id="uefaeuropaleagueararatarmeniavsspartapraha" tvg-name="All Soccer Events ⚽ | ⚽ 🇦🇲 UEFA Europa League : Ararat-Armenia 🇦🇲 vs Sparta Praha 🇨🇿 (18:45)" tvg-logo="https://static.vecteezy.com/system/resources/previews/052/389/594/non_2x/a-vibrant-collection-of-discus-fish-showcasing-various-colors-and-patterns-isolated-against-a-clean-transparent-background-discus-fish-isolated-on-transparent-background-free-png.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇦🇲 UEFA Europa League : Ararat-Armenia 🇦🇲 vs Sparta Praha 🇨🇿 (18:45)
+#EXTINF:-1 tvg-id="uefaeuropaleagueararatarmeniavsspartapraha" tvg-name="All Soccer Events ⚽ | ⚽ 🇦🇲 UEFA Europa League : Ararat-Armenia 🇦🇲 vs Sparta Praha 🇨🇿 (18:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇦🇲 UEFA Europa League : Ararat-Armenia 🇦🇲 vs Sparta Praha 🇨🇿 (18:45)
 https://dlhd.st/watch.php?id=7
 
 #EXTINF:-1 tvg-id="uefaeuropaleagueomonianicosiavsceltadevigo" tvg-name="All Soccer Events ⚽ | ⚽ 🇨🇾 UEFA Europa League : Omonia Nicosia 🇨🇾 vs Celta de Vigo 🇪🇸 (18:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Omonia Nicosia 🇨🇾_vs_Celta de Vigo 🇪🇸.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇨🇾 UEFA Europa League : Omonia Nicosia 🇨🇾 vs Celta de Vigo 🇪🇸 (18:45)
@@ -38,7 +17,7 @@ https://dlhd.st/watch.php?id=179
 #EXTINF:-1 tvg-id="italyseriecperugiavsspezia" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Perugia 🇮🇹 vs Spezia 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Perugia 🇮🇹_vs_Spezia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Perugia 🇮🇹 vs Spezia 🇮🇹 (21:00)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="italyseriecpescaravsgubbio" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Gubbio 🇮🇹 (21:00)" tvg-logo="https://imagenes.eltiempo.com/files/og_thumbnail/uploads/2020/10/08/5f7f3950b0841.jpeg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Gubbio 🇮🇹 (21:00)
+#EXTINF:-1 tvg-id="italyseriecpescaravsgubbio" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Gubbio 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Pescara 🇮🇹_vs_Gubbio 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Pescara 🇮🇹 vs Gubbio 🇮🇹 (21:00)
 https://dlhd.st/watch.php?id=178
 
 #EXTINF:-1 tvg-id="italyseriecvispesarovsreggiana" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Vis Pesaro 🇮🇹 vs Reggiana 🇮🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Vis Pesaro 🇮🇹_vs_Reggiana 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 Italy - Serie C : Vis Pesaro 🇮🇹 vs Reggiana 🇮🇹 (21:00)
@@ -59,7 +38,7 @@ https://dlhd.st/watch.php?id=29
 #EXTINF:-1 tvg-id="uefaeuropaleagueanderlechtvsolympiquelyonnais" tvg-name="All Soccer Events ⚽ | ⚽ 🇧🇪 UEFA Europa League : Anderlecht 🇧🇪 vs Olympique Lyonnais 🇫🇷 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Anderlecht 🇧🇪_vs_Olympique Lyonnais 🇫🇷.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇧🇪 UEFA Europa League : Anderlecht 🇧🇪 vs Olympique Lyonnais 🇫🇷 (21:00)
 https://dlhd.st/watch.php?id=460
 
-#EXTINF:-1 tvg-id="uefaeuropaleaguemilanvsbenfica" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)" tvg-logo="https://wallpapercave.com/wp/wp3823865.jpg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)
+#EXTINF:-1 tvg-id="uefaeuropaleaguemilanvsbenfica" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Milan 🇮🇹_vs_Benfica 🇵🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)
 https://dlhd.st/watch.php?id=7
 
 #EXTINF:-1 tvg-id="uefaeuropaleaguemilanvsbenfica" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Milan 🇮🇹_vs_Benfica 🇵🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)
@@ -70,21 +49,6 @@ https://dlhd.st/watch.php?id=461
 
 #EXTINF:-1 tvg-id="uefaeuropaleaguemilanvsbenfica" tvg-name="All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Milan 🇮🇹_vs_Benfica 🇵🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇮🇹 UEFA Europa League : Milan 🇮🇹 vs Benfica 🇵🇹 (21:00)
 https://dlhd.st/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="guadalajarawtaampsaopaulowtaearlyrounds" tvg-name="Tennis 🎾 | 🎾 Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds (18:00)" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/047/309/248/small_2x/realistic-smoky-clouds-effect-3d-rendering-png.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 Guadalajara-WTA &amp; Sao Paulo-WTA Early Rounds (18:00)
-https://dlhd.st/watch.php?id=576
-
-#EXTINF:-1 tvg-id="tourofabruzzostage2menpopolitermecaramanicoterme143km" tvg-name="Cycling 🚴 | 🚴 Tour of Abruzzo | Stage 2 Men | Popoli Terme - Caramanico Terme (143km) (13:30)" tvg-logo="https://aquariumia.com/wp-content/uploads/2022/11/0cb0af45645f4456b48787adb74c9dd6.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour of Abruzzo | Stage 2 Men | Popoli Terme - Caramanico Terme (143km) (13:30)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="tourofluxembourgstage1menluxembourg1574km" tvg-name="Cycling 🚴 | 🚴 Tour of Luxembourg | Stage 1 Men | Luxembourg (157.4km) (16:15)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7181b4b7-a02a-4816-8086-79c09bc5d314/dgivtut-aefdccca-052b-4f70-b20b-0a0d53f87d0a.png/v1/fill/w_1024,h_768,q_80,strp/top_10_best_movies_of_2023_by_tt4ever229_dgivtut-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvNzE4MWI0YjctYTAyYS00ODE2LTgwODYtNzljMDliYzVkMzE0XC9kZ2l2dHV0LWFlZmRjY2NhLTA1MmItNGY3MC1iMjBiLTBhMGQ1M2Y4N2QwYS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.s2d8kDpqsh6EuMw2oK3aaU6WNBtvLAJ2OyOrrO5DBXE" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Tour of Luxembourg | Stage 1 Men | Luxembourg (157.4km) (16:15)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanchampionshipsdenmarkvsserbia" tvg-name="Volleyball 🏐 | ⚽ 🇩🇰 European Championships : Denmark 🇩🇰 vs Serbia 🇷🇸 (16:00)" tvg-logo="https://explorenordic.com/wp-content/uploads/2023/02/copenhagen-denmark-tourist-attractions-1024x860.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇩🇰 European Championships : Denmark 🇩🇰 vs Serbia 🇷🇸 (16:00)
-https://dlhd.st/watch.php?id=462
-
-#EXTINF:-1 tvg-id="europeanchampionshipsdenmarkvsserbia" tvg-name="Volleyball 🏐 | ⚽ 🇩🇰 European Championships : Denmark 🇩🇰 vs Serbia 🇷🇸 (16:00)" tvg-logo="https://explorenordic.com/wp-content/uploads/2023/02/copenhagen-denmark-tourist-attractions-1024x860.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇩🇰 European Championships : Denmark 🇩🇰 vs Serbia 🇷🇸 (16:00)
-https://dlhd.st/watch.php?id=461
 
 #EXTINF:-1 tvg-id="europeanchampionshipsfrancevsromania" tvg-name="Volleyball 🏐 | ⚽ 🇫🇷 European Championships : France 🇫🇷 vs Romania 🇷🇴 (19:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/France 🇫🇷_vs_Romania 🇷🇴.png" group-title="Eventi Live DLHD",Volleyball 🏐 | ⚽ 🇫🇷 European Championships : France 🇫🇷 vs Romania 🇷🇴 (19:00)
 https://dlhd.st/watch.php?id=462
