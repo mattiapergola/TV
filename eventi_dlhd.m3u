@@ -2,18 +2,42 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast (20:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast (20:45)
+#EXTINF:-1 tvg-id="uefanationsleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Nations League : Simulcast (20:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Nations League : Simulcast (20:45)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="uefanationsleaguenetherlandsvsgermany" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Netherlands 🇳🇱_vs_Germany 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪 (20:45)
-https://dlhd.st/watch.php?id=25
+#EXTINF:-1 tvg-id="uefanationsleagueitalyvsbelgium" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Nations League : Italy 🇮🇹 vs Belgium 🇧🇪 (20:45)" tvg-logo="https://deih43ym53wif.cloudfront.net/grand-place-brussels-belgium-shutterstock_286144574_a963734c9e.jpeg" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Nations League : Italy 🇮🇹 vs Belgium 🇧🇪 (20:45)
+https://dlhd.st/watch.php?id=850
 
-#EXTINF:-1 tvg-id="uefanationsleaguenetherlandsvsgermany" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Netherlands 🇳🇱_vs_Germany 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Netherlands 🇳🇱 vs Germany 🇩🇪 (20:45)
-https://dlhd.st/watch.php?id=461
+#EXTINF:-1 tvg-id="uefanationsleagueturkeyvsfrance" tvg-name="All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Nations League : Turkey 🇹🇷 vs France 🇫🇷 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Turkey 🇹🇷_vs_France 🇫🇷.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ 🇪🇺 UEFA Nations League : Turkey 🇹🇷 vs France 🇫🇷 (20:45)
+https://dlhd.st/watch.php?id=871
 
-#EXTINF:-1 tvg-id="uefanationsleaguenorwayvsdenmark" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Norway 🇳🇴 vs Denmark 🇩🇰 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Norway 🇳🇴_vs_Denmark 🇩🇰.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Norway 🇳🇴 vs Denmark 🇩🇰 (20:45)
-https://dlhd.st/watch.php?id=462
+#EXTINF:-1 tvg-id="lavercupmatch2day1" tvg-name="Tennis 🎾 | 🎾 🌍 Laver Cup | Match 2 | Day 1 🌍 (16:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🌍 Laver Cup | Match 2 | Day 1 🌍 (16:00)
+https://dlhd.st/watch.php?id=879
 
-#EXTINF:-1 tvg-id="uciroadworldchampionshipsmontréalmensjuniorroadrace" tvg-name="Cycling 🚴 | 🚴 🇨🇦 UCI Road World Championships : Montréal: Men's Junior Road Race (19:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇨🇦 UCI Road World Championships : Montréal: Men's Junior Road Race (19:30)
+#EXTINF:-1 tvg-id="lavercupmatch3day1" tvg-name="Tennis 🎾 | 🎾 🌍 Laver Cup | Match 3 | Day 1 🌍 (20:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 🌍 Laver Cup | Match 3 | Day 1 🌍 (20:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="formula1qatarairwaysazerbaijangppractice3" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Practice 3 🇦🇿 (10:30)" tvg-logo="https://wallpapercave.com/wp/wp4214186.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Practice 3 🇦🇿 (10:30)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula2qatarairwaysazerbaijangprace" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇦🇿 Formula 2 : Qatar Airways Azerbaijan GP - Race 🇦🇿 (12:15)" tvg-logo="https://wallpapercave.com/wp/wp4214186.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇦🇿 Formula 2 : Qatar Airways Azerbaijan GP - Race 🇦🇿 (12:15)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="formula1qatarairwaysazerbaijangpqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Qualifying 🇦🇿 (14:00)" tvg-logo="https://wallpapercave.com/wp/wp4214186.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ 🇦🇿 Formula 1 : Qatar Airways Azerbaijan GP - Qualifying 🇦🇿 (14:00)
+https://dlhd.st/watch.php?id=577
+
+#EXTINF:-1 tvg-id="europeanchampionshipsofiaday9finals" tvg-name="Boxing 🥊 | 🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬 (16:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Boxing 🥊 | 🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬 (16:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="europeanchampionshipsofiaday9finals" tvg-name="Boxing 🥊 | 🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬 (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Boxing 🥊 | 🥊 🇧🇬 European Championship | Sofia Day 9 | Finals 🇧🇬 (18:00)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="americascuppreliminaryregatta" tvg-name="Sailing ⛵/ Boating 🚤 | ⛵ 🇫🇷 America's Cup, Preliminary Regatta 🇫🇷 (14:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Sailing ⛵/ Boating 🚤 | ⛵ 🇫🇷 America's Cup, Preliminary Regatta 🇫🇷 (14:00)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="roadcyclingworldchampionshipsmensu23roadrace" tvg-name="Cycling 🚴 | 🚴 🇨🇦 Road Cycling World Championships Men's U23 Road Race 🇨🇦 (17:15)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 🇨🇦 Road Cycling World Championships Men's U23 Road Race 🇨🇦 (17:15)
 https://dlhd.st/watch.php?id=878
+
+#EXTINF:-1 tvg-id="mensvolleyballeuropeanchampionship2026semifinalfinlandvsfrance" tvg-name="European Championship Volleyball 🏐 | 🏐 Men's Volleyball European Championship 2026 semi-final : 🇫🇮 Finland vs 🇫🇷 France (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/🇫🇮 Finland_vs_🇫🇷 France.png" group-title="Eventi Live DLHD",European Championship Volleyball 🏐 | 🏐 Men's Volleyball European Championship 2026 semi-final : 🇫🇮 Finland vs 🇫🇷 France (20:45)
+https://dlhd.st/watch.php?id=882
 
