@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguekazakhstanvsmoldova" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Moldova 🇲🇩 (16:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Kazakhstan 🇰🇿_vs_Moldova 🇲🇩.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Kazakhstan 🇰🇿 vs Moldova 🇲🇩 (16:00)
-https://dlhd.st/watch.php?id=870
-
 #EXTINF:-1 tvg-id="uefanationsleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast (20:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast (20:45)
 https://dlhd.st/watch.php?id=870
 
@@ -17,33 +14,9 @@ https://dlhd.st/watch.php?id=850
 #EXTINF:-1 tvg-id="uefanationsleaguefrancevsitaly" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : France 🇫🇷 vs Italy 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/France 🇫🇷_vs_Italy 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : France 🇫🇷 vs Italy 🇮🇹 (20:45)
 https://dlhd.st/watch.php?id=3047
 
-#EXTINF:-1 tvg-id="formula1gulfairbahraingppractice2" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭 (10:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭 (10:00)
-https://dlhd.st/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1gulfairbahraingppractice2" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭 (10:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Gulf Air Bahrain GP - Practice 2 🇧🇭 (10:00)
-https://dlhd.st/watch.php?id=3047
-
-#EXTINF:-1 tvg-id="shenzhenopenquarterfinal" tvg-name="Snooker 🎱 | 🎱 Shenzhen Open | Quarter-Final 🇨🇳 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Shenzhen Open | Quarter-Final 🇨🇳 (13:30)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeancyclingchampionshipsljubljanaunder23women" tvg-name="Cycling 🚴 | 🚴 European Cycling Championships Ljubljana Under 23 Women 🇸🇮 (09:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 European Cycling Championships Ljubljana Under 23 Women 🇸🇮 (09:45)
-https://dlhd.st/watch.php?id=882
-
-#EXTINF:-1 tvg-id="europeancyclingchampionshipsljubljanaunder23men" tvg-name="Cycling 🚴 | 🚴 European Cycling Championships Ljubljana Under 23 Men 🇸🇮 (15:35)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 European Cycling Championships Ljubljana Under 23 Men 🇸🇮 (15:35)
-https://dlhd.st/watch.php?id=882
-
-#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomenelitelakeplacidwhoopucimountainbikeworldseries" tvg-name="Cycling 🚴 | 🚴 UCI Cross-country Short Track World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series 🇺🇸 (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 UCI Cross-country Short Track World Cup | Women Elite | Lake Placid WHOOP UCI Mountain Bike World Series 🇺🇸 (17:00)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="ucixccworldcuplakeplacidmannenelitewhoopucimountainbikeworldseries" tvg-name="Cycling 🚴 | 🚴 UCI XCC World Cup | Lake Placid | Mannen Elite WHOOP UCI Mountain Bike World Series 🇺🇸 (18:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 UCI XCC World Cup | Lake Placid | Mannen Elite WHOOP UCI Mountain Bike World Series 🇺🇸 (18:30)
-https://dlhd.st/watch.php?id=878
-
 #EXTINF:-1 tvg-id="unitedrugbychampionshipcardiffrugbyvszebre" tvg-name="Rugby Union 🏉 | 🏉 United Rugby Championship : Cardiff Rugby 🏴󠁧󠁢󠁷󠁬󠁳󠁿 vs Zebre 🇮🇹 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cardiff Rugby 🏴󠁧󠁢󠁷󠁬󠁳󠁿_vs_Zebre 🇮🇹.png" group-title="Eventi Live DLHD",Rugby Union 🏉 | 🏉 United Rugby Championship : Cardiff Rugby 🏴󠁧󠁢󠁷󠁬󠁳󠁿 vs Zebre 🇮🇹 (20:45)
 https://dlhd.st/watch.php?id=460
 
 #EXTINF:-1 tvg-id="unitedrugbychampionshiptrevisovsconnacht" tvg-name="Rugby Union 🏉 | 🏉 United Rugby Championship : Treviso 🇮🇹 vs Connacht 🇮🇪 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Treviso 🇮🇹_vs_Connacht 🇮🇪.png" group-title="Eventi Live DLHD",Rugby Union 🏉 | 🏉 United Rugby Championship : Treviso 🇮🇹 vs Connacht 🇮🇪 (20:45)
 https://dlhd.st/watch.php?id=462
-
-#EXTINF:-1 tvg-id="europeanchampionshipsshotgunmalakasaskeetduetmedalmatches" tvg-name="Shooting 🏹🔫 | 🎯 European Championships Shotgun | Malakasa Skeet Duet | Medal Matches (16:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Shooting 🏹🔫 | 🎯 European Championships Shotgun | Malakasa Skeet Duet | Medal Matches (16:30)
-https://dlhd.st/watch.php?id=879
 
