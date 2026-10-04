@@ -2,36 +2,105 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="italyseriecfolgorecaratesevsdesenzanocalvina" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Folgore Caratese 🇮🇹 vs Desenzano Calvina 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Folgore Caratese 🇮🇹_vs_Desenzano Calvina 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Folgore Caratese 🇮🇹 vs Desenzano Calvina 🇮🇹 (20:30)
-https://dlhd.st/watch.php?id=27
+#EXTINF:-1 tvg-id="italyseriecleccovsunionbrescia" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Lecco 🇮🇹_vs_Union Brescia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹 (12:30)
+https://dlhd.st/watch.php?id=11
 
-#EXTINF:-1 tvg-id="italyseriecospitalettovsrenate" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Ospitaletto 🇮🇹 vs Renate 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Ospitaletto 🇮🇹_vs_Renate 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Ospitaletto 🇮🇹 vs Renate 🇮🇹 (20:30)
-https://dlhd.st/watch.php?id=24
+#EXTINF:-1 tvg-id="italyseriecleccovsunionbrescia" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Lecco 🇮🇹_vs_Union Brescia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Lecco 🇮🇹 vs Union Brescia 🇮🇹 (12:30)
+https://dlhd.st/watch.php?id=460
 
-#EXTINF:-1 tvg-id="italyseriecprovercellivsathleticcarpi" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Pro Vercelli 🇮🇹 vs Athletic Carpi 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Pro Vercelli 🇮🇹_vs_Athletic Carpi 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Pro Vercelli 🇮🇹 vs Athletic Carpi 🇮🇹 (20:30)
-https://dlhd.st/watch.php?id=26
+#EXTINF:-1 tvg-id="italyseriectrevisovsgianaerminio" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Treviso 🇮🇹 vs Giana Erminio 🇮🇹 (12:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Treviso 🇮🇹_vs_Giana Erminio 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Treviso 🇮🇹 vs Giana Erminio 🇮🇹 (12:30)
+https://dlhd.st/watch.php?id=14
 
-#EXTINF:-1 tvg-id="italyserieccataniavscrotone" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Catania 🇮🇹 vs Crotone 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Catania 🇮🇹_vs_Crotone 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Catania 🇮🇹 vs Crotone 🇮🇹 (20:30)
-https://dlhd.st/watch.php?id=25
+#EXTINF:-1 tvg-id="italyserieccampobassovssassaritorres" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Campobasso 🇮🇹 vs Sassari Torres 🇮🇹 (14:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Campobasso 🇮🇹_vs_Sassari Torres 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Campobasso 🇮🇹 vs Sassari Torres 🇮🇹 (14:30)
+https://dlhd.st/watch.php?id=157
 
-#EXTINF:-1 tvg-id="italyserieccataniavscrotone" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Catania 🇮🇹 vs Crotone 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Catania 🇮🇹_vs_Crotone 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Catania 🇮🇹 vs Crotone 🇮🇹 (20:30)
+#EXTINF:-1 tvg-id="italyseriecnuovamonterosivspineto" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Nuova Monterosi 🇮🇹 vs Pineto 🇮🇹 (14:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Nuova Monterosi 🇮🇹_vs_Pineto 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Nuova Monterosi 🇮🇹 vs Pineto 🇮🇹 (14:30)
+https://dlhd.st/watch.php?id=13
+
+#EXTINF:-1 tvg-id="italyseriecpianesevsravenna" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Pianese 🇮🇹 vs Ravenna 🇮🇹 (14:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Pianese 🇮🇹_vs_Ravenna 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Pianese 🇮🇹 vs Ravenna 🇮🇹 (14:30)
+https://dlhd.st/watch.php?id=158
+
+#EXTINF:-1 tvg-id="italyserieccosenzavsfoggia" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹 (14:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cosenza 🇮🇹_vs_Foggia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹 (14:30)
+https://dlhd.st/watch.php?id=159
+
+#EXTINF:-1 tvg-id="italyserieccosenzavsfoggia" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹 (14:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Cosenza 🇮🇹_vs_Foggia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Cosenza 🇮🇹 vs Foggia 🇮🇹 (14:30)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="italyserieafemminilemilanvsjuventus" tvg-name="All Soccer Events ⚽ | ⚽ Italy Serie A Femminile : Milan 🇮🇹 vs Juventus 🇮🇹 (15:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Milan 🇮🇹_vs_Juventus 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy Serie A Femminile : Milan 🇮🇹 vs Juventus 🇮🇹 (15:00)
+https://dlhd.st/watch.php?id=877
+
+#EXTINF:-1 tvg-id="uefanationsleagueazerbaijanvslithuania" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Lithuania 🇱🇹 (15:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Azerbaijan 🇦🇿_vs_Lithuania 🇱🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Azerbaijan 🇦🇿 vs Lithuania 🇱🇹 (15:00)
+https://dlhd.st/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsnovara" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹 (17:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Dolomiti Bellunesi 🇮🇹_vs_Novara 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹 (17:30)
+https://dlhd.st/watch.php?id=158
+
+#EXTINF:-1 tvg-id="italyseriecdolomitibellunesivsnovara" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹 (17:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Dolomiti Bellunesi 🇮🇹_vs_Novara 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Dolomiti Bellunesi 🇮🇹 vs Novara 🇮🇹 (17:30)
 https://dlhd.st/watch.php?id=462
 
-#EXTINF:-1 tvg-id="uefanationsleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast (20:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast (20:45)
+#EXTINF:-1 tvg-id="italyseriecreggianavsspezia" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹 (17:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Reggiana 🇮🇹_vs_Spezia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹 (17:30)
+https://dlhd.st/watch.php?id=159
+
+#EXTINF:-1 tvg-id="italyseriecreggianavsspezia" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹 (17:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Reggiana 🇮🇹_vs_Spezia 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Reggiana 🇮🇹 vs Spezia 🇮🇹 (17:30)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="uefanationsleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast 🌍 (18:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast 🌍 (18:00)
 https://dlhd.st/watch.php?id=870
 
-#EXTINF:-1 tvg-id="uefanationsleaguespainvsczechrepublic" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Spain 🇪🇸 vs Czech Republic 🇨🇿 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Spain 🇪🇸_vs_Czech Republic 🇨🇿.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Spain 🇪🇸 vs Czech Republic 🇨🇿 (20:45)
-https://dlhd.st/watch.php?id=15
+#EXTINF:-1 tvg-id="uefanationsleaguekosovovsaustria" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Kosovo 🇽🇰 vs Austria 🇦🇹 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Kosovo 🇽🇰_vs_Austria 🇦🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Kosovo 🇽🇰 vs Austria 🇦🇹 (18:00)
+https://dlhd.st/watch.php?id=6
 
-#EXTINF:-1 tvg-id="uefanationsleaguespainvsczechrepublic" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Spain 🇪🇸 vs Czech Republic 🇨🇿 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Spain 🇪🇸_vs_Czech Republic 🇨🇿.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Spain 🇪🇸 vs Czech Republic 🇨🇿 (20:45)
+#EXTINF:-1 tvg-id="uefanationsleaguemaltavsandorra" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Malta 🇲🇹 vs Andorra 🇦🇩 (18:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Malta 🇲🇹_vs_Andorra 🇦🇩.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Malta 🇲🇹 vs Andorra 🇦🇩 (18:00)
+https://dlhd.st/watch.php?id=13
+
+#EXTINF:-1 tvg-id="italyseriecalcionevstrento" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Alcione 🇮🇹 vs Trento 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Alcione 🇮🇹_vs_Trento 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Alcione 🇮🇹 vs Trento 🇮🇹 (20:30)
+https://dlhd.st/watch.php?id=6
+
+#EXTINF:-1 tvg-id="italyserieclatinavsostiamarelidocalcio" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Latina 🇮🇹 vs Ostia Mare Lidocalcio 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Latina 🇮🇹_vs_Ostia Mare Lidocalcio 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Latina 🇮🇹 vs Ostia Mare Lidocalcio 🇮🇹 (20:30)
+https://dlhd.st/watch.php?id=157
+
+#EXTINF:-1 tvg-id="italyseriecaudacecerignolavsteamaltamura" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Audace Cerignola 🇮🇹 vs Team Altamura 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Audace Cerignola 🇮🇹_vs_Team Altamura 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Audace Cerignola 🇮🇹 vs Team Altamura 🇮🇹 (20:30)
+https://dlhd.st/watch.php?id=13
+
+#EXTINF:-1 tvg-id="italyseriecpotenzacalciovspicerno" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Potenza Calcio 🇮🇹 vs Picerno 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Potenza Calcio 🇮🇹_vs_Picerno 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Potenza Calcio 🇮🇹 vs Picerno 🇮🇹 (20:30)
+https://dlhd.st/watch.php?id=158
+
+#EXTINF:-1 tvg-id="italyseriecsalernitanavsbari1908" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Salernitana 🇮🇹_vs_Bari 1908 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹 (20:30)
+https://dlhd.st/watch.php?id=159
+
+#EXTINF:-1 tvg-id="italyseriecsalernitanavsbari1908" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Salernitana 🇮🇹_vs_Bari 1908 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹 (20:30)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="italyseriecsalernitanavsbari1908" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Salernitana 🇮🇹_vs_Bari 1908 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie C : Salernitana 🇮🇹 vs Bari 1908 🇮🇹 (20:30)
 https://dlhd.st/watch.php?id=461
 
-#EXTINF:-1 tvg-id="uciworldcupmountainbikinglakeplacidwomenscrosscountryolympic" tvg-name="Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Cross-Country Olympic 🇺🇸 (19:45)" tvg-logo="https://www.tripsavvy.com/thmb/8hSyNm0dUTXbzbhgqZD0vS2NO2Y=/2121x1414/filters:fill(auto,1)/LakeLouise_GettyImages-6b1e83ecabbb423c9cc66ea024c0e6bf.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Cross-Country Olympic 🇺🇸 (19:45)
+#EXTINF:-1 tvg-id="uefanationsleaguesimulcast" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast 🌍 (20:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Simulcast 🌍 (20:45)
+https://dlhd.st/watch.php?id=870
+
+#EXTINF:-1 tvg-id="uefanationsleagueportugalvsnorway" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Portugal 🇵🇹_vs_Norway 🇳🇴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴 (20:45)
+https://dlhd.st/watch.php?id=462
+
+#EXTINF:-1 tvg-id="uefanationsleagueportugalvsnorway" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Portugal 🇵🇹_vs_Norway 🇳🇴.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Portugal 🇵🇹 vs Norway 🇳🇴 (20:45)
+https://dlhd.st/watch.php?id=4
+
+#EXTINF:-1 tvg-id="uefanationsleaguegreecevsgermany" tvg-name="All Soccer Events ⚽ | ⚽ UEFA Nations League : Greece 🇬🇷 vs Germany 🇩🇪 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Greece 🇬🇷_vs_Germany 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ UEFA Nations League : Greece 🇬🇷 vs Germany 🇩🇪 (20:45)
+https://dlhd.st/watch.php?id=460
+
+#EXTINF:-1 tvg-id="beijingatpquarterfinalsbeijingwta3rdroundtokyoatpquarterfinals" tvg-name="Tennis 🎾 | 🎾 Beijing-ATP Quarterfinals; Beijing-WTA 3rd Round; Tokyo-ATP Quarterfinals 🇨🇳🇯🇵 (12:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Tennis 🎾 | 🎾 Beijing-ATP Quarterfinals; Beijing-WTA 3rd Round; Tokyo-ATP Quarterfinals 🇨🇳🇯🇵 (12:00)
+https://dlhd.st/watch.php?id=576
+
+#EXTINF:-1 tvg-id="shenzhenopenfinal" tvg-name="Snooker 🎱 | 🎱 Shenzhen Open | Final 🇨🇳 (13:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Snooker 🎱 | 🎱 Shenzhen Open | Final 🇨🇳 (13:30)
+https://dlhd.st/watch.php?id=879
+
+#EXTINF:-1 tvg-id="cyclingeuropeanchampionshipsljubljanaelitemen" tvg-name="Cycling 🚴 | 🚴 Cycling. European Championships Ljubljana: Elite Men 🇸🇮 (13:30)" tvg-logo="https://static.wikia.nocookie.net/elite-netflix/images/2/2c/Season_1_Poster.jpg/revision/latest?cb=20190816175812" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Cycling. European Championships Ljubljana: Elite Men 🇸🇮 (13:30)
+https://dlhd.st/watch.php?id=882
+
+#EXTINF:-1 tvg-id="uciworldcupmountainbikinglakeplacidwomensdownhillfinal" tvg-name="Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Downhill Final 🇺🇸 (18:30)" tvg-logo="https://wallpaperaccess.com/full/1223877.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Women's Downhill Final 🇺🇸 (18:30)
 https://dlhd.st/watch.php?id=878
 
-#EXTINF:-1 tvg-id="uciworldcupmountainbikinglakeplacidmenscrosscountryolympic" tvg-name="Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Men's Cross-Country Olympic 🇺🇸 (21:30)" tvg-logo="https://www.tripsavvy.com/thmb/8hSyNm0dUTXbzbhgqZD0vS2NO2Y=/2121x1414/filters:fill(auto,1)/LakeLouise_GettyImages-6b1e83ecabbb423c9cc66ea024c0e6bf.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Men's Cross-Country Olympic 🇺🇸 (21:30)
+#EXTINF:-1 tvg-id="uciworldcupmountainbikinglakeplacidmensdownhillfinal" tvg-name="Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Men's Downhill Final 🇺🇸 (20:00)" tvg-logo="https://wallpaperaccess.com/full/1223877.jpg" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 UCI World Cup Mountain Biking : Lake Placid: Men's Downhill Final 🇺🇸 (20:00)
 https://dlhd.st/watch.php?id=878
 
-#EXTINF:-1 tvg-id="seriea1finecomonzawvsfirenzew" tvg-name="Volleyball 🏐 | 🏐 Serie A1 Fineco : Monza W 🇮🇹 vs Firenze W 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Monza W 🇮🇹_vs_Firenze W 🇮🇹.png" group-title="Eventi Live DLHD",Volleyball 🏐 | 🏐 Serie A1 Fineco : Monza W 🇮🇹 vs Firenze W 🇮🇹 (20:30)
+#EXTINF:-1 tvg-id="arcdetriompheprize" tvg-name="Horse Racing 🏇 | 🐎 Arc de Triomphe Prize 🇫🇷 (22:30)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Horse Racing 🏇 | 🐎 Arc de Triomphe Prize 🇫🇷 (22:30)
 https://dlhd.st/watch.php?id=882
 
