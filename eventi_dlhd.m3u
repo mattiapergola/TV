@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="uefanationsleaguekazakhstanvsfaroeislands" tvg-name="UEFA Nations League Soccer 🏆⚽ | 🏆 UEFA Nations League : Kazakhstan 🇰🇿 vs Faroe Islands 🇫🇴 (16:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Kazakhstan 🇰🇿_vs_Faroe Islands 🇫🇴.png" group-title="Eventi Live DLHD",UEFA Nations League Soccer 🏆⚽ | 🏆 UEFA Nations League : Kazakhstan 🇰🇿 vs Faroe Islands 🇫🇴 (16:00)
-https://dlhd.st/watch.php?id=870
-
 #EXTINF:-1 tvg-id="uefanationsleaguesimulcast" tvg-name="UEFA Nations League Soccer 🏆⚽ | 🏆 UEFA Nations League : Simulcast (20:45)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",UEFA Nations League Soccer 🏆⚽ | 🏆 UEFA Nations League : Simulcast (20:45)
 https://dlhd.st/watch.php?id=870
 
@@ -16,16 +13,4 @@ https://dlhd.st/watch.php?id=7
 
 #EXTINF:-1 tvg-id="uefanationsleaguecroatiavsspain" tvg-name="UEFA Nations League Soccer 🏆⚽ | 🏆 UEFA Nations League : Croatia 🇭🇷 vs Spain 🇪🇸 (20:45)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Croatia 🇭🇷_vs_Spain 🇪🇸.png" group-title="Eventi Live DLHD",UEFA Nations League Soccer 🏆⚽ | 🏆 UEFA Nations League : Croatia 🇭🇷 vs Spain 🇪🇸 (20:45)
 https://dlhd.st/watch.php?id=461
-
-#EXTINF:-1 tvg-id="eurocupbuducnostvsbasketnapoli" tvg-name="Basketball 🏀 | 🏀 Eurocup : 🇲🇪 Buducnost vs 🇮🇹 Basket Napoli (19:00)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/🇲🇪 Buducnost_vs_🇮🇹 Basket Napoli.png" group-title="Eventi Live DLHD",Basketball 🏀 | 🏀 Eurocup : 🇲🇪 Buducnost vs 🇮🇹 Basket Napoli (19:00)
-https://dlhd.st/watch.php?id=15
-
-#EXTINF:-1 tvg-id="womenscyclingbinchechimaybincherace" tvg-name="Cycling 🚴 | 🚴 Women's Cycling: 🇧🇪 Binche-Chimay-Binche Race (13:35)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Women's Cycling: 🇧🇪 Binche-Chimay-Binche Race (13:35)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="europeanchampionshipsljubljana2026mixedteamtimetrial" tvg-name="Cycling 🚴 | 🚴 European Championships - 🇸🇮 Ljubljana 2026 mixed team time trial (15:20)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 European Championships - 🇸🇮 Ljubljana 2026 mixed team time trial (15:20)
-https://dlhd.st/watch.php?id=878
-
-#EXTINF:-1 tvg-id="cyclingtrevallivaresine" tvg-name="Cycling 🚴 | 🚴 Cycling: 🇮🇹 Tre Valli Varesine (15:25)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live DLHD",Cycling 🚴 | 🚴 Cycling: 🇮🇹 Tre Valli Varesine (15:25)
-https://dlhd.st/watch.php?id=878
 
