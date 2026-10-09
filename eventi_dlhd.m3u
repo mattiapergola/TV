@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="germanybundesliga2heidenheimvskaiserslautern" tvg-name="All Soccer Events ⚽ | ⚽ Germany - Bundesliga 2 : Heidenheim 🇩🇪 vs Kaiserslautern 🇩🇪 (18:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Heidenheim 🇩🇪_vs_Kaiserslautern 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Germany - Bundesliga 2 : Heidenheim 🇩🇪 vs Kaiserslautern 🇩🇪 (18:30)
-https://dlhd.st/watch.php?id=461
-
 #EXTINF:-1 tvg-id="germanybundesligaborussiadortmundvswerderbremen" tvg-name="All Soccer Events ⚽ | ⚽ Germany - Bundesliga : Borussia Dortmund 🇩🇪 vs Werder Bremen 🇩🇪 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Borussia Dortmund 🇩🇪_vs_Werder Bremen 🇩🇪.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Germany - Bundesliga : Borussia Dortmund 🇩🇪 vs Werder Bremen 🇩🇪 (20:30)
 https://dlhd.st/watch.php?id=870
 
@@ -16,21 +13,6 @@ https://dlhd.st/watch.php?id=461
 
 #EXTINF:-1 tvg-id="italyseriebavellinovssampdoria" tvg-name="All Soccer Events ⚽ | ⚽ Italy - Serie B : Avellino 🇮🇹 vs Sampdoria 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Avellino 🇮🇹_vs_Sampdoria 🇮🇹.png" group-title="Eventi Live DLHD",All Soccer Events ⚽ | ⚽ Italy - Serie B : Avellino 🇮🇹 vs Sampdoria 🇮🇹 (20:30)
 https://dlhd.st/watch.php?id=55
-
-#EXTINF:-1 tvg-id="fifawomensworldcupqualifyingbelarusvsitaly" tvg-name="FIFA Women's World Cup ⚽ | ⚽ FIFA Women's World Cup Qualifying : Belarus 🇧🇾 vs Italy 🇮🇹 (18:15)" tvg-logo="https://pathfinders-travel.com/wp-content/uploads/2025/07/Wonders-of-Italy-Thumbnail-1024x576.png" group-title="Eventi Live DLHD",FIFA Women's World Cup ⚽ | ⚽ FIFA Women's World Cup Qualifying : Belarus 🇧🇾 vs Italy 🇮🇹 (18:15)
-https://dlhd.st/watch.php?id=851
-
-#EXTINF:-1 tvg-id="formula1singaporegppractice1" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Singapore GP - Practice 1 (10:30)" tvg-logo="https://static.thehoneycombers.com/wp-content/uploads/sites/2/2022/01/sunrise-and-sunset-in-singapore-marina-bay-900x643.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Singapore GP - Practice 1 (10:30)
-https://dlhd.st/watch.php?id=577
-
-#EXTINF:-1 tvg-id="formula1singaporegpqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Singapore GP - Qualifying (14:30)" tvg-logo="https://static.thehoneycombers.com/wp-content/uploads/sites/2/2022/01/sunrise-and-sunset-in-singapore-marina-bay-900x643.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Singapore GP - Qualifying (14:30)
-https://dlhd.st/watch.php?id=5094
-
-#EXTINF:-1 tvg-id="formula1singaporegpqualifying" tvg-name="Motorsport 🏎️🏁 | 🏎️ Formula 1 : Singapore GP - Qualifying (14:30)" tvg-logo="https://static.thehoneycombers.com/wp-content/uploads/sites/2/2022/01/sunrise-and-sunset-in-singapore-marina-bay-900x643.png" group-title="Eventi Live DLHD",Motorsport 🏎️🏁 | 🏎️ Formula 1 : Singapore GP - Qualifying (14:30)
-https://dlhd.st/watch.php?id=577
-
-#EXTINF:-1 tvg-id="judowomens78kgandmens100kgfinalsjudoworldchampionshipbaku" tvg-name="Combat sports 🥋 | 🥋 Judo: Women's 78kg and Men's -100kg Finals - Judo World Championship, Baku (16:00)" tvg-logo="https://soul-sanctuaries.com/wp-content/uploads/2024/05/secretly-popular-women.jpg" group-title="Eventi Live DLHD",Combat sports 🥋 | 🥋 Judo: Women's 78kg and Men's -100kg Finals - Judo World Championship, Baku (16:00)
-https://dlhd.st/watch.php?id=882
 
 #EXTINF:-1 tvg-id="serieanapolivsl84" tvg-name="Futsal ⚽ | ⚽ Serie A : Napoli 🇮🇹 vs L84 🇮🇹 (20:30)" tvg-logo="https://raw.githubusercontent.com/mattiapergola/TV/main/logos/Napoli 🇮🇹_vs_L84 🇮🇹.png" group-title="Eventi Live DLHD",Futsal ⚽ | ⚽ Serie A : Napoli 🇮🇹 vs L84 🇮🇹 (20:30)
 https://dlhd.st/watch.php?id=460
